@@ -1,0 +1,326 @@
+Mobs:
+  BAT:
+    Display Name: Fleadrmaus
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  BEE:
+    Display Name: Bia
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: Loha
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  CAT:
+    Display Name: Khatz
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: Hehlaschbinna
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: Gockl
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  COD:
+    Display Name: Dorsch
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  COW:
+    Display Name: Kuah
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: Kripr
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: Delfin
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: Esl
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: Ertrunkener
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: Groasr Aufbassr
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: "Endrm\xE5"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: Endrmite
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: Endrdracha
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: Magier
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  FOX:
+    Display Name: Fuchs
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  GHAST:
+    Display Name: Ghaschd
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  GIANT:
+    Display Name: Lackl
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: Aufbassa
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  HORSE:
+    Display Name: Ros
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  HUSK:
+    Display Name: Wiaschdazombi
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: Illusionischd
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: Eisagolem
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: Lama
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: Magmaklotz
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  MULE:
+    Display Name: Muli
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: Wildkhatz
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PANDA:
+    Display Name: Banda
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PARROT:
+    Display Name: Bapagei
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: Fantom
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PIG:
+    Display Name: Suckl
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: "Pl\xFCnderer"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: "Eisb\xE4r"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: Kuglfisch
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: Has
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: "Verw\xFCster"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SALMON:
+    Display Name: Lacks
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: "Sch\xE5f"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: Kapslr
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: Silbrfischle
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: Schgelett
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: Schgelettros
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SLIME:
+    Display Name: "B\xE4z"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: Schbinna
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SQUID:
+    Display Name: Tintafisch
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  STRAY:
+    Display Name: Eiswanderer
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: "H\xE4ndlerlama"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: Dropafisch
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: Schildkrott
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  VEX:
+    Display Name: "Bl\xE5ggaischd"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: Derflar
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: Dianr
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: "Fahrender H\xE4ndler"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  WITCH:
+    Display Name: Hex
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  WITHER:
+    Display Name: Withr
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: Withrschgelett
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  WOLF:
+    Display Name: Wolf
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: Zombi
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: Zombiros
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: Derflarzombi
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1

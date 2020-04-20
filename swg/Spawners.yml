@@ -1,0 +1,196 @@
+Spawners:
+  BAT:
+    Display Name: Fleadrmaus
+    Max Stack Size: -1
+  BEE:
+    Display Name: Bia
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: Loha
+    Max Stack Size: -1
+  CAT:
+    Display Name: Khatz
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: Hehlaschbinna
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: Gockl
+    Max Stack Size: -1
+  COD:
+    Display Name: Dorsch
+    Max Stack Size: -1
+  COW:
+    Display Name: Kuah
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: Kripr
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: Delfin
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: Esl
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: Ertrunkener
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: Groasr Aufbassr
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: "Endrm\xE5"
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: Endrmite
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: Endrdracha
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: Magier
+    Max Stack Size: -1
+  FOX:
+    Display Name: Fuchs
+    Max Stack Size: -1
+  GHAST:
+    Display Name: Ghaschd
+    Max Stack Size: -1
+  GIANT:
+    Display Name: Lackl
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: Aufbassa
+    Max Stack Size: -1
+  HORSE:
+    Display Name: Ros
+    Max Stack Size: -1
+  HUSK:
+    Display Name: Wiaschdazombi
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: Illusionischd
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: Eisagolem
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: Lama
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: Magmaklotz
+    Max Stack Size: -1
+  MULE:
+    Display Name: Muli
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: Wildkhatz
+    Max Stack Size: -1
+  PANDA:
+    Display Name: Banda
+    Max Stack Size: -1
+  PARROT:
+    Display Name: Bapagei
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: Fantom
+    Max Stack Size: -1
+  PIG:
+    Display Name: Suckl
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: "Pl\xFCnderer"
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: "Eisb\xE4r"
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: Kuglfisch
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: Has
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: "Verw\xFCster"
+    Max Stack Size: -1
+  SALMON:
+    Display Name: Lacks
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: "Sch\xE5f"
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: Kapslr
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: Silbrfischle
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: Schgelett
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: Schgelettros
+    Max Stack Size: -1
+  SLIME:
+    Display Name: "B\xE4z"
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: Schbinna
+    Max Stack Size: -1
+  SQUID:
+    Display Name: Tintafisch
+    Max Stack Size: -1
+  STRAY:
+    Display Name: Eiswanderer
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: "H\xE4ndlerlama"
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: Dropafisch
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: Schildkrott
+    Max Stack Size: -1
+  VEX:
+    Display Name: "Bl\xE5ggaischd"
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: Derflar
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: Dianr
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: "Fahrender H\xE4ndler"
+    Max Stack Size: -1
+  WITCH:
+    Display Name: Hex
+    Max Stack Size: -1
+  WITHER:
+    Display Name: Withr
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: Withrschgelett
+    Max Stack Size: -1
+  WOLF:
+    Display Name: Wolf
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: Zombi
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: Zombiros
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: Derflarzombi
+    Max Stack Size: -1

@@ -1,0 +1,196 @@
+Spawners:
+  BAT:
+    Display Name: Ratpenat
+    Max Stack Size: -1
+  BEE:
+    Display Name: Abella
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: Flama
+    Max Stack Size: -1
+  CAT:
+    Display Name: Gat
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: Aranya de cova
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: Pollastre
+    Max Stack Size: -1
+  COD:
+    Display Name: Abadejo
+    Max Stack Size: -1
+  COW:
+    Display Name: Vaca
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: Creeper
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: "Dof\xED"
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: Ase
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: Ofegat
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: "Gran guardi\xE0 de les profunditats"
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: Home de la Fi
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: "T\xE8rmit de la Fi"
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: Drac de la Fi
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: Evocador
+    Max Stack Size: -1
+  FOX:
+    Display Name: Rabosa
+    Max Stack Size: -1
+  GHAST:
+    Display Name: Ghast
+    Max Stack Size: -1
+  GIANT:
+    Display Name: Gegant
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: "Guardi\xE0 de les profunditats"
+    Max Stack Size: -1
+  HORSE:
+    Display Name: Cavall
+    Max Stack Size: -1
+  HUSK:
+    Display Name: "M\xF2mia"
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: "Il\xB7lusionista"
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: "Guardi\xE0 de ferro"
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: Llama
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: Cub de magma
+    Max Stack Size: -1
+  MULE:
+    Display Name: Mula
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: Ocelot
+    Max Stack Size: -1
+  PANDA:
+    Display Name: Panda
+    Max Stack Size: -1
+  PARROT:
+    Display Name: Lloro
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: "\xC0nima"
+    Max Stack Size: -1
+  PIG:
+    Display Name: Porc
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: Bandit
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: "\xD3s polar"
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: Peix globus
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: Conill
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: "B\xE8stia dels bandits"
+    Max Stack Size: -1
+  SALMON:
+    Display Name: "Salm\xF3"
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: Ovella
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: Shulker
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: Peixet de plata
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: Esquelet
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: "Cavall esquel\xE8tic"
+    Max Stack Size: -1
+  SLIME:
+    Display Name: Cub de llim
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: Aranya
+    Max Stack Size: -1
+  SQUID:
+    Display Name: Calamar
+    Max Stack Size: -1
+  STRAY:
+    Display Name: Esquelet glacial
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: "Llama de c\xE0rrega"
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: Peix tropical
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: Tortuga marina
+    Max Stack Size: -1
+  VEX:
+    Display Name: Esperit
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: "Vilat\xE0"
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: Defensor
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: Comerciant
+    Max Stack Size: -1
+  WITCH:
+    Display Name: Bruixa
+    Max Stack Size: -1
+  WITHER:
+    Display Name: Exorcisme d'esquelet de l'Infern
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: Esquelet de l'infern
+    Max Stack Size: -1
+  WOLF:
+    Display Name: Llop
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: Zombi
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: Cavall zombi
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: "Vilat\xE0 zombi"
+    Max Stack Size: -1

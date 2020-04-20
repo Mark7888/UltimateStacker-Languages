@@ -1,0 +1,196 @@
+Spawners:
+  BAT:
+    Display Name: lIrHom
+    Max Stack Size: -1
+  BEE:
+    Display Name: '''aw''bogh ghew'
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: qul yagh
+    Max Stack Size: -1
+  CAT:
+    Display Name: vIghro'
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: DIS ghew naS
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: '''uSgheb'
+    Max Stack Size: -1
+  COD:
+    Display Name: ghotI' motlh
+    Max Stack Size: -1
+  COW:
+    Display Name: tangqa'
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: tambogh tlha'wI'
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: bIQDep
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: Hun
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: yInbogh lom yIQ
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: '''avwI'' qan'
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: van loD
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: vanwI' ghew
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: puvbogh van lung'a'
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: reSwI'
+    Max Stack Size: -1
+  FOX:
+    Display Name: Soro
+    Max Stack Size: -1
+  GHAST:
+    Display Name: qa''a'
+    Max Stack Size: -1
+  GIANT:
+    Display Name: tInbogh 'ej wochbogh loD
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: '''avwI'''
+    Max Stack Size: -1
+  HORSE:
+    Display Name: Sargh
+    Max Stack Size: -1
+  HUSK:
+    Display Name: yInbogh lom QaD
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: Mapangarapin
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: '''uSqan velqa'' nuv'
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: HuD bolmaq'a'
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: vaHbo' HuH
+    Max Stack Size: -1
+  MULE:
+    Display Name: Mola
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: vIghro''a'
+    Max Stack Size: -1
+  PANDA:
+    Display Name: Panda
+    Max Stack Size: -1
+  PARROT:
+    Display Name: vIlInHoD
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: Qongbe'wI' jagh
+    Max Stack Size: -1
+  PIG:
+    Display Name: targh
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: weHwI'
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: bIr SIQ
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: lunbogh ghotI'
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: SupwI'Hom
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: Ravager
+    Max Stack Size: -1
+  SALMON:
+    Display Name: Salmon
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: bolmaq
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: So' buq'Ir
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: ghotI' boch
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: Hom loD
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: Kabayong Kalansay
+    Max Stack Size: -1
+  SLIME:
+    Display Name: HuH
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: ghew naS
+    Max Stack Size: -1
+  SQUID:
+    Display Name: rItlh qIj bIQDep
+    Max Stack Size: -1
+  STRAY:
+    Display Name: wa' leng 'Iv
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: Liyama ng Mangangalakal
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: Tropikal na Isda
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: la'SIv
+    Max Stack Size: -1
+  VEX:
+    Display Name: Gugulo
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: vengHom ghot
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: Tatanggol
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: Naglalakbay Mangangalakal
+    Max Stack Size: -1
+  WITCH:
+    Display Name: HoS le' pIn'a'
+    Max Stack Size: -1
+  WITHER:
+    Display Name: QaD
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: Hurgh Hom
+    Max Stack Size: -1
+  WOLF:
+    Display Name: ghar
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: yInbogh lom
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: yInbogh Sargh lom
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: yInbogh lom vengHom ghot
+    Max Stack Size: -1
