@@ -1,0 +1,196 @@
+Spawners:
+  BAT:
+    Display Name: "\u02BB\u014Cpe\u02BBape\u02BBa"
+    Max Stack Size: -1
+  BEE:
+    Display Name: Nalo Meli
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: Lossyr
+    Max Stack Size: -1
+  CAT:
+    Display Name: "P\u014Dp\u014Dki"
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: Doo-oallee Ooig
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: Moa
+    Max Stack Size: -1
+  COD:
+    Display Name: Bacallau
+    Max Stack Size: -1
+  COW:
+    Display Name: Pipi
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: Creeper
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: "Golfi\xF1o"
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: "K\u0113kake"
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: Afogado
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: "Gardi\xE1n anci\xE1n"
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: Jerreyder
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: Endermite
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: Dragan y Jerree
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: Invocador
+    Max Stack Size: -1
+  FOX:
+    Display Name: Fauho
+    Max Stack Size: -1
+  GHAST:
+    Display Name: Gowl
+    Max Stack Size: -1
+  GIANT:
+    Display Name: Foawr
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: Kahu
+    Max Stack Size: -1
+  HORSE:
+    Display Name: Marhs
+    Max Stack Size: -1
+  HUSK:
+    Display Name: Momia
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: Ilusionista
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: Goalam Yiarn
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: Llama
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: Kioob Leavey
+    Max Stack Size: -1
+  MULE:
+    Display Name: Miula
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: "P\u014Dp\u014Dki hihiu"
+    Max Stack Size: -1
+  PANDA:
+    Display Name: Pandabaira
+    Max Stack Size: -1
+  PARROT:
+    Display Name: "P\u0101loke"
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: Skohsl
+    Max Stack Size: -1
+  PIG:
+    Display Name: "Pua\u02BBa"
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: Maleante
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: Oso polar
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: "\u0100k\u0113k\u0113"
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: "L\u0101paki"
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: Devastador
+    Max Stack Size: -1
+  SALMON:
+    Display Name: Salmo
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: Hipa
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: Kulekela
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: Gillieen
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: Ushylagh
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: Iwi kanaka lio
+    Max Stack Size: -1
+  SLIME:
+    Display Name: Glooie
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: Nananana
+    Max Stack Size: -1
+  SQUID:
+    Display Name: "M\u016Bhe\u02BBe"
+    Max Stack Size: -1
+  STRAY:
+    Display Name: Esqueleto glacial
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: Lewjins Lama
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: Peixe tropical
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: Tartaruga
+    Max Stack Size: -1
+  VEX:
+    Display Name: "\xC1nima"
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: Theayagh
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: Vindicador
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: Farands Lewja
+    Max Stack Size: -1
+  WITCH:
+    Display Name: "Buit\xE7h"
+    Max Stack Size: -1
+  WITHER:
+    Display Name: Shirgeyder
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: Esqueleto Wither
+    Max Stack Size: -1
+  WOLF:
+    Display Name: "\u02BB\u012Blio hae"
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: Corp fo Ghruiaghtys
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: "Huaka\u02BBi p\u014D lio"
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: "Zombi alde\xE1n"
+    Max Stack Size: -1

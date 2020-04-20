@@ -1,0 +1,196 @@
+Spawners:
+  BAT:
+    Display Name: Saguzar
+    Max Stack Size: -1
+  BEE:
+    Display Name: Erle
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: Sutzarra
+    Max Stack Size: -1
+  CAT:
+    Display Name: Katua
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: Leizeetako armiarma
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: Oilaskoa
+    Max Stack Size: -1
+  COD:
+    Display Name: Bakailaoa
+    Max Stack Size: -1
+  COW:
+    Display Name: Behia
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: Creeper
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: Izurdea
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: Astoa
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: Itota
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: Zaintzaile Nagusia
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: Enderman
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: Endermitea
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: Amaierako herensugea
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: Inbokatzailea
+    Max Stack Size: -1
+  FOX:
+    Display Name: Azeria
+    Max Stack Size: -1
+  GHAST:
+    Display Name: Mamutxa
+    Max Stack Size: -1
+  GIANT:
+    Display Name: Erraldoia
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: Gordetzaile
+    Max Stack Size: -1
+  HORSE:
+    Display Name: Zaldia
+    Max Stack Size: -1
+  HUSK:
+    Display Name: Desidratatua
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: Ilusionista
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: Burdin golema
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: Llama
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: Magma ontzia
+    Max Stack Size: -1
+  MULE:
+    Display Name: Mandoa
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: Ozelotea
+    Max Stack Size: -1
+  PANDA:
+    Display Name: Panda
+    Max Stack Size: -1
+  PARROT:
+    Display Name: Loroa
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: Mamua
+    Max Stack Size: -1
+  PIG:
+    Display Name: Txerria
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: Arpilatzailea
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: Hartz Polarra
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: Globo arraina
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: Untxia
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: Suntsitzailea
+    Max Stack Size: -1
+  SALMON:
+    Display Name: Izokina
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: Ardia
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: Shulker
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: Zilar-arraina
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: Eskeletoa
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: Eskeleto zaldia
+    Max Stack Size: -1
+  SLIME:
+    Display Name: Likatia
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: Armiarma
+    Max Stack Size: -1
+  SQUID:
+    Display Name: Txibia
+    Max Stack Size: -1
+  STRAY:
+    Display Name: Galdua
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: Llama ibiltaria
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: Arrain tropikala
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: Dortoka
+    Max Stack Size: -1
+  VEX:
+    Display Name: Arima
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: Herritarra
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: Erasotzaile
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: Saltzaile ibiltaria
+    Max Stack Size: -1
+  WITCH:
+    Display Name: Sorgin
+    Max Stack Size: -1
+  WITHER:
+    Display Name: Wither
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: Wither Eskeletoa
+    Max Stack Size: -1
+  WOLF:
+    Display Name: Otsoa
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: Zonbia
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: Zaldi zonbia
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: Zombi herritarra
+    Max Stack Size: -1
