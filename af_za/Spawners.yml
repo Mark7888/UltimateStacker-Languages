@@ -1,0 +1,196 @@
+Spawners:
+  BAT:
+    Display Name: "Vl\xEArmuis"
+    Max Stack Size: -1
+  BEE:
+    Display Name: By
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: Opvlammer
+    Max Stack Size: -1
+  CAT:
+    Display Name: Kat
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: Grotspinnekop
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: Hoender
+    Max Stack Size: -1
+  COD:
+    Display Name: Kabeljou
+    Max Stack Size: -1
+  COW:
+    Display Name: Koei
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: Creeper
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: Dolfyn
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: Donkie
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: Verdrinkte
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: Ouderling bewaker
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: Enderman
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: Endermite
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: Enderdraak
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: Oproeper
+    Max Stack Size: -1
+  FOX:
+    Display Name: Jakkals
+    Max Stack Size: -1
+  GHAST:
+    Display Name: Ghast
+    Max Stack Size: -1
+  GIANT:
+    Display Name: Reus
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: Bewaker
+    Max Stack Size: -1
+  HORSE:
+    Display Name: Perd
+    Max Stack Size: -1
+  HUSK:
+    Display Name: Dorsling
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: Illusienaar
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: Ystersoldaat
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: Llama
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: Magma Kubus
+    Max Stack Size: -1
+  MULE:
+    Display Name: Muil
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: Wildekat
+    Max Stack Size: -1
+  PANDA:
+    Display Name: Panda
+    Max Stack Size: -1
+  PARROT:
+    Display Name: Papegaai
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: Spook
+    Max Stack Size: -1
+  PIG:
+    Display Name: Vark
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: Pillager
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: Ysbeer
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: Blaasoppie
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: Konyn
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: Ravager
+    Max Stack Size: -1
+  SALMON:
+    Display Name: Salm
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: Skaap
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: Shulker
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: Vismot
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: Geraamte
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: Beenperd
+    Max Stack Size: -1
+  SLIME:
+    Display Name: Slym
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: Spinnekop
+    Max Stack Size: -1
+  SQUID:
+    Display Name: Inkvis
+    Max Stack Size: -1
+  STRAY:
+    Display Name: Dwaalgees
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: Handelaarlama
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: Tropiese Vis
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: Skilpad
+    Max Stack Size: -1
+  VEX:
+    Display Name: Ergernis
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: Dorpenaar
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: Verdediger
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: Dwaal Handelaar
+    Max Stack Size: -1
+  WITCH:
+    Display Name: Heks
+    Max Stack Size: -1
+  WITHER:
+    Display Name: Wither
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: Wither Geraamte
+    Max Stack Size: -1
+  WOLF:
+    Display Name: Wolf
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: Zombie
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: Zombie Perd
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: Zombie Dorpenaar
+    Max Stack Size: -1

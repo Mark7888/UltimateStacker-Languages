@@ -1,0 +1,196 @@
+Spawners:
+  BAT:
+    Display Name: "Slijepi mi\u0161"
+    Max Stack Size: -1
+  BEE:
+    Display Name: "P\u010Dela"
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: Plamen
+    Max Stack Size: -1
+  CAT:
+    Display Name: "Ma\u010Dka"
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: "Pe\u0107inski pauk"
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: "Koko\u0161ka"
+    Max Stack Size: -1
+  COD:
+    Display Name: Bakalar
+    Max Stack Size: -1
+  COW:
+    Display Name: Krava
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: Kriper
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: Delfin
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: Magarac
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: Utopljenik
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: "Stari \u010Duvar"
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: Endermen
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: Endermit
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: Ender zmaj
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: "Vra\u010Dar"
+    Max Stack Size: -1
+  FOX:
+    Display Name: Lisica
+    Max Stack Size: -1
+  GHAST:
+    Display Name: Ghast
+    Max Stack Size: -1
+  GIANT:
+    Display Name: Div
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: "\u010Cuvar"
+    Max Stack Size: -1
+  HORSE:
+    Display Name: Konj
+    Max Stack Size: -1
+  HUSK:
+    Display Name: Pustinjski zombi
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: Iluzionista
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: Gvozdeni golem
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: Lama
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: Kocka magme
+    Max Stack Size: -1
+  MULE:
+    Display Name: Mazga
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: "Divlja ma\u010Dka"
+    Max Stack Size: -1
+  PANDA:
+    Display Name: Panda
+    Max Stack Size: -1
+  PARROT:
+    Display Name: Papagaj
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: Fantom
+    Max Stack Size: -1
+  PIG:
+    Display Name: Svinja
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: Razbojnik
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: Polarni medvjed
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: Pumpica
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: Zec
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: "Razara\u010D"
+    Max Stack Size: -1
+  SALMON:
+    Display Name: Losos
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: Ovca
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: Shulker
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: Srebrna riba
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: Kostur
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: Kosturski konj
+    Max Stack Size: -1
+  SLIME:
+    Display Name: Sluz
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: Pauk
+    Max Stack Size: -1
+  SQUID:
+    Display Name: Lignja
+    Max Stack Size: -1
+  STRAY:
+    Display Name: Lutalica
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: Trgovac lama
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: Tropska riba
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: "Kornja\u010Da"
+    Max Stack Size: -1
+  VEX:
+    Display Name: Napast
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: Seljak
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: Osvetnik
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: "Lutaju\u0107i trgovac"
+    Max Stack Size: -1
+  WITCH:
+    Display Name: "Vje\u0161tica"
+    Max Stack Size: -1
+  WITHER:
+    Display Name: Vider
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: Vider kostur
+    Max Stack Size: -1
+  WOLF:
+    Display Name: Vuk
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: Zombi
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: Zombi konj
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: Zombi seljak
+    Max Stack Size: -1
