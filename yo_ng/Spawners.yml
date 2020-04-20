@@ -1,0 +1,203 @@
+Spawners:
+  BAT:
+    Display Name: "\u05E4\u05BF\u05DC\u05E2\u05D3\u05E2\u05E8\u05DE\u05D5\u05D9\u05D6"
+    Max Stack Size: -1
+  BEE:
+    Display Name: "\u05D1\u05D9\u05DF"
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: "\u05D8\u05D0\u05B7\u05D5\u05D6\u05DF"
+    Max Stack Size: -1
+  CAT:
+    Display Name: "\u05E7\u05D0\u05B7\u05E5"
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: "\u05D4\u05D9\u05D9\u05DC\u05E0\u05E9\u05E4\u05BC\u05D9\u05DF"
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: "\u05D4\u05D5\u05DF"
+    Max Stack Size: -1
+  COD:
+    Display Name: Cod
+    Max Stack Size: -1
+  COW:
+    Display Name: "\u05E7\u05D5"
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: "\u05E7\u05E8\u05D9\u05E4\u05BC\u05E2\u05E8"
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: "\u1EB8ja"
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: "\u05D0\u05D9\u05D9\u05D6\u05DC"
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: Ti danu
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: "\u05D2\u05E8\u05D5\u05D9\u05E1\u05E2\u05E8 \u05D3\uFB2F\u05D6\uFB2F\
+      \u05E8\u05E2"
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: "\u05E2\u05E0\u05D3\u05E2\u05E8\u05DE\uFB2E\u05DF"
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: "\u05E2\u05E0\u05D3\u05E2\u05E8\u05DE\u05D9\u05D8\u05DF"
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: "\u05E2\u05E0\u05D3\u05E2\u05E8\u05D3\u05E8\uFB2E\u05E7\uFB2F\u05DF"
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: "\u05D0\u05D5\u05D9\u05E1\u05E8\u05D5\uFB4E\u05E2\u05E8"
+    Max Stack Size: -1
+  FOX:
+    Display Name: Akata
+    Max Stack Size: -1
+  GHAST:
+    Display Name: "\u05D2\uFB2E\u05E1\u05D8"
+    Max Stack Size: -1
+  GIANT:
+    Display Name: "\u05E8\u05D9\u05D6"
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: "\u05D3\uFB2F\u05D6\uFB2F\u05E8\u05E2"
+    Max Stack Size: -1
+  HORSE:
+    Display Name: "\uFB4E\u05E2\u05E8\u05D3"
+    Max Stack Size: -1
+  HUSK:
+    Display Name: "\u05DE\u05D9\u05D3\u05D1\u05E8\u05E0\u05D9\u05E7"
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: "\u05D0\u05D9\u05DC\u05D5\u05D6\u05D9\uFB2F\u05E0\u05D9\u05E1\u05D8"
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: "\u05D0\u05F2\u05B7\u05D6\u05DF\u05BE\u05D2\u05D5\u05DC\u05DD"
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: "\u05DC\uFB2E\u05DE\u05E2"
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: "\u05DE\uFB2E\u05D2\u05DE\u05E2\u05F0\u05E2\u05E8\uFB4E\u05DC"
+    Max Stack Size: -1
+  MULE:
+    Display Name: "\u05DE\u05F1\u05DC\u05D0\u05F2\u05D6\u05DC"
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: "\uFB2F\u05E6\u05E2\u05DC\uFB2F\u05D8"
+    Max Stack Size: -1
+  PANDA:
+    Display Name: "\uFB44\uFB2E\u05E0\u05D3\u05E2"
+    Max Stack Size: -1
+  PARROT:
+    Display Name: "\uFB44\uFB2E\uFB44\u05D5\u05D2\uFB1F"
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: Alakoko
+    Max Stack Size: -1
+  PIG:
+    Display Name: "\u05E9\u05F0\uFB1F\u05DF"
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: "\u05E4\u05BC\u05D9\u05DC\u05DC\uFB2F\u05D2\u05E2\u05E8"
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: "\u05D0\uFB1F\u05D6\u05D1\u05E2\u05E8"
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: "\u05E9\u05F0\u05E2\u05DC\uFB4E\u05D9\u05E9"
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: "\u05D4\uFB2F\u05D6\u05DC"
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: "\u05DB\uFB2F\u05E8\u05E2\u05D5\u05D5 \u05DE\u05D0\u05B7\u05DB\u05DF"
+    Max Stack Size: -1
+  SALMON:
+    Display Name: "\u1EB8ja"
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: "\u05E9\uFB2F\u05E3"
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: "\u05E9\u05D5\u05DC\u05E7\u05E2\u05E8"
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: "\u05D6\u05D9\u05DC\u05D1\u05E2\u05E8\uFB4E\u05D9\u05E9\u05DC"
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: "\u05E1\u05E7\u05E2\u05DC\u05E2\u05D8"
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: "\u05E1\u05E7\u05E2\u05DC\u05E2\u05D8\uFB4E\u05E2\u05E8\u05D3"
+    Max Stack Size: -1
+  SLIME:
+    Display Name: "\u05E9\u05DC\uFB1F\u05DD"
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: "\u05E9\uFB44\u05D9\u05DF"
+    Max Stack Size: -1
+  SQUID:
+    Display Name: "\u05D8\u05D9\u05E0\u05D8\uFB4E\u05D9\u05E9"
+    Max Stack Size: -1
+  STRAY:
+    Display Name: "\u05E0\u05E2\u05BE\u05D5\u05E0\u05D3\u05E0\u05D9\u05E7"
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: "\u05D4\u05E2\u05E0\u05D3\u05DC\u05E2\u05E8\u05E1\u05DC\u05D0\u05B7\
+      \u05DE\u05E2"
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: Tropical Eja
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: "\u1EB8kuru"
+    Max Stack Size: -1
+  VEX:
+    Display Name: "\u05E1\u05E7\u05D5\u05DE\u05D1\u05D5"
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: "\u05D3\u05E2\u05E8\u05E4\u05BF\u05F2\u05B7\u05E0\u05D5\u05D5\u05D5\
+      \u05B9\u05D9\u05E0\u05E2\u05E8"
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: "\u05D3\u05D9\u05E0\u05E2\u05E8"
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: "\u05E0\u05E2-\u05D5\u05E0\u05D3\u05E2\u05E8 \u05D4\u05E2\u05E0\u05D3\
+      \u05DC\u05E2\u05E8"
+    Max Stack Size: -1
+  WITCH:
+    Display Name: "\u05DE\u05DB\u05E9\u05E4\u05BF\u05D4"
+    Max Stack Size: -1
+  WITHER:
+    Display Name: "\u05F0\u05D9\u05D3\u05E2\u05E8"
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: "\u05F0\u05D9\u05D3\u05E2\u05E8\u05E1\u05E7\u05E2\u05DC\u05E2\u05D8"
+    Max Stack Size: -1
+  WOLF:
+    Display Name: "\u05D5\u05D5\uFB2F\u05DC\u05E3"
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: "\u05D0\u05D5\u05D9\u05E4\u05BF\u05D2\u05E2\u05E9\u05D8\u05D0\u05B7\
+      \u05E0\u05E2\u05E0\u05D3\u05E2\u05E8 \u05EA\u05BC\u05D7\u05D9\u05EA \u05D4\u05DE\
+      \u05EA\u05D9\u05DD"
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: "\u05D6\uFB2F\u05DE\u05D1\u05D9\u05E4\u05BF\u05E2\u05E8\u05D3"
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: "\u05D6\uFB2F\u05DE\u05D1\u05D9\u05D3\uFB2F\u05E8\u05E4\u05BF\u05F2\
+      \u05B7\u05E0\u05D5\u05D5\u05D5\u05B9\u05D9\u05E0\u05E2\u05E8"
+    Max Stack Size: -1
