@@ -1,0 +1,196 @@
+Spawners:
+  BAT:
+    Display Name: Batman
+    Max Stack Size: -1
+  BEE:
+    Display Name: B
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: OMG it's made of fier
+    Max Stack Size: -1
+  CAT:
+    Display Name: Kitteh
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: Tine paneful spidur
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: Bawk Bawk!
+    Max Stack Size: -1
+  COD:
+    Display Name: Cot
+    Max Stack Size: -1
+  COW:
+    Display Name: Milk-Maeker
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: Creeper
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: doolfin
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: Donkeh
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: watuur thing
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: BIG LAZUR SHARK
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: Enderman
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: Endermite
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: Dwagon Bos
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: Wizrd
+    Max Stack Size: -1
+  FOX:
+    Display Name: Fuxe
+    Max Stack Size: -1
+  GHAST:
+    Display Name: Ghast
+    Max Stack Size: -1
+  GIANT:
+    Display Name: OMG ZOMBIE 4 DAYZ
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: SHARKS WITH LAZERS
+    Max Stack Size: -1
+  HORSE:
+    Display Name: PONY
+    Max Stack Size: -1
+  HUSK:
+    Display Name: Warm hooman
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: Wiizardur
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: Strange Irun Hooman
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: camel sheep
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: Fier sliem
+    Max Stack Size: -1
+  MULE:
+    Display Name: Donkehpony
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: Wild kitteh
+    Max Stack Size: -1
+  PANDA:
+    Display Name: Green Stick Eatar
+    Max Stack Size: -1
+  PARROT:
+    Display Name: Rainbow Bird
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: Creepy flyin ting
+    Max Stack Size: -1
+  PIG:
+    Display Name: Oinkey
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: Pilagur
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: Wite beer
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: very yukky fishy
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: Jumpin Foodz
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: Rivagur
+    Max Stack Size: -1
+  SALMON:
+    Display Name: Salmon
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: Baa Baa!
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: Shulker
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: Grae fish
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: Spooke scury Skeletun
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: Spooke scury Skeletun Hoers
+    Max Stack Size: -1
+  SLIME:
+    Display Name: Sliem
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: Spidur
+    Max Stack Size: -1
+  SQUID:
+    Display Name: Sqyd
+    Max Stack Size: -1
+  STRAY:
+    Display Name: Frozen Skeletun
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: Givr Camel
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: Topicel fis
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: TortL
+    Max Stack Size: -1
+  VEX:
+    Display Name: ghosty thingy
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: Vilaagur
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: Bad Guy
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: Wubterng Truder
+    Max Stack Size: -1
+  WITCH:
+    Display Name: Crazy Kitteh Ownr
+    Max Stack Size: -1
+  WITHER:
+    Display Name: Wither
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: Spooke Wither Skeletun
+    Max Stack Size: -1
+  WOLF:
+    Display Name: Woof Woof!
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: Bad Hooman
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: Zombee hoers
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: Unded Villaguur
+    Max Stack Size: -1

@@ -1,0 +1,196 @@
+Spawners:
+  BAT:
+    Display Name: Farfett il-Lejl
+    Max Stack Size: -1
+  BEE:
+    Display Name: "Tan-na\u0127al"
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: Monstru tan-Nar
+    Max Stack Size: -1
+  CAT:
+    Display Name: Qattus
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: "Brimba tal-G\u0127erien"
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: "Ti\u0121ie\u0121a"
+    Max Stack Size: -1
+  COD:
+    Display Name: Bakkaljaw
+    Max Stack Size: -1
+  COW:
+    Display Name: Baqra
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: Creeper
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: Tad dniefel
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: "\u0126mar"
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: "G\u0127erqu"
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: Gwardjan tal-presbiteru
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: Enderman
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: Endermite
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: Dragun tal-Ender
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: Evoker
+    Max Stack Size: -1
+  FOX:
+    Display Name: Volpi
+    Max Stack Size: -1
+  GHAST:
+    Display Name: Ghast
+    Max Stack Size: -1
+  GIANT:
+    Display Name: "\u0120gant"
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: Gwardjan
+    Max Stack Size: -1
+  HORSE:
+    Display Name: "Ta\u017C-\u017Cwiemel"
+    Max Stack Size: -1
+  HUSK:
+    Display Name: Husk
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: Illusioner
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: "Monstru tal-\u0126adid"
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: Llama
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: Kaxxa tal-Magma
+    Max Stack Size: -1
+  MULE:
+    Display Name: "Bag\u0127al"
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: "Qattus Salva\u0121\u0121"
+    Max Stack Size: -1
+  PANDA:
+    Display Name: Panda free
+    Max Stack Size: -1
+  PARROT:
+    Display Name: Pappagall
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: Ras taparsi
+    Max Stack Size: -1
+  PIG:
+    Display Name: "\u0126an\u017Cir"
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: Pillager
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: Ors Polari
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: "\u0126uta Velenu\u017Ca"
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: Fenek
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: Ir-ravager
+    Max Stack Size: -1
+  SALMON:
+    Display Name: Salamun
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: "Nag\u0127\u0121a"
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: Shulker
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: Susa
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: Skeletru
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: "Skeletru ta' \u017Biemel"
+    Max Stack Size: -1
+  SLIME:
+    Display Name: "\u0126ama"
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: Brimba
+    Max Stack Size: -1
+  SQUID:
+    Display Name: Klamar
+    Max Stack Size: -1
+  STRAY:
+    Display Name: Stray
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: "Il-Kummer \u010Bjant Llama"
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: "\u0126ut tropikali"
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: Fekruna
+    Max Stack Size: -1
+  VEX:
+    Display Name: Vex
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: "Ville\u0121jatur"
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: Vindikatur
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: In-negozjant tal-wandering
+    Max Stack Size: -1
+  WITCH:
+    Display Name: "Sa\u0127\u0127ara"
+    Max Stack Size: -1
+  WITHER:
+    Display Name: Wither
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: Skeletru tal-Wither
+    Max Stack Size: -1
+  WOLF:
+    Display Name: Lupu
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: Mostru
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: "\u017Biemel Mostru"
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: Zapping Villager
+    Max Stack Size: -1

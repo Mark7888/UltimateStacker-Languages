@@ -1,0 +1,339 @@
+Mobs:
+  BAT:
+    Display Name: "Tsikera\u2019w\xEDstak"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  BEE:
+    Display Name: "Katsikhe\u2019t\xF3n:ni"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: "\u0422\u04AF\u0439\u043C\u044D\u0440\u0434\u044D\u0433\u0447"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  CAT:
+    Display Name: "Tak\xF2:s"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: "Ona\u2019tsak\xE9hte"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: "K\xEDtkit"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  COD:
+    Display Name: "\u0421\u0430\u0433\u0430\u043C\u0445\u0430\u0439 \u0437\u0430\u0433\
+      \u0430\u0441"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  COW:
+    Display Name: "Tiohnh\xF3nskwaron"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: "\u041A\u0440\u0438\u043F\u0435\u0440"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: "\u0414\u0430\u043B\u0430\u0439\u043D \u0433\u0430\u0445\u0430\u0439"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: "Tewah\xF3nhtes Akosh\xE1:tens"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: "\u0422\u044D\u043D\u0433\u0438\u0441\u0438\u0439\u043D \u0437\u043E\
+      \u043C\u0431\u0438"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: "\u0410\u0445\u043C\u0430\u0434 \u0445\u0430\u043C\u0433\u0430\u0430\
+      \u043B\u0430\u0433\u0447"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: "\u042D\u044D\u043D\u0434\u0438\u0439\u043D \u0445\u04AF\u043D"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: "\u042D\u044D\u043D\u0434\u0438\u0439\u043D \u0445\u0430\u0447\u0438\
+      \u0433"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: "\u042D\u044D\u043D\u0434\u0438\u0439\u043D \u043B\u0443\u0443"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: "\u0421\u04AF\u043D\u0441 \u0434\u0443\u0443\u0434\u0430\u0433\u0447"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  FOX:
+    Display Name: "\u04AE\u043D\u044D\u0433"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  GHAST:
+    Display Name: "\u0413\u0430\u0441\u0442"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  GIANT:
+    Display Name: "\u0410\u0432\u0430\u0440\u0433\u0430 \u0431\u0438\u0435\u0442"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: "\u0425\u0430\u043C\u0433\u0430\u0430\u043B\u0430\u0433\u0447"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  HORSE:
+    Display Name: "Akohs\xE1:tens"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  HUSK:
+    Display Name: "\u0425\u0430\u0442\u0441\u0430\u043D \u0437\u043E\u043C\u0431\u0438"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: "\u0422\u04E9\u04E9\u0440\u04E9\u0433\u0434\u04AF\u04AF\u043B\u044D\
+      \u0433\u0447"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: "\u0422\u04E9\u043C\u04E9\u0440 \u0445\u04AF\u043D"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: Okehte
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: "\u0425\u0430\u0439\u043B\u043C\u0430\u0433\u0430\u043D \u043A\u0443\
+      \u0431"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  MULE:
+    Display Name: "\u041B\u0443\u0443\u0441"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: "\u0418\u0440\u0432\u044D\u0441"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PANDA:
+    Display Name: "\u0425\u0443\u043B\u0441\u043D\u044B \u0431\u0430\u0430\u0432\u0433\
+      \u0430\u0439"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PARROT:
+    Display Name: "Tek\xE1stia\u2019ks"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: "\u0424\u0430\u043D\u0442\u043E\u043C"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PIG:
+    Display Name: "Kw\xE9skwes"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: "\u0414\u044D\u044D\u0440\u044D\u043C\u0447\u0438\u043D"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: "Ohkwari\u2019tar\xE1:ken"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: "\u04AE\u043B\u044D\u044D\u0433\u0447 \u0437\u0430\u0433\u0430\u0441"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: "Tahonhtan\xE9:ken"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: "\u0421\u04AF\u0439\u0442\u0433\u044D\u0433\u0447"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SALMON:
+    Display Name: "Kontihnaw\xE1:ras"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: "Teiona\u2019karont\xF2n:\u2019a"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: "\u0428\u0430\u043B\u043A\u0435\u0440"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: "Teiotstahstar\xE1the"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: "\u0410\u0440\u0430\u0433 \u044F\u0441"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: "\u0410\u0440\u0430\u0433 \u044F\u0441\u0430\u043D \u043C\u043E\u0440\
+      \u044C"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SLIME:
+    Display Name: "\u0421\u0430\u043B\u0441\u0442\u0430\u043D"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: "Takwa\u2019\xE1hson"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  SQUID:
+    Display Name: "Tsoshinak\xE0:te"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  STRAY:
+    Display Name: "\u0422\u044D\u043D\u04AF\u04AF\u0447\u043B\u044D\u0433\u0447"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: "\u0425\u0443\u0434\u0430\u043B\u0434\u0430\u0430\u0447\u043D\u044B\
+      \ \u0442\u044D\u043C\u044D\u044D\u043D \u0433\u04E9\u0440\u04E9\u04E9\u0441"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: "\u0425\u0430\u043B\u0443\u0443\u043D \u043E\u0440\u043D\u044B \u0437\
+      \u0430\u0433\u0430\u0441"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: "A\u2019n\xF3:wara"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  VEX:
+    Display Name: "\u0417\u0430\u043B\u0445\u0430\u0430\u0433\u0447"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: "\u0422\u043E\u0441\u0433\u043E\u043D\u044B \u0438\u0440\u0433\u044D\
+      \u043D"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: "\u0425\u0430\u043C\u0433\u0430\u0430\u043B\u0430\u0433\u0447"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: "\u0410\u044F\u043B\u0430\u0433\u0447 \u0445\u0443\u0434\u0430\u043B\
+      \u0434\u0430\u0430\u0447\u0438\u043D"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  WITCH:
+    Display Name: "Wata\u2019\xE9n:naras"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  WITHER:
+    Display Name: "\u0412\u0438\u0442\u0435\u0440"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: "\u0412\u0438\u0442\u0435\u0440 \u0430\u0440\u0430\u0433 \u044F\u0441"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  WOLF:
+    Display Name: "Ohkw\xE1ho"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: "\u0417\u043E\u043C\u0431\u0438"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: "\u0417\u043E\u043C\u0431\u0438 \u043C\u043E\u0440\u044C"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: "\u0417\u043E\u043C\u0431\u0438 \u0442\u043E\u0441\u0433\u043E\u043D\
+      \u044B \u0438\u0440\u0433\u044D\u043D"
+    Enabled: true
+    Kill Whole Stack: false
+    Max Stack Size: -1

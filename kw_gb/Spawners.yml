@@ -1,0 +1,196 @@
+Spawners:
+  BAT:
+    Display Name: Askell Groghen
+    Max Stack Size: -1
+  BEE:
+    Display Name: Gwenen
+    Max Stack Size: -1
+  BLAZE:
+    Display Name: Tarosvan Tan
+    Max Stack Size: -1
+  CAT:
+    Display Name: Kath
+    Max Stack Size: -1
+  CAVE_SPIDER:
+    Display Name: Kevnis Kav
+    Max Stack Size: -1
+  CHICKEN:
+    Display Name: Yar
+    Max Stack Size: -1
+  COD:
+    Display Name: Barvus
+    Max Stack Size: -1
+  COW:
+    Display Name: Bugh
+    Max Stack Size: -1
+  CREEPER:
+    Display Name: Creeper
+    Max Stack Size: -1
+  DOLPHIN:
+    Display Name: Pyffyer
+    Max Stack Size: -1
+  DONKEY:
+    Display Name: Asen
+    Max Stack Size: -1
+  DROWNED:
+    Display Name: Zombi Beudhys
+    Max Stack Size: -1
+  ELDER_GUARDIAN:
+    Display Name: Gwithyas Koth
+    Max Stack Size: -1
+  ENDERMAN:
+    Display Name: Enderman
+    Max Stack Size: -1
+  ENDERMITE:
+    Display Name: Pryv an Diwedh
+    Max Stack Size: -1
+  ENDER_DRAGON:
+    Display Name: Dragon an Diwedh
+    Max Stack Size: -1
+  EVOKER:
+    Display Name: Sordyer
+    Max Stack Size: -1
+  FOX:
+    Display Name: Lowarn
+    Max Stack Size: -1
+  GHAST:
+    Display Name: Ghast
+    Max Stack Size: -1
+  GIANT:
+    Display Name: Kowr
+    Max Stack Size: -1
+  GUARDIAN:
+    Display Name: Gwithyas
+    Max Stack Size: -1
+  HORSE:
+    Display Name: Margh
+    Max Stack Size: -1
+  HUSK:
+    Display Name: Krogen Wag
+    Max Stack Size: -1
+  ILLUSIONER:
+    Display Name: Huser
+    Max Stack Size: -1
+  IRON_GOLEM:
+    Display Name: Golem Horn
+    Max Stack Size: -1
+  LLAMA:
+    Display Name: Llama
+    Max Stack Size: -1
+  MAGMA_CUBE:
+    Display Name: Kub Lava
+    Max Stack Size: -1
+  MULE:
+    Display Name: Mul
+    Max Stack Size: -1
+  MUSHROOM_COW:
+    Display Name: Mushroom cow
+    Max Stack Size: -1
+  OCELOT:
+    Display Name: Kath Jangal
+    Max Stack Size: -1
+  PANDA:
+    Display Name: Panda
+    Max Stack Size: -1
+  PARROT:
+    Display Name: Papynjay
+    Max Stack Size: -1
+  PHANTOM:
+    Display Name: Tarosvan
+    Max Stack Size: -1
+  PIG:
+    Display Name: Mogh
+    Max Stack Size: -1
+  PIG_ZOMBIE:
+    Display Name: Pig zombie
+    Max Stack Size: -1
+  PILLAGER:
+    Display Name: Preydhesik
+    Max Stack Size: -1
+  POLAR_BEAR:
+    Display Name: Ors Gwynn
+    Max Stack Size: -1
+  PUFFERFISH:
+    Display Name: Hwythpysk
+    Max Stack Size: -1
+  RABBIT:
+    Display Name: Konin
+    Max Stack Size: -1
+  RAVAGER:
+    Display Name: Defolyer
+    Max Stack Size: -1
+  SALMON:
+    Display Name: Eghek
+    Max Stack Size: -1
+  SHEEP:
+    Display Name: Davas
+    Max Stack Size: -1
+  SHULKER:
+    Display Name: Shulker
+    Max Stack Size: -1
+  SILVERFISH:
+    Display Name: Pysk Arhgansek
+    Max Stack Size: -1
+  SKELETON:
+    Display Name: Korf Eskern
+    Max Stack Size: -1
+  SKELETON_HORSE:
+    Display Name: Margh Eskern
+    Max Stack Size: -1
+  SLIME:
+    Display Name: Leys
+    Max Stack Size: -1
+  SNOWMAN:
+    Display Name: Snowman
+    Max Stack Size: -1
+  SPIDER:
+    Display Name: Kevnisen
+    Max Stack Size: -1
+  SQUID:
+    Display Name: Stifek
+    Max Stack Size: -1
+  STRAY:
+    Display Name: Kellys
+    Max Stack Size: -1
+  TRADER_LLAMA:
+    Display Name: Llama Gwikor
+    Max Stack Size: -1
+  TROPICAL_FISH:
+    Display Name: Pysk Trovannel
+    Max Stack Size: -1
+  TURTLE:
+    Display Name: Morgroban
+    Max Stack Size: -1
+  VEX:
+    Display Name: Molleth
+    Max Stack Size: -1
+  VILLAGER:
+    Display Name: Trevesik
+    Max Stack Size: -1
+  VINDICATOR:
+    Display Name: Vindikator
+    Max Stack Size: -1
+  WANDERING_TRADER:
+    Display Name: Gwikor Gwandrek
+    Max Stack Size: -1
+  WITCH:
+    Display Name: Gwragh
+    Max Stack Size: -1
+  WITHER:
+    Display Name: Wither
+    Max Stack Size: -1
+  WITHER_SKELETON:
+    Display Name: Korf Eskern Wither
+    Max Stack Size: -1
+  WOLF:
+    Display Name: Bleydh
+    Max Stack Size: -1
+  ZOMBIE:
+    Display Name: Zombi
+    Max Stack Size: -1
+  ZOMBIE_HORSE:
+    Display Name: Margh Zombi
+    Max Stack Size: -1
+  ZOMBIE_VILLAGER:
+    Display Name: Trevesik Zombi
+    Max Stack Size: -1
