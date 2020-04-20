@@ -4,95 +4,95 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_BUTTON:
-    Display Name: Acacia Button
+    Display Name: "Akasiukn\xF8ttur"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_DOOR:
-    Display Name: Acacia Door
+    Display Name: "Akasiuhur\xF0"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_FENCE:
-    Display Name: Acacia Fence
+    Display Name: "Akasiugir\xF0ing"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_FENCE_GATE:
-    Display Name: Acacia Fence Gate
+    Display Name: Akasiugrind
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_LEAVES:
-    Display Name: Acacia Leaves
+    Display Name: "Akasiubl\xF8\xF0"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_LOG:
-    Display Name: Acacia Log
+    Display Name: Akasiubulur
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_PLANKS:
-    Display Name: Acacia Planks
+    Display Name: Akasiuplankar
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_PRESSURE_PLATE:
-    Display Name: Acacia Pressure Plate
+    Display Name: "Akasiutr\xFDstpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_SAPLING:
-    Display Name: Acacia Sapling
+    Display Name: "Ungt Akasiutr\xE6"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_SIGN:
-    Display Name: Acacia Sign
+    Display Name: Akasiuskelti
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_SLAB:
-    Display Name: Acacia Slab
+    Display Name: "Akasiupl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_STAIRS:
-    Display Name: Acacia Stairs
+    Display Name: Akasiutrappa
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_TRAPDOOR:
-    Display Name: Acacia Trapdoor
+    Display Name: Akasiulemmur
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_WALL_SIGN:
-    Display Name: Acacia Wall Sign
+    Display Name: Akasiuveggskelti
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_WOOD:
-    Display Name: Acacia Wood
+    Display Name: "Akasiuvi\xF0ur"
     Has Hologram: true
     Max Stack Size: -1
   ACTIVATOR_RAIL:
-    Display Name: Activator Rail
+    Display Name: Virkingarskinnari
     Has Hologram: true
     Max Stack Size: -1
   AIR:
-    Display Name: Air
+    Display Name: Luft
     Has Hologram: true
     Max Stack Size: -1
   ALLIUM:
-    Display Name: Allium
+    Display Name: Leykur
     Has Hologram: true
     Max Stack Size: -1
   ANDESITE:
-    Display Name: Andesite
+    Display Name: Andesitt
     Has Hologram: true
     Max Stack Size: -1
   ANDESITE_SLAB:
-    Display Name: Andesite Slab
+    Display Name: "Andesittpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   ANDESITE_STAIRS:
-    Display Name: Andesite Stairs
+    Display Name: Andesitttrappa
     Has Hologram: true
     Max Stack Size: -1
   ANDESITE_WALL:
-    Display Name: Andesite Wall
+    Display Name: Andesittveggur
     Has Hologram: true
     Max Stack Size: -1
   ANVIL:
-    Display Name: Anvil
+    Display Name: Amboltur
     Has Hologram: true
     Max Stack Size: -1
   APPLE:
@@ -108,15 +108,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ATTACHED_MELON_STEM:
-    Display Name: Attached Melon Stem
+    Display Name: "Festur vatnmel\xF3nstelkur"
     Has Hologram: true
     Max Stack Size: -1
   ATTACHED_PUMPKIN_STEM:
-    Display Name: Attached Pumpkin Stem
+    Display Name: Festur graskerjastelkur
     Has Hologram: true
     Max Stack Size: -1
   AZURE_BLUET:
-    Display Name: Azure Bluet
+    Display Name: "Bl\xE1 postal\xEDnsbl\xF3ma"
     Has Hologram: true
     Max Stack Size: -1
   BAKED_POTATO:
@@ -124,19 +124,19 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BAMBOO:
-    Display Name: Bamboo
+    Display Name: Bambus
     Has Hologram: true
     Max Stack Size: -1
   BAMBOO_SAPLING:
-    Display Name: Bamboo Sapling
+    Display Name: "Bambussp\xEDri"
     Has Hologram: true
     Max Stack Size: -1
   BARREL:
-    Display Name: Barrel
+    Display Name: Tunna
     Has Hologram: true
     Max Stack Size: -1
   BARRIER:
-    Display Name: Barrier
+    Display Name: "For\xF0ing"
     Has Hologram: true
     Max Stack Size: -1
   BAT_SPAWN_EGG:
@@ -144,11 +144,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BEACON:
-    Display Name: Beacon
+    Display Name: Viti
     Has Hologram: true
     Max Stack Size: -1
   BEDROCK:
-    Display Name: Bedrock
+    Display Name: Hella
     Has Hologram: true
     Max Stack Size: -1
   BEEF:
@@ -156,7 +156,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BEEHIVE:
-    Display Name: Beehive
+    Display Name: "B\xFDflugub\xF8li"
     Has Hologram: true
     Max Stack Size: -1
   BEETROOT:
@@ -164,7 +164,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BEETROOTS:
-    Display Name: Beetroots
+    Display Name: "Rey\xF0r\xF8tur"
     Has Hologram: true
     Max Stack Size: -1
   BEETROOT_SEEDS:
@@ -176,7 +176,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BEE_NEST:
-    Display Name: Bee Nest
+    Display Name: "B\xFDflugub\xF8li"
     Has Hologram: true
     Max Stack Size: -1
   BEE_SPAWN_EGG:
@@ -184,7 +184,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BELL:
-    Display Name: Bell
+    Display Name: Klokka
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_BOAT:
@@ -192,83 +192,83 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_BUTTON:
-    Display Name: Birch Button
+    Display Name: "Bjarkarkn\xF8ttur"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_DOOR:
-    Display Name: Birch Door
+    Display Name: "Bjarkarhur\xF0"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_FENCE:
-    Display Name: Birch Fence
+    Display Name: "Bjarkargir\xF0ing"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_FENCE_GATE:
-    Display Name: Birch Fence Gate
+    Display Name: Bjarkargrind
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_LEAVES:
-    Display Name: Birch Leaves
+    Display Name: "Bjarkarbl\xF8\xF0"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_LOG:
-    Display Name: Birch Log
+    Display Name: Bjarkarstokkur
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_PLANKS:
-    Display Name: Birch Planks
+    Display Name: Bjarkarplankar
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_PRESSURE_PLATE:
-    Display Name: Birch Pressure Plate
+    Display Name: "Bjarkartr\xFDstpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_SAPLING:
-    Display Name: Birch Sapling
+    Display Name: "Bjarkarsp\xEDri"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_SIGN:
-    Display Name: Birch Sign
+    Display Name: Bjarkarskelti
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_SLAB:
-    Display Name: Birch Slab
+    Display Name: "Bjarkarpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_STAIRS:
-    Display Name: Birch Stairs
+    Display Name: Bjarkartrappa
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_TRAPDOOR:
-    Display Name: Birch Trapdoor
+    Display Name: Bjarkarlemmur
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_WALL_SIGN:
-    Display Name: Birch Wall Sign
+    Display Name: Bjarkarveggskelti
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_WOOD:
-    Display Name: Birch Wood
+    Display Name: "Bjarkarvi\xF0ur"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_BANNER:
-    Display Name: Black Banner
+    Display Name: Svart Flagg
     Has Hologram: true
     Max Stack Size: -1
   BLACK_BED:
-    Display Name: Black Bed
+    Display Name: "Sv\xF8rt song"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_CARPET:
-    Display Name: Black Carpet
+    Display Name: Svart teppi
     Has Hologram: true
     Max Stack Size: -1
   BLACK_CONCRETE:
-    Display Name: Black Concrete
+    Display Name: Svart betong
     Has Hologram: true
     Max Stack Size: -1
   BLACK_CONCRETE_POWDER:
-    Display Name: Black Concrete Powder
+    Display Name: Svart betongpulvur
     Has Hologram: true
     Max Stack Size: -1
   BLACK_DYE:
@@ -276,23 +276,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BLACK_GLAZED_TERRACOTTA:
-    Display Name: Black Glazed Terracotta
+    Display Name: "Svart glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_SHULKER_BOX:
-    Display Name: Black Shulker Box
+    Display Name: Svartur shulkerkassi
     Has Hologram: true
     Max Stack Size: -1
   BLACK_STAINED_GLASS:
-    Display Name: Black Stained Glass
+    Display Name: "Svart lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_STAINED_GLASS_PANE:
-    Display Name: Black Stained Glass Pane
+    Display Name: "Svart lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_TERRACOTTA:
-    Display Name: Black Terracotta
+    Display Name: Svart terrakotta
     Has Hologram: true
     Max Stack Size: -1
   BLACK_WALL_BANNER:
@@ -300,11 +300,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BLACK_WOOL:
-    Display Name: Black Wool
+    Display Name: "Sv\xF8rt ull"
     Has Hologram: true
     Max Stack Size: -1
   BLAST_FURNACE:
-    Display Name: Blast Furnace
+    Display Name: "H\xE1ovnur"
     Has Hologram: true
     Max Stack Size: -1
   BLAZE_POWDER:
@@ -320,23 +320,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BLUE_BANNER:
-    Display Name: Blue Banner
+    Display Name: "Bl\xE1tt Flagg"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_BED:
-    Display Name: Blue Bed
+    Display Name: "Bl\xE1 song"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_CARPET:
-    Display Name: Blue Carpet
+    Display Name: "Bl\xE1tt teppi"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_CONCRETE:
-    Display Name: Blue Concrete
+    Display Name: "Bl\xE1tt betong"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_CONCRETE_POWDER:
-    Display Name: Blue Concrete Powder
+    Display Name: "Bl\xE1tt betongpulvur"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_DYE:
@@ -344,31 +344,31 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BLUE_GLAZED_TERRACOTTA:
-    Display Name: Blue Glazed Terracotta
+    Display Name: "Bl\xE1tt glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_ICE:
-    Display Name: Blue Ice
+    Display Name: "Bl\xE1ur \xEDsur"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_ORCHID:
-    Display Name: Blue Orchid
+    Display Name: "Bl\xE1 orkide"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_SHULKER_BOX:
-    Display Name: Blue Shulker Box
+    Display Name: "Bl\xE1ur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_STAINED_GLASS:
-    Display Name: Blue Stained Glass
+    Display Name: "Bl\xE1tt lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_STAINED_GLASS_PANE:
-    Display Name: Blue Stained Glass Pane
+    Display Name: "Bl\xE1tt lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_TERRACOTTA:
-    Display Name: Blue Terracotta
+    Display Name: "Bl\xE1tt terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_WALL_BANNER:
@@ -376,7 +376,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BLUE_WOOL:
-    Display Name: Blue Wool
+    Display Name: "Bl\xE1 ull"
     Has Hologram: true
     Max Stack Size: -1
   BONE:
@@ -384,7 +384,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BONE_BLOCK:
-    Display Name: Bone Block
+    Display Name: Beinkubbi
     Has Hologram: true
     Max Stack Size: -1
   BONE_MEAL:
@@ -396,7 +396,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BOOKSHELF:
-    Display Name: Bookshelf
+    Display Name: "B\xF3kahill"
     Has Hologram: true
     Max Stack Size: -1
   BOW:
@@ -408,19 +408,19 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BRAIN_CORAL:
-    Display Name: Brain Coral
+    Display Name: Heilakorall
     Has Hologram: true
     Max Stack Size: -1
   BRAIN_CORAL_BLOCK:
-    Display Name: Brain Coral Block
+    Display Name: Heilakorallkubbi
     Has Hologram: true
     Max Stack Size: -1
   BRAIN_CORAL_FAN:
-    Display Name: Brain Coral Fan
+    Display Name: Heilakorallveiftra
     Has Hologram: true
     Max Stack Size: -1
   BRAIN_CORAL_WALL_FAN:
-    Display Name: Brain Coral Wall Fan
+    Display Name: Heilakorallveggjaveiftra
     Has Hologram: true
     Max Stack Size: -1
   BREAD:
@@ -436,39 +436,39 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BRICKS:
-    Display Name: Bricks
+    Display Name: "M\xFArsteinar"
     Has Hologram: true
     Max Stack Size: -1
   BRICK_SLAB:
-    Display Name: Brick Slab
+    Display Name: "M\xFArsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   BRICK_STAIRS:
-    Display Name: Brick Stairs
+    Display Name: "M\xFArsteinstrappa"
     Has Hologram: true
     Max Stack Size: -1
   BRICK_WALL:
-    Display Name: Brick Wall
+    Display Name: "M\xFArsteinsveggur"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_BANNER:
-    Display Name: Brown Banner
+    Display Name: "Br\xFAnt Flagg"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_BED:
-    Display Name: Brown Bed
+    Display Name: "Br\xFAn song"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_CARPET:
-    Display Name: Brown Carpet
+    Display Name: "Br\xFAnt teppi"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_CONCRETE:
-    Display Name: Brown Concrete
+    Display Name: "Br\xFAnt betong"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_CONCRETE_POWDER:
-    Display Name: Brown Concrete Powder
+    Display Name: "Br\xFAnt betongpulvur"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_DYE:
@@ -476,31 +476,31 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BROWN_GLAZED_TERRACOTTA:
-    Display Name: Brown Glazed Terracotta
+    Display Name: "Br\xFAnt glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_MUSHROOM:
-    Display Name: Brown Mushroom
+    Display Name: "Br\xFAnur soppur"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_MUSHROOM_BLOCK:
-    Display Name: Brown Mushroom Block
+    Display Name: "Br\xFAnur soppakubbi"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_SHULKER_BOX:
-    Display Name: Brown Shulker Box
+    Display Name: "Br\xFAnur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_STAINED_GLASS:
-    Display Name: Brown Stained Glass
+    Display Name: "Br\xFAnlitt lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_STAINED_GLASS_PANE:
-    Display Name: Brown Stained Glass Pane
+    Display Name: "Br\xFAnt lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_TERRACOTTA:
-    Display Name: Brown Terracotta
+    Display Name: "Br\xFAnt terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_WALL_BANNER:
@@ -508,27 +508,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BROWN_WOOL:
-    Display Name: Brown Wool
+    Display Name: "Br\xFAn ull"
     Has Hologram: true
     Max Stack Size: -1
   BUBBLE_COLUMN:
-    Display Name: Bubble Column
+    Display Name: "Bl\xF8\xF0rus\xFAla"
     Has Hologram: true
     Max Stack Size: -1
   BUBBLE_CORAL:
-    Display Name: Bubble Coral
+    Display Name: "Bl\xF8\xF0rukorall"
     Has Hologram: true
     Max Stack Size: -1
   BUBBLE_CORAL_BLOCK:
-    Display Name: Bubble Coral Block
+    Display Name: "Bl\xF8\xF0rukorallkubbi"
     Has Hologram: true
     Max Stack Size: -1
   BUBBLE_CORAL_FAN:
-    Display Name: Bubble Coral Fan
+    Display Name: "Bl\xF8\xF0rukorallveiftra"
     Has Hologram: true
     Max Stack Size: -1
   BUBBLE_CORAL_WALL_FAN:
-    Display Name: Bubble Coral Wall Fan
+    Display Name: "Bl\xF8\xF0rukorallveggjaveiftra"
     Has Hologram: true
     Max Stack Size: -1
   BUCKET:
@@ -536,15 +536,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CACTUS:
-    Display Name: Cactus
+    Display Name: Kaktus
     Has Hologram: true
     Max Stack Size: -1
   CAKE:
-    Display Name: Cake
+    Display Name: "K\xF8ka"
     Has Hologram: true
     Max Stack Size: -1
   CAMPFIRE:
-    Display Name: Campfire
+    Display Name: "Legub\xE1l"
     Has Hologram: true
     Max Stack Size: -1
   CARROT:
@@ -552,7 +552,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CARROTS:
-    Display Name: Carrots
+    Display Name: "Gular\xF8tur"
     Has Hologram: true
     Max Stack Size: -1
   CARROT_ON_A_STICK:
@@ -560,11 +560,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CARTOGRAPHY_TABLE:
-    Display Name: Cartography Table
+    Display Name: "Kortteknarabor\xF0"
     Has Hologram: true
     Max Stack Size: -1
   CARVED_PUMPKIN:
-    Display Name: Carved Pumpkin
+    Display Name: "Skori\xF0 grasker"
     Has Hologram: true
     Max Stack Size: -1
   CAT_SPAWN_EGG:
@@ -576,7 +576,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CAVE_AIR:
-    Display Name: Cave Air
+    Display Name: Hellisluft
     Has Hologram: true
     Max Stack Size: -1
   CAVE_SPIDER_SPAWN_EGG:
@@ -600,7 +600,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CHAIN_COMMAND_BLOCK:
-    Display Name: Chain Command Block
+    Display Name: "Ketust\xFDribo\xF0skubbi"
     Has Hologram: true
     Max Stack Size: -1
   CHARCOAL:
@@ -608,7 +608,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CHEST:
-    Display Name: Chest
+    Display Name: Kista
     Has Hologram: true
     Max Stack Size: -1
   CHEST_MINECART:
@@ -624,27 +624,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CHIPPED_ANVIL:
-    Display Name: Chipped Anvil
+    Display Name: "Skara\xF0ur amboltur"
     Has Hologram: true
     Max Stack Size: -1
   CHISELED_QUARTZ_BLOCK:
-    Display Name: Chiseled Quartz Block
+    Display Name: "Meitla\xF0ur kvartskubbi"
     Has Hologram: true
     Max Stack Size: -1
   CHISELED_RED_SANDSTONE:
-    Display Name: Chiseled Red Sandstone
+    Display Name: "Meitla\xF0ur rey\xF0ur sandsteinur"
     Has Hologram: true
     Max Stack Size: -1
   CHISELED_SANDSTONE:
-    Display Name: Chiseled Sandstone
+    Display Name: "Meitla\xF0ur sandsteinur"
     Has Hologram: true
     Max Stack Size: -1
   CHISELED_STONE_BRICKS:
-    Display Name: Chiseled Stone Bricks
+    Display Name: "Meitla\xF0ur steinm\xFArsteinur"
     Has Hologram: true
     Max Stack Size: -1
   CHORUS_FLOWER:
-    Display Name: Chorus Flower
+    Display Name: "Ni\xF0urlagsbl\xF3ma"
     Has Hologram: true
     Max Stack Size: -1
   CHORUS_FRUIT:
@@ -652,11 +652,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CHORUS_PLANT:
-    Display Name: Chorus Plant
+    Display Name: "Ni\xF0urlagsplanta"
     Has Hologram: true
     Max Stack Size: -1
   CLAY:
-    Display Name: Clay
+    Display Name: Leir
     Has Hologram: true
     Max Stack Size: -1
   CLAY_BALL:
@@ -672,39 +672,39 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   COAL_BLOCK:
-    Display Name: Coal Block
+    Display Name: Kolakubbi
     Has Hologram: true
     Max Stack Size: -1
   COAL_ORE:
-    Display Name: Coal Ore
+    Display Name: "Kolam\xE1lmur"
     Has Hologram: true
     Max Stack Size: -1
   COARSE_DIRT:
-    Display Name: Coarse Dirt
+    Display Name: Grov mold
     Has Hologram: true
     Max Stack Size: -1
   COBBLESTONE:
-    Display Name: Cobblestone
+    Display Name: "Br\xFAgvarsteinur"
     Has Hologram: true
     Max Stack Size: -1
   COBBLESTONE_SLAB:
-    Display Name: Cobblestone Slab
+    Display Name: "Br\xFAgvarsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   COBBLESTONE_STAIRS:
-    Display Name: Cobblestone Stairs
+    Display Name: "Br\xFAgvarsteinstrappa"
     Has Hologram: true
     Max Stack Size: -1
   COBBLESTONE_WALL:
-    Display Name: Cobblestone Wall
+    Display Name: "Br\xFAgvarsteinsveggur"
     Has Hologram: true
     Max Stack Size: -1
   COBWEB:
-    Display Name: Cobweb
+    Display Name: Lokkanet
     Has Hologram: true
     Max Stack Size: -1
   COCOA:
-    Display Name: Cocoa
+    Display Name: Kakao
     Has Hologram: true
     Max Stack Size: -1
   COCOA_BEANS:
@@ -724,7 +724,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   COMMAND_BLOCK:
-    Display Name: Command Block
+    Display Name: "St\xFDribo\xF0skubbi"
     Has Hologram: true
     Max Stack Size: -1
   COMMAND_BLOCK_MINECART:
@@ -732,7 +732,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   COMPARATOR:
-    Display Name: Comparator
+    Display Name: "Rey\xF0steinssamanberi"
     Has Hologram: true
     Max Stack Size: -1
   COMPASS:
@@ -740,11 +740,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   COMPOSTER:
-    Display Name: Composter
+    Display Name: Kompost
     Has Hologram: true
     Max Stack Size: -1
   CONDUIT:
-    Display Name: Conduit
+    Display Name: "Fl\xF8\xF0ari"
     Has Hologram: true
     Max Stack Size: -1
   COOKED_BEEF:
@@ -780,7 +780,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CORNFLOWER:
-    Display Name: Cornflower
+    Display Name: "Kornbl\xF3ma"
     Has Hologram: true
     Max Stack Size: -1
   COW_SPAWN_EGG:
@@ -788,11 +788,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CRACKED_STONE_BRICKS:
-    Display Name: Cracked Stone Bricks
+    Display Name: "Rivutur steinm\xFArsteinur"
     Has Hologram: true
     Max Stack Size: -1
   CRAFTING_TABLE:
-    Display Name: Crafting Table
+    Display Name: "Arbei\xF0sbor\xF0"
     Has Hologram: true
     Max Stack Size: -1
   CREEPER_BANNER_PATTERN:
@@ -808,7 +808,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CREEPER_WALL_HEAD:
-    Display Name: Creeper Wall Head
+    Display Name: "Creeperveggjah\xF8vd"
     Has Hologram: true
     Max Stack Size: -1
   CROSSBOW:
@@ -816,39 +816,39 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CUT_RED_SANDSTONE:
-    Display Name: Cut Red Sandstone
+    Display Name: "Skorin rey\xF0ur sandsteinur"
     Has Hologram: true
     Max Stack Size: -1
   CUT_RED_SANDSTONE_SLAB:
-    Display Name: Cut Red Sandstone Slab
+    Display Name: "Skorin rey\xF0 sandsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   CUT_SANDSTONE:
-    Display Name: Cut Sandstone
+    Display Name: Skorin sandsteinur
     Has Hologram: true
     Max Stack Size: -1
   CUT_SANDSTONE_SLAB:
-    Display Name: Cut Sandstone Slab
+    Display Name: "Skorin sandsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_BANNER:
-    Display Name: Cyan Banner
+    Display Name: "Bl\xE1gr\xF8nt Flagg"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_BED:
-    Display Name: Cyan Bed
+    Display Name: "Bl\xE1gr\xF8n song"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_CARPET:
-    Display Name: Cyan Carpet
+    Display Name: "Bl\xE1gr\xF8nt teppi"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_CONCRETE:
-    Display Name: Cyan Concrete
+    Display Name: "Bl\xE1gr\xF8nt betong"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_CONCRETE_POWDER:
-    Display Name: Cyan Concrete Powder
+    Display Name: "Bl\xE1gr\xF8nt betongpulvur"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_DYE:
@@ -856,23 +856,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CYAN_GLAZED_TERRACOTTA:
-    Display Name: Cyan Glazed Terracotta
+    Display Name: "Bl\xE1gr\xF8nt glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_SHULKER_BOX:
-    Display Name: Cyan Shulker Box
+    Display Name: "Bl\xE1gr\xF8nur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_STAINED_GLASS:
-    Display Name: Cyan Stained Glass
+    Display Name: "Bl\xE1gr\xF8nt lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_STAINED_GLASS_PANE:
-    Display Name: Cyan Stained Glass Pane
+    Display Name: "Bl\xE1gr\xF8nt lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_TERRACOTTA:
-    Display Name: Cyan Terracotta
+    Display Name: "Bl\xE1gr\xF8nt terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_WALL_BANNER:
@@ -880,15 +880,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CYAN_WOOL:
-    Display Name: Cyan Wool
+    Display Name: "Bl\xE1gr\xF8n ull"
     Has Hologram: true
     Max Stack Size: -1
   DAMAGED_ANVIL:
-    Display Name: Damaged Anvil
+    Display Name: Illa farin amboltur
     Has Hologram: true
     Max Stack Size: -1
   DANDELION:
-    Display Name: Dandelion
+    Display Name: "Hagas\xF3lja"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_BOAT:
@@ -896,163 +896,163 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_BUTTON:
-    Display Name: Dark Oak Button
+    Display Name: "Myrkur eikikn\xF8ttur"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_DOOR:
-    Display Name: Dark Oak Door
+    Display Name: "Myrk eikihur\xF0"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_FENCE:
-    Display Name: Dark Oak Fence
+    Display Name: "Myrk eikigir\xF0ing"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_FENCE_GATE:
-    Display Name: Dark Oak Fence Gate
+    Display Name: Myrk eikigrind
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_LEAVES:
-    Display Name: Dark Oak Leaves
+    Display Name: "Myrk eikibl\xF8\xF0"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_LOG:
-    Display Name: Dark Oak Log
+    Display Name: Myrkur eikistokkur
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_PLANKS:
-    Display Name: Dark Oak Planks
+    Display Name: Myrkir eikiplankar
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_PRESSURE_PLATE:
-    Display Name: Dark Oak Pressure Plate
+    Display Name: "Myrk eikitr\xFDstpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_SAPLING:
-    Display Name: Dark Oak Sapling
+    Display Name: "Ungt, myrkt eikitr\xE6"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_SIGN:
-    Display Name: Dark Oak Sign
+    Display Name: Myrkt eikiskelti
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_SLAB:
-    Display Name: Dark Oak Slab
+    Display Name: "Myrk eikipl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_STAIRS:
-    Display Name: Dark Oak Stairs
+    Display Name: Myrk eikitrappa
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_TRAPDOOR:
-    Display Name: Dark Oak Trapdoor
+    Display Name: Myrkur eikilemmur
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_WALL_SIGN:
-    Display Name: Dark Oak Wall Sign
+    Display Name: Myrkt eikiveggskelti
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_WOOD:
-    Display Name: Dark Oak Wood
+    Display Name: "Myrkur eikivi\xF0ur"
     Has Hologram: true
     Max Stack Size: -1
   DARK_PRISMARINE:
-    Display Name: Dark Prismarine
+    Display Name: Myrk prismarin
     Has Hologram: true
     Max Stack Size: -1
   DARK_PRISMARINE_SLAB:
-    Display Name: Dark Prismarine Slab
+    Display Name: "Myrk prismarinpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   DARK_PRISMARINE_STAIRS:
-    Display Name: Dark Prismarine Stairs
+    Display Name: Myrk prismarintrappa
     Has Hologram: true
     Max Stack Size: -1
   DAYLIGHT_DETECTOR:
-    Display Name: Daylight Detector
+    Display Name: "Dagslj\xF3ssensorur"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BRAIN_CORAL:
-    Display Name: Dead Brain Coral
+    Display Name: "Dey\xF0 heilakorall"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BRAIN_CORAL_BLOCK:
-    Display Name: Dead Brain Coral Block
+    Display Name: "Dey\xF0ur heilakorallkubbi"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BRAIN_CORAL_FAN:
-    Display Name: Dead Brain Coral Fan
+    Display Name: "Dey\xF0 heilakorallveiftra"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BRAIN_CORAL_WALL_FAN:
-    Display Name: Dead Brain Coral Wall Fan
+    Display Name: "Dey\xF0 heilakorallveggjaveiftra"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BUBBLE_CORAL:
-    Display Name: Dead Bubble Coral
+    Display Name: "Dey\xF0 bl\xF8\xF0rukorall"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BUBBLE_CORAL_BLOCK:
-    Display Name: Dead Bubble Coral Block
+    Display Name: "Dey\xF0ur bl\xF8\xF0rukorallkubbi"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BUBBLE_CORAL_FAN:
-    Display Name: Dead Bubble Coral Fan
+    Display Name: "Dey\xF0 bl\xF8\xF0rukorallveiftra"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BUBBLE_CORAL_WALL_FAN:
-    Display Name: Dead Bubble Coral Wall Fan
+    Display Name: "Dey\xF0 bl\xF8\xF0rukorallveggjaveiftra"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BUSH:
-    Display Name: Dead Bush
+    Display Name: "Dey\xF0ur runnur"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_FIRE_CORAL:
-    Display Name: Dead Fire Coral
+    Display Name: "Dey\xF0 eldkorall"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_FIRE_CORAL_BLOCK:
-    Display Name: Dead Fire Coral Block
+    Display Name: "Dey\xF0ur eldkorallkubbi"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_FIRE_CORAL_FAN:
-    Display Name: Dead Fire Coral Fan
+    Display Name: "Dey\xF0 eldkorallveiftra"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_FIRE_CORAL_WALL_FAN:
-    Display Name: Dead Fire Coral Wall Fan
+    Display Name: "Dey\xF0 eldkorallveggjaveiftra"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_HORN_CORAL:
-    Display Name: Dead Horn Coral
+    Display Name: "Dey\xF0 hornkorall"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_HORN_CORAL_BLOCK:
-    Display Name: Dead Horn Coral Block
+    Display Name: "Dey\xF0ur hornkorallkubbi"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_HORN_CORAL_FAN:
-    Display Name: Dead Horn Coral Fan
+    Display Name: "Dey\xF0 hornkorallveiftra"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_HORN_CORAL_WALL_FAN:
-    Display Name: Dead Horn Coral Wall Fan
+    Display Name: "Dey\xF0 hornkorallveggjaveiftra"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_TUBE_CORAL:
-    Display Name: Dead Tube Coral
+    Display Name: "Dey\xF0 p\xEDpukorall"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_TUBE_CORAL_BLOCK:
-    Display Name: Dead Tube Coral Block
+    Display Name: "Dey\xF0ur p\xEDpukorallkubbi"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_TUBE_CORAL_FAN:
-    Display Name: Dead Tube Coral Fan
+    Display Name: "Dey\xF0 p\xEDpukorallveiftra"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_TUBE_CORAL_WALL_FAN:
-    Display Name: Dead Tube Coral Wall Fan
+    Display Name: "Dey\xF0 p\xEDpukorallveggjaveiftra"
     Has Hologram: true
     Max Stack Size: -1
   DEBUG_STICK:
@@ -1060,7 +1060,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DETECTOR_RAIL:
-    Display Name: Detector Rail
+    Display Name: Sensorskinnari
     Has Hologram: true
     Max Stack Size: -1
   DIAMOND:
@@ -1072,7 +1072,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DIAMOND_BLOCK:
-    Display Name: Diamond Block
+    Display Name: Diamantkubbi
     Has Hologram: true
     Max Stack Size: -1
   DIAMOND_BOOTS:
@@ -1100,7 +1100,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DIAMOND_ORE:
-    Display Name: Diamond Ore
+    Display Name: "Diamantm\xE1lmur"
     Has Hologram: true
     Max Stack Size: -1
   DIAMOND_PICKAXE:
@@ -1116,27 +1116,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DIORITE:
-    Display Name: Diorite
+    Display Name: Dioritt
     Has Hologram: true
     Max Stack Size: -1
   DIORITE_SLAB:
-    Display Name: Diorite Slab
+    Display Name: "Diorittpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   DIORITE_STAIRS:
-    Display Name: Diorite Stairs
+    Display Name: Dioritttrappa
     Has Hologram: true
     Max Stack Size: -1
   DIORITE_WALL:
-    Display Name: Diorite Wall
+    Display Name: Diorittveggur
     Has Hologram: true
     Max Stack Size: -1
   DIRT:
-    Display Name: Dirt
+    Display Name: Mold
     Has Hologram: true
     Max Stack Size: -1
   DISPENSER:
-    Display Name: Dispenser
+    Display Name: Automat
     Has Hologram: true
     Max Stack Size: -1
   DOLPHIN_SPAWN_EGG:
@@ -1152,7 +1152,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DRAGON_EGG:
-    Display Name: Dragon Egg
+    Display Name: Drekaegg
     Has Hologram: true
     Max Stack Size: -1
   DRAGON_HEAD:
@@ -1160,7 +1160,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DRAGON_WALL_HEAD:
-    Display Name: Dragon Wall Head
+    Display Name: "Drekaveggjah\xF8vd"
     Has Hologram: true
     Max Stack Size: -1
   DRIED_KELP:
@@ -1168,11 +1168,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DRIED_KELP_BLOCK:
-    Display Name: Dried Kelp Block
+    Display Name: "Turka\xF0ur tarakubbi"
     Has Hologram: true
     Max Stack Size: -1
   DROPPER:
-    Display Name: Dropper
+    Display Name: Skamtari
     Has Hologram: true
     Max Stack Size: -1
   DROWNED_SPAWN_EGG:
@@ -1196,11 +1196,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   EMERALD_BLOCK:
-    Display Name: Emerald Block
+    Display Name: Smaragdkubbi
     Has Hologram: true
     Max Stack Size: -1
   EMERALD_ORE:
-    Display Name: Emerald Ore
+    Display Name: "Smaragdm\xE1lmur"
     Has Hologram: true
     Max Stack Size: -1
   ENCHANTED_BOOK:
@@ -1212,7 +1212,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ENCHANTING_TABLE:
-    Display Name: Enchanting Table
+    Display Name: "Gandabor\xF0"
     Has Hologram: true
     Max Stack Size: -1
   ENDERMAN_SPAWN_EGG:
@@ -1224,7 +1224,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ENDER_CHEST:
-    Display Name: Ender Chest
+    Display Name: Enderkista
     Has Hologram: true
     Max Stack Size: -1
   ENDER_EYE:
@@ -1240,39 +1240,39 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   END_GATEWAY:
-    Display Name: End Gateway
+    Display Name: Endportur
     Has Hologram: true
     Max Stack Size: -1
   END_PORTAL:
-    Display Name: End Portal
+    Display Name: End-portalur
     Has Hologram: true
     Max Stack Size: -1
   END_PORTAL_FRAME:
-    Display Name: End Portal Frame
+    Display Name: Endportalarramma
     Has Hologram: true
     Max Stack Size: -1
   END_ROD:
-    Display Name: End Rod
+    Display Name: End-stong
     Has Hologram: true
     Max Stack Size: -1
   END_STONE:
-    Display Name: End Stone
+    Display Name: Endsteinur
     Has Hologram: true
     Max Stack Size: -1
   END_STONE_BRICKS:
-    Display Name: End Stone Bricks
+    Display Name: "Endasteinm\xFArsteinur"
     Has Hologram: true
     Max Stack Size: -1
   END_STONE_BRICK_SLAB:
-    Display Name: End Stone Brick Slab
+    Display Name: "Endam\xFArsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   END_STONE_BRICK_STAIRS:
-    Display Name: End Stone Brick Stairs
+    Display Name: "Endam\xFArsteinstrappa"
     Has Hologram: true
     Max Stack Size: -1
   END_STONE_BRICK_WALL:
-    Display Name: End Stone Brick Wall
+    Display Name: "Endasteinm\xFArsteinsveggur"
     Has Hologram: true
     Max Stack Size: -1
   EVOKER_SPAWN_EGG:
@@ -1284,7 +1284,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   FARMLAND:
-    Display Name: Farmland
+    Display Name: "Landb\xFAna\xF0arj\xF8r\xF0"
     Has Hologram: true
     Max Stack Size: -1
   FEATHER:
@@ -1296,7 +1296,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   FERN:
-    Display Name: Fern
+    Display Name: "Tr\xF8llakampur"
     Has Hologram: true
     Max Stack Size: -1
   FILLED_MAP:
@@ -1304,7 +1304,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   FIRE:
-    Display Name: Fire
+    Display Name: Eldur
     Has Hologram: true
     Max Stack Size: -1
   FIREWORK_ROCKET:
@@ -1320,19 +1320,19 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   FIRE_CORAL:
-    Display Name: Fire Coral
+    Display Name: Eldkorall
     Has Hologram: true
     Max Stack Size: -1
   FIRE_CORAL_BLOCK:
-    Display Name: Fire Coral Block
+    Display Name: Eldkorallkubbi
     Has Hologram: true
     Max Stack Size: -1
   FIRE_CORAL_FAN:
-    Display Name: Fire Coral Fan
+    Display Name: Eldkorallveiftra
     Has Hologram: true
     Max Stack Size: -1
   FIRE_CORAL_WALL_FAN:
-    Display Name: Fire Coral Wall Fan
+    Display Name: Eldkorallveggjaveiftra
     Has Hologram: true
     Max Stack Size: -1
   FISHING_ROD:
@@ -1340,7 +1340,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   FLETCHING_TABLE:
-    Display Name: Fletching Table
+    Display Name: "P\xEDlamakarabor\xF0"
     Has Hologram: true
     Max Stack Size: -1
   FLINT:
@@ -1364,11 +1364,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   FROSTED_ICE:
-    Display Name: Frosted Ice
+    Display Name: "R\xEDmfallin \xEDsur"
     Has Hologram: true
     Max Stack Size: -1
   FURNACE:
-    Display Name: Furnace
+    Display Name: Ovnur
     Has Hologram: true
     Max Stack Size: -1
   FURNACE_MINECART:
@@ -1384,7 +1384,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GLASS:
-    Display Name: Glass
+    Display Name: Glas
     Has Hologram: true
     Max Stack Size: -1
   GLASS_BOTTLE:
@@ -1392,7 +1392,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GLASS_PANE:
-    Display Name: Glass Pane
+    Display Name: Glaspanel
     Has Hologram: true
     Max Stack Size: -1
   GLISTERING_MELON_SLICE:
@@ -1404,7 +1404,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GLOWSTONE:
-    Display Name: Glowstone
+    Display Name: "Gl\xF3\xF0steinur"
     Has Hologram: true
     Max Stack Size: -1
   GLOWSTONE_DUST:
@@ -1460,7 +1460,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GOLD_BLOCK:
-    Display Name: Gold Block
+    Display Name: Gullkubbi
     Has Hologram: true
     Max Stack Size: -1
   GOLD_INGOT:
@@ -1472,59 +1472,59 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GOLD_ORE:
-    Display Name: Gold Ore
+    Display Name: "Gullm\xE1lmur"
     Has Hologram: true
     Max Stack Size: -1
   GRANITE:
-    Display Name: Granite
+    Display Name: Granitt
     Has Hologram: true
     Max Stack Size: -1
   GRANITE_SLAB:
-    Display Name: Granite Slab
+    Display Name: "Granittpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   GRANITE_STAIRS:
-    Display Name: Granite Stairs
+    Display Name: Granitttrappa
     Has Hologram: true
     Max Stack Size: -1
   GRANITE_WALL:
-    Display Name: Granite Wall
+    Display Name: Granittveggur
     Has Hologram: true
     Max Stack Size: -1
   GRASS:
-    Display Name: Grass
+    Display Name: Gras
     Has Hologram: true
     Max Stack Size: -1
   GRASS_BLOCK:
-    Display Name: Grass Block
+    Display Name: Graskubbi
     Has Hologram: true
     Max Stack Size: -1
   GRASS_PATH:
-    Display Name: Grass Path
+    Display Name: "Grasr\xE1s"
     Has Hologram: true
     Max Stack Size: -1
   GRAVEL:
-    Display Name: Gravel
+    Display Name: Eyrur
     Has Hologram: true
     Max Stack Size: -1
   GRAY_BANNER:
-    Display Name: Gray Banner
+    Display Name: "Gr\xE1tt Flagg"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_BED:
-    Display Name: Gray Bed
+    Display Name: "Gr\xE1 song"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_CARPET:
-    Display Name: Gray Carpet
+    Display Name: "Gr\xE1tt teppi"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_CONCRETE:
-    Display Name: Gray Concrete
+    Display Name: "Gr\xE1tt betong"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_CONCRETE_POWDER:
-    Display Name: Gray Concrete Powder
+    Display Name: "Gr\xE1tt betongpulvur"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_DYE:
@@ -1532,23 +1532,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GRAY_GLAZED_TERRACOTTA:
-    Display Name: Gray Glazed Terracotta
+    Display Name: "Gr\xE1tt glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_SHULKER_BOX:
-    Display Name: Gray Shulker Box
+    Display Name: "Gr\xE1ur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_STAINED_GLASS:
-    Display Name: Gray Stained Glass
+    Display Name: "Gr\xE1tt lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_STAINED_GLASS_PANE:
-    Display Name: Gray Stained Glass Pane
+    Display Name: "Gr\xE1tt lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_TERRACOTTA:
-    Display Name: Gray Terracotta
+    Display Name: "Gr\xE1tt terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_WALL_BANNER:
@@ -1556,27 +1556,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GRAY_WOOL:
-    Display Name: Gray Wool
+    Display Name: "Gr\xE1 ull"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_BANNER:
-    Display Name: Green Banner
+    Display Name: "Gr\xF8nt Flagg"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_BED:
-    Display Name: Green Bed
+    Display Name: "Gr\xF8n song"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_CARPET:
-    Display Name: Green Carpet
+    Display Name: "Gr\xF8nt teppi"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_CONCRETE:
-    Display Name: Green Concrete
+    Display Name: "Gr\xF8nt betong"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_CONCRETE_POWDER:
-    Display Name: Green Concrete Powder
+    Display Name: "Gr\xF8nt betongpulvur"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_DYE:
@@ -1584,23 +1584,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GREEN_GLAZED_TERRACOTTA:
-    Display Name: Green Glazed Terracotta
+    Display Name: "Gr\xF8nt glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_SHULKER_BOX:
-    Display Name: Green Shulker Box
+    Display Name: "Gr\xF8nur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_STAINED_GLASS:
-    Display Name: Green Stained Glass
+    Display Name: "Gr\xF8nt lita\xF0 gras"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_STAINED_GLASS_PANE:
-    Display Name: Green Stained Glass Pane
+    Display Name: "Gr\xF8nt lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_TERRACOTTA:
-    Display Name: Green Terracotta
+    Display Name: "Gr\xF8nt terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_WALL_BANNER:
@@ -1608,11 +1608,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GREEN_WOOL:
-    Display Name: Green Wool
+    Display Name: "Gr\xF8n ull"
     Has Hologram: true
     Max Stack Size: -1
   GRINDSTONE:
-    Display Name: Grindstone
+    Display Name: "Hv\xF8rvisteinur"
     Has Hologram: true
     Max Stack Size: -1
   GUARDIAN_SPAWN_EGG:
@@ -1624,7 +1624,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   HAY_BLOCK:
-    Display Name: Hay Block
+    Display Name: Hoyballa
     Has Hologram: true
     Max Stack Size: -1
   HEART_OF_THE_SEA:
@@ -1632,7 +1632,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   HEAVY_WEIGHTED_PRESSURE_PLATE:
-    Display Name: Heavy Weighted Pressure Plate
+    Display Name: "Tungviga\xF0 tr\xFDstpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   HONEYCOMB:
@@ -1640,11 +1640,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   HONEYCOMB_BLOCK:
-    Display Name: Honeycomb Block
+    Display Name: "B\xFDfluguk\xF8kukubbi"
     Has Hologram: true
     Max Stack Size: -1
   HONEY_BLOCK:
-    Display Name: Honey Block
+    Display Name: Hunangskubbi
     Has Hologram: true
     Max Stack Size: -1
   HONEY_BOTTLE:
@@ -1652,7 +1652,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   HOPPER:
-    Display Name: Hopper
+    Display Name: Trakt
     Has Hologram: true
     Max Stack Size: -1
   HOPPER_MINECART:
@@ -1660,19 +1660,19 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   HORN_CORAL:
-    Display Name: Horn Coral
+    Display Name: Hornkorall
     Has Hologram: true
     Max Stack Size: -1
   HORN_CORAL_BLOCK:
-    Display Name: Horn Coral Block
+    Display Name: Hornkorallkubbi
     Has Hologram: true
     Max Stack Size: -1
   HORN_CORAL_FAN:
-    Display Name: Horn Coral Fan
+    Display Name: Hornkorallveiftra
     Has Hologram: true
     Max Stack Size: -1
   HORN_CORAL_WALL_FAN:
-    Display Name: Horn Coral Wall Fan
+    Display Name: Hornkorallveggjaveiftra
     Has Hologram: true
     Max Stack Size: -1
   HORSE_SPAWN_EGG:
@@ -1684,31 +1684,31 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ICE:
-    Display Name: Ice
+    Display Name: "\xCDsur"
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_CHISELED_STONE_BRICKS:
-    Display Name: Infested Chiseled Stone Bricks
+    Display Name: "Smittufongdur, meitla\xF0ur steinm\xFArsteinur"
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_COBBLESTONE:
-    Display Name: Infested Cobblestone
+    Display Name: "Smitta\xF0ur br\xFAgvarsteinur"
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_CRACKED_STONE_BRICKS:
-    Display Name: Infested Cracked Stone Bricks
+    Display Name: "Smittufongdur, rivutur steinm\xFArsteinur"
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_MOSSY_STONE_BRICKS:
-    Display Name: Infested Mossy Stone Bricks
+    Display Name: "Smittufongdur, mosagr\xF3gvin steinm\xFArsteinur"
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_STONE:
-    Display Name: Infested Stone
+    Display Name: "Smitta\xF0ur steinur"
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_STONE_BRICKS:
-    Display Name: Infested Stone Bricks
+    Display Name: "Smittufongdur steinm\xFArsteinur"
     Has Hologram: true
     Max Stack Size: -1
   INK_SAC:
@@ -1720,11 +1720,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   IRON_BARS:
-    Display Name: Iron Bars
+    Display Name: Jarngrindir
     Has Hologram: true
     Max Stack Size: -1
   IRON_BLOCK:
-    Display Name: Iron Block
+    Display Name: Jarnkubbi
     Has Hologram: true
     Max Stack Size: -1
   IRON_BOOTS:
@@ -1736,7 +1736,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   IRON_DOOR:
-    Display Name: Iron Door
+    Display Name: "Jarnhur\xF0"
     Has Hologram: true
     Max Stack Size: -1
   IRON_HELMET:
@@ -1764,7 +1764,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   IRON_ORE:
-    Display Name: Iron Ore
+    Display Name: "Jarnm\xE1lmur"
     Has Hologram: true
     Max Stack Size: -1
   IRON_PICKAXE:
@@ -1780,7 +1780,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   IRON_TRAPDOOR:
-    Display Name: Iron Trapdoor
+    Display Name: Jarnlemmur
     Has Hologram: true
     Max Stack Size: -1
   ITEM_FRAME:
@@ -1788,11 +1788,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   JACK_O_LANTERN:
-    Display Name: Jack O Lantern
+    Display Name: Graskerslanterna
     Has Hologram: true
     Max Stack Size: -1
   JIGSAW:
-    Display Name: Jigsaw
+    Display Name: "Putlisp\xE6lskubbi"
     Has Hologram: true
     Max Stack Size: -1
   JUKEBOX:
@@ -1804,71 +1804,71 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_BUTTON:
-    Display Name: Jungle Button
+    Display Name: "Frumsk\xF3\xF0arkn\xF8ttur"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_DOOR:
-    Display Name: Jungle Door
+    Display Name: "Frumsk\xF3garhur\xF0"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_FENCE:
-    Display Name: Jungle Fence
+    Display Name: "Frumsk\xF3gargir\xF0ing"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_FENCE_GATE:
-    Display Name: Jungle Fence Gate
+    Display Name: "Frumsk\xF3gargrind"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_LEAVES:
-    Display Name: Jungle Leaves
+    Display Name: "Frumsk\xF3garbl\xF8\xF0"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_LOG:
-    Display Name: Jungle Log
+    Display Name: "Frumsk\xF3garstokkur"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_PLANKS:
-    Display Name: Jungle Planks
+    Display Name: "Frumsk\xF3garplankar"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_PRESSURE_PLATE:
-    Display Name: Jungle Pressure Plate
+    Display Name: "Frumsk\xF3gartr\xFDstpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_SAPLING:
-    Display Name: Jungle Sapling
+    Display Name: "Fr\xFAmsk\xF3garsp\xEDri"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_SIGN:
-    Display Name: Jungle Sign
+    Display Name: "Frumsk\xF3garskelti"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_SLAB:
-    Display Name: Jungle Slab
+    Display Name: "Frumsk\xF3garpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_STAIRS:
-    Display Name: Jungle Stairs
+    Display Name: "Frumsk\xF3gartrappa"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_TRAPDOOR:
-    Display Name: Jungle Trapdoor
+    Display Name: "Frumsk\xF3garlemmur"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_WALL_SIGN:
-    Display Name: Jungle Wall Sign
+    Display Name: "Frumsk\xF3garveggskelti"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_WOOD:
-    Display Name: Jungle Wood
+    Display Name: "Frumsk\xF3garvi\xF0ur"
     Has Hologram: true
     Max Stack Size: -1
   KELP:
-    Display Name: Kelp
+    Display Name: Tari
     Has Hologram: true
     Max Stack Size: -1
   KELP_PLANT:
-    Display Name: Kelp Plant
+    Display Name: Taraplanta
     Has Hologram: true
     Max Stack Size: -1
   KNOWLEDGE_BOOK:
@@ -1876,15 +1876,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LADDER:
-    Display Name: Ladder
+    Display Name: Stigi
     Has Hologram: true
     Max Stack Size: -1
   LANTERN:
-    Display Name: Lantern
+    Display Name: Lykt
     Has Hologram: true
     Max Stack Size: -1
   LAPIS_BLOCK:
-    Display Name: Lapis Block
+    Display Name: Asursteinskubbi
     Has Hologram: true
     Max Stack Size: -1
   LAPIS_LAZULI:
@@ -1892,11 +1892,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LAPIS_ORE:
-    Display Name: Lapis Ore
+    Display Name: "Asurm\xE1lmur"
     Has Hologram: true
     Max Stack Size: -1
   LARGE_FERN:
-    Display Name: Large Fern
+    Display Name: "St\xF3rur tr\xF8llakampur"
     Has Hologram: true
     Max Stack Size: -1
   LAVA:
@@ -1936,31 +1936,31 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LECTERN:
-    Display Name: Lectern
+    Display Name: Lesipultur
     Has Hologram: true
     Max Stack Size: -1
   LEVER:
-    Display Name: Lever
+    Display Name: Handtak
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_BANNER:
-    Display Name: Light Blue Banner
+    Display Name: "Lj\xF3sabl\xE1tt Flagg"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_BED:
-    Display Name: Light Blue Bed
+    Display Name: "Lj\xF3sabl\xE1 song"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_CARPET:
-    Display Name: Light Blue Carpet
+    Display Name: "Lj\xF3sabl\xE1tt teppi"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_CONCRETE:
-    Display Name: Light Blue Concrete
+    Display Name: "Lj\xF3sabl\xE1tt betong"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_CONCRETE_POWDER:
-    Display Name: Light Blue Concrete Powder
+    Display Name: "Lj\xF3sabl\xE1tt betongpulvur"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_DYE:
@@ -1968,23 +1968,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_GLAZED_TERRACOTTA:
-    Display Name: Light Blue Glazed Terracotta
+    Display Name: "Lj\xF3sabl\xE1tt glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_SHULKER_BOX:
-    Display Name: Light Blue Shulker Box
+    Display Name: "Lj\xF3sabl\xE1ur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_STAINED_GLASS:
-    Display Name: Light Blue Stained Glass
+    Display Name: "Lj\xF3sabl\xE1tt lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_STAINED_GLASS_PANE:
-    Display Name: Light Blue Stained Glass Pane
+    Display Name: "Lj\xF3sabl\xE1tt lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_TERRACOTTA:
-    Display Name: Light Blue Terracotta
+    Display Name: "Lj\xF3sabl\xE1tt terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_WALL_BANNER:
@@ -1992,27 +1992,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_WOOL:
-    Display Name: Light Blue Wool
+    Display Name: "Lj\xF3sabl\xE1 ull"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_BANNER:
-    Display Name: Light Gray Banner
+    Display Name: "Lj\xF3sagr\xE1tt Flagg"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_BED:
-    Display Name: Light Gray Bed
+    Display Name: "Lj\xF3sagr\xE1 song"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_CARPET:
-    Display Name: Light Gray Carpet
+    Display Name: "Lj\xF3sagr\xE1tt teppi"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_CONCRETE:
-    Display Name: Light Gray Concrete
+    Display Name: "Lj\xF3sagr\xE1tt betong"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_CONCRETE_POWDER:
-    Display Name: Light Gray Concrete Powder
+    Display Name: "Lj\xF3sagr\xE1tt betongpulvur"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_DYE:
@@ -2020,23 +2020,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_GLAZED_TERRACOTTA:
-    Display Name: Light Gray Glazed Terracotta
+    Display Name: "Lj\xF3sagr\xE1tt glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_SHULKER_BOX:
-    Display Name: Light Gray Shulker Box
+    Display Name: "Lj\xF3sagr\xE1ur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_STAINED_GLASS:
-    Display Name: Light Gray Stained Glass
+    Display Name: "Lj\xF3sagr\xE1tt lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_STAINED_GLASS_PANE:
-    Display Name: Light Gray Stained Glass Pane
+    Display Name: "Lj\xF3sagr\xE1tt lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_TERRACOTTA:
-    Display Name: Light Gray Terracotta
+    Display Name: "Lj\xF3sagr\xE1tt terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_WALL_BANNER:
@@ -2044,43 +2044,43 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_WOOL:
-    Display Name: Light Gray Wool
+    Display Name: "Lj\xF3sagr\xE1 ull"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_WEIGHTED_PRESSURE_PLATE:
-    Display Name: Light Weighted Pressure Plate
+    Display Name: "L\xE6ttviga\xF0 tr\xFDstpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   LILAC:
-    Display Name: Lilac
+    Display Name: "S\xEDrena"
     Has Hologram: true
     Max Stack Size: -1
   LILY_OF_THE_VALLEY:
-    Display Name: Lily Of The Valley
+    Display Name: Dalalilja
     Has Hologram: true
     Max Stack Size: -1
   LILY_PAD:
-    Display Name: Lily Pad
+    Display Name: "Nyksbl\xF3ma"
     Has Hologram: true
     Max Stack Size: -1
   LIME_BANNER:
-    Display Name: Lime Banner
+    Display Name: "Lj\xF3sagr\xF8nt Flagg"
     Has Hologram: true
     Max Stack Size: -1
   LIME_BED:
-    Display Name: Lime Bed
+    Display Name: "Lj\xF3sagr\xF8n song"
     Has Hologram: true
     Max Stack Size: -1
   LIME_CARPET:
-    Display Name: Lime Carpet
+    Display Name: "Lj\xF3sagr\xF8nt teppi"
     Has Hologram: true
     Max Stack Size: -1
   LIME_CONCRETE:
-    Display Name: Lime Concrete
+    Display Name: "Lj\xF3sagr\xF8nt betong"
     Has Hologram: true
     Max Stack Size: -1
   LIME_CONCRETE_POWDER:
-    Display Name: Lime Concrete Powder
+    Display Name: "Lj\xF3sagr\xF8nt betongpulvur"
     Has Hologram: true
     Max Stack Size: -1
   LIME_DYE:
@@ -2088,23 +2088,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIME_GLAZED_TERRACOTTA:
-    Display Name: Lime Glazed Terracotta
+    Display Name: "Lj\xF3sagr\xF8nt glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   LIME_SHULKER_BOX:
-    Display Name: Lime Shulker Box
+    Display Name: "Lj\xF3sagr\xF8nur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   LIME_STAINED_GLASS:
-    Display Name: Lime Stained Glass
+    Display Name: "Lj\xF3sagr\xF8nt lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   LIME_STAINED_GLASS_PANE:
-    Display Name: Lime Stained Glass Pane
+    Display Name: "Lj\xF3sagr\xF8nt lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   LIME_TERRACOTTA:
-    Display Name: Lime Terracotta
+    Display Name: "Lj\xF3sagr\xF8nt terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   LIME_WALL_BANNER:
@@ -2112,7 +2112,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIME_WOOL:
-    Display Name: Lime Wool
+    Display Name: "Lj\xF3sagr\xF8n Ull"
     Has Hologram: true
     Max Stack Size: -1
   LINGERING_POTION:
@@ -2124,27 +2124,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LOOM:
-    Display Name: Loom
+    Display Name: Vevur
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_BANNER:
-    Display Name: Magenta Banner
+    Display Name: "Vi\xF3lreytt Flagg"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_BED:
-    Display Name: Magenta Bed
+    Display Name: "Vi\xF3lrey\xF0 song"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_CARPET:
-    Display Name: Magenta Carpet
+    Display Name: "Vi\xF3lreytt teppi"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_CONCRETE:
-    Display Name: Magenta Concrete
+    Display Name: "Vi\xF3lreytt betong"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_CONCRETE_POWDER:
-    Display Name: Magenta Concrete Powder
+    Display Name: "Vi\xF3lreytt betongpulvur"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_DYE:
@@ -2152,23 +2152,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_GLAZED_TERRACOTTA:
-    Display Name: Magenta Glazed Terracotta
+    Display Name: "Vi\xF3lreytt glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_SHULKER_BOX:
-    Display Name: Magenta Shulker Box
+    Display Name: "Vi\xF3lrey\xF0ur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_STAINED_GLASS:
-    Display Name: Magenta Stained Glass
+    Display Name: "Vi\xF3lreytt lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_STAINED_GLASS_PANE:
-    Display Name: Magenta Stained Glass Pane
+    Display Name: "Vi\xF3lreytt lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_TERRACOTTA:
-    Display Name: Magenta Terracotta
+    Display Name: "Vi\xF3lreytt terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_WALL_BANNER:
@@ -2176,11 +2176,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_WOOL:
-    Display Name: Magenta Wool
+    Display Name: "Vi\xF3lrey\xF0 ull"
     Has Hologram: true
     Max Stack Size: -1
   MAGMA_BLOCK:
-    Display Name: Magma Block
+    Display Name: Magmakubbi
     Has Hologram: true
     Max Stack Size: -1
   MAGMA_CREAM:
@@ -2196,7 +2196,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MELON:
-    Display Name: Melon
+    Display Name: "Vatnmel\xF3n"
     Has Hologram: true
     Max Stack Size: -1
   MELON_SEEDS:
@@ -2208,7 +2208,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MELON_STEM:
-    Display Name: Melon Stem
+    Display Name: "Vatnmel\xF3nsstelkur"
     Has Hologram: true
     Max Stack Size: -1
   MILK_BUCKET:
@@ -2228,39 +2228,39 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_COBBLESTONE:
-    Display Name: Mossy Cobblestone
+    Display Name: "Mosagr\xF3gvin br\xFAgvarsteinur"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_COBBLESTONE_SLAB:
-    Display Name: Mossy Cobblestone Slab
+    Display Name: "Mosagr\xF3gvin br\xFAgvarsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_COBBLESTONE_STAIRS:
-    Display Name: Mossy Cobblestone Stairs
+    Display Name: "Mosagr\xF3gvin br\xFAgvarsteinstrappa"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_COBBLESTONE_WALL:
-    Display Name: Mossy Cobblestone Wall
+    Display Name: "Mosagr\xF3gvin br\xFAgvarsteinsveggur"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_STONE_BRICKS:
-    Display Name: Mossy Stone Bricks
+    Display Name: "Mosagr\xF3gvin steinm\xFArsteinur"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_STONE_BRICK_SLAB:
-    Display Name: Mossy Stone Brick Slab
+    Display Name: "Mosagr\xF3gvin m\xFArsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_STONE_BRICK_STAIRS:
-    Display Name: Mossy Stone Brick Stairs
+    Display Name: "Mosagr\xF3gvin steinm\xFArsteinstrappa"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_STONE_BRICK_WALL:
-    Display Name: Mossy Stone Brick Wall
+    Display Name: "Mosagr\xF3gvin steinm\xFArsteinsveggur"
     Has Hologram: true
     Max Stack Size: -1
   MOVING_PISTON:
-    Display Name: Moving Piston
+    Display Name: "Stempul \xED r\xF8rslu"
     Has Hologram: true
     Max Stack Size: -1
   MULE_SPAWN_EGG:
@@ -2268,7 +2268,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MUSHROOM_STEM:
-    Display Name: Mushroom Stem
+    Display Name: Soppastelkur
     Has Hologram: true
     Max Stack Size: -1
   MUSHROOM_STEW:
@@ -2328,7 +2328,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MYCELIUM:
-    Display Name: Mycelium
+    Display Name: "Soppavevna\xF0ur"
     Has Hologram: true
     Max Stack Size: -1
   NAME_TAG:
@@ -2348,31 +2348,31 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   NETHER_BRICKS:
-    Display Name: Nether Bricks
+    Display Name: "Netherm\xFArsteinar"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_BRICK_FENCE:
-    Display Name: Nether Brick Fence
+    Display Name: "Netherm\xFArsteinsgrind"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_BRICK_SLAB:
-    Display Name: Nether Brick Slab
+    Display Name: "Nether m\xFArsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_BRICK_STAIRS:
-    Display Name: Nether Brick Stairs
+    Display Name: "Netherm\xFArsteinstrappa"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_BRICK_WALL:
-    Display Name: Nether Brick Wall
+    Display Name: "Netherm\xFArsteinsveggur"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_PORTAL:
-    Display Name: Nether Portal
+    Display Name: Netherportalur
     Has Hologram: true
     Max Stack Size: -1
   NETHER_QUARTZ_ORE:
-    Display Name: Nether Quartz Ore
+    Display Name: "Netherkvartsgr\xFDti"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_STAR:
@@ -2384,11 +2384,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   NETHER_WART_BLOCK:
-    Display Name: Nether Wart Block
+    Display Name: Netherkubbi
     Has Hologram: true
     Max Stack Size: -1
   NOTE_BLOCK:
-    Display Name: Note Block
+    Display Name: "N\xF3takubbi"
     Has Hologram: true
     Max Stack Size: -1
   OAK_BOAT:
@@ -2396,71 +2396,71 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   OAK_BUTTON:
-    Display Name: Oak Button
+    Display Name: "Eikikn\xF8ttur"
     Has Hologram: true
     Max Stack Size: -1
   OAK_DOOR:
-    Display Name: Oak Door
+    Display Name: "Eikihur\xF0"
     Has Hologram: true
     Max Stack Size: -1
   OAK_FENCE:
-    Display Name: Oak Fence
+    Display Name: "Eikigir\xF0ing"
     Has Hologram: true
     Max Stack Size: -1
   OAK_FENCE_GATE:
-    Display Name: Oak Fence Gate
+    Display Name: Eikigrind
     Has Hologram: true
     Max Stack Size: -1
   OAK_LEAVES:
-    Display Name: Oak Leaves
+    Display Name: "Eikibl\xF8\xF0"
     Has Hologram: true
     Max Stack Size: -1
   OAK_LOG:
-    Display Name: Oak Log
+    Display Name: Eikistokkur
     Has Hologram: true
     Max Stack Size: -1
   OAK_PLANKS:
-    Display Name: Oak Planks
+    Display Name: Eikiplankar
     Has Hologram: true
     Max Stack Size: -1
   OAK_PRESSURE_PLATE:
-    Display Name: Oak Pressure Plate
+    Display Name: "Eikitr\xFDstpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   OAK_SAPLING:
-    Display Name: Oak Sapling
+    Display Name: "Ungt eikitr\xE6"
     Has Hologram: true
     Max Stack Size: -1
   OAK_SIGN:
-    Display Name: Oak Sign
+    Display Name: Eikiskelti
     Has Hologram: true
     Max Stack Size: -1
   OAK_SLAB:
-    Display Name: Oak Slab
+    Display Name: "Eikipl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   OAK_STAIRS:
-    Display Name: Oak Stairs
+    Display Name: Eikitrappa
     Has Hologram: true
     Max Stack Size: -1
   OAK_TRAPDOOR:
-    Display Name: Oak Trapdoor
+    Display Name: Eikilemmur
     Has Hologram: true
     Max Stack Size: -1
   OAK_WALL_SIGN:
-    Display Name: Oak Wall Sign
+    Display Name: Eikiveggskelti
     Has Hologram: true
     Max Stack Size: -1
   OAK_WOOD:
-    Display Name: Oak Wood
+    Display Name: "Eikivi\xF0ur"
     Has Hologram: true
     Max Stack Size: -1
   OBSERVER:
-    Display Name: Observer
+    Display Name: "Eyglei\xF0ari"
     Has Hologram: true
     Max Stack Size: -1
   OBSIDIAN:
-    Display Name: Obsidian
+    Display Name: Obsidianur
     Has Hologram: true
     Max Stack Size: -1
   OCELOT_SPAWN_EGG:
@@ -2468,23 +2468,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_BANNER:
-    Display Name: Orange Banner
+    Display Name: Appilsingult Flagg
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_BED:
-    Display Name: Orange Bed
+    Display Name: Appilsingul song
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_CARPET:
-    Display Name: Orange Carpet
+    Display Name: Appilsingult teppi
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_CONCRETE:
-    Display Name: Orange Concrete
+    Display Name: Appilsingult betong
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_CONCRETE_POWDER:
-    Display Name: Orange Concrete Powder
+    Display Name: Appilsingult betongpulvur
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_DYE:
@@ -2492,27 +2492,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_GLAZED_TERRACOTTA:
-    Display Name: Orange Glazed Terracotta
+    Display Name: "Appilsingult glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_SHULKER_BOX:
-    Display Name: Orange Shulker Box
+    Display Name: Appilsingulur shulkerkassi
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_STAINED_GLASS:
-    Display Name: Orange Stained Glass
+    Display Name: "Appilsingult lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_STAINED_GLASS_PANE:
-    Display Name: Orange Stained Glass Pane
+    Display Name: "Appilsingult lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_TERRACOTTA:
-    Display Name: Orange Terracotta
+    Display Name: Appilsingult terrakotta
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_TULIP:
-    Display Name: Orange Tulip
+    Display Name: Appilsingul tulipan
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_WALL_BANNER:
@@ -2520,15 +2520,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_WOOL:
-    Display Name: Orange Wool
+    Display Name: Appilsingul ull
     Has Hologram: true
     Max Stack Size: -1
   OXEYE_DAISY:
-    Display Name: Oxeye Daisy
+    Display Name: "Hv\xEDtt oksaeyga"
     Has Hologram: true
     Max Stack Size: -1
   PACKED_ICE:
-    Display Name: Packed Ice
+    Display Name: "Pakka\xF0ur \xEDsur"
     Has Hologram: true
     Max Stack Size: -1
   PAINTING:
@@ -2548,11 +2548,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PEONY:
-    Display Name: Peony
+    Display Name: "B\xF3ndar\xF3sa"
     Has Hologram: true
     Max Stack Size: -1
   PETRIFIED_OAK_SLAB:
-    Display Name: Petrified Oak Slab
+    Display Name: "Steinrunnin eikipl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   PHANTOM_MEMBRANE:
@@ -2572,23 +2572,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PINK_BANNER:
-    Display Name: Pink Banner
+    Display Name: "Lj\xF3sareytt Flagg"
     Has Hologram: true
     Max Stack Size: -1
   PINK_BED:
-    Display Name: Pink Bed
+    Display Name: "Lj\xF3sarey\xF0 song"
     Has Hologram: true
     Max Stack Size: -1
   PINK_CARPET:
-    Display Name: Pink Carpet
+    Display Name: "Lj\xF3sareytt teppi"
     Has Hologram: true
     Max Stack Size: -1
   PINK_CONCRETE:
-    Display Name: Pink Concrete
+    Display Name: "Lj\xF3sareytt betong"
     Has Hologram: true
     Max Stack Size: -1
   PINK_CONCRETE_POWDER:
-    Display Name: Pink Concrete Powder
+    Display Name: "Lj\xF3sareytt betongpulvur"
     Has Hologram: true
     Max Stack Size: -1
   PINK_DYE:
@@ -2596,27 +2596,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PINK_GLAZED_TERRACOTTA:
-    Display Name: Pink Glazed Terracotta
+    Display Name: "Lj\xF3sareytt glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   PINK_SHULKER_BOX:
-    Display Name: Pink Shulker Box
+    Display Name: "Lj\xF3sarey\xF0ur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   PINK_STAINED_GLASS:
-    Display Name: Pink Stained Glass
+    Display Name: "Lj\xF3sareytt lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   PINK_STAINED_GLASS_PANE:
-    Display Name: Pink Stained Glass Pane
+    Display Name: "Lj\xF3sareytt lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   PINK_TERRACOTTA:
-    Display Name: Pink Terracotta
+    Display Name: "Lj\xF3sareytt terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   PINK_TULIP:
-    Display Name: Pink Tulip
+    Display Name: "Lj\xF3sarey\xF0 tulipan"
     Has Hologram: true
     Max Stack Size: -1
   PINK_WALL_BANNER:
@@ -2624,27 +2624,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PINK_WOOL:
-    Display Name: Pink Wool
+    Display Name: "Lj\xF3sarey\xF0 ull"
     Has Hologram: true
     Max Stack Size: -1
   PISTON:
-    Display Name: Piston
+    Display Name: Stempul
     Has Hologram: true
     Max Stack Size: -1
   PISTON_HEAD:
-    Display Name: Piston Head
+    Display Name: "Stempulh\xF8vd"
     Has Hologram: true
     Max Stack Size: -1
   PLAYER_HEAD:
-    Display Name: Player Head
+    Display Name: "Leikarah\xF8vd"
     Has Hologram: true
     Max Stack Size: -1
   PLAYER_WALL_HEAD:
-    Display Name: Player Wall Head
+    Display Name: "Leikaraveggh\xF8vd"
     Has Hologram: true
     Max Stack Size: -1
   PODZOL:
-    Display Name: Podzol
+    Display Name: "Rakj\xF8r\xF0"
     Has Hologram: true
     Max Stack Size: -1
   POISONOUS_POTATO:
@@ -2656,39 +2656,39 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_ANDESITE:
-    Display Name: Polished Andesite
+    Display Name: "Pussa\xF0 andesitt"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_ANDESITE_SLAB:
-    Display Name: Polished Andesite Slab
+    Display Name: "Pussa\xF0 andesittpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_ANDESITE_STAIRS:
-    Display Name: Polished Andesite Stairs
+    Display Name: "Pussa\xF0 andesitttrappa"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_DIORITE:
-    Display Name: Polished Diorite
+    Display Name: "Pussa\xF0 dioritt"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_DIORITE_SLAB:
-    Display Name: Polished Diorite Slab
+    Display Name: "Pussa\xF0 diorittpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_DIORITE_STAIRS:
-    Display Name: Polished Diorite Stairs
+    Display Name: "Pussa\xF0 dioritttrappa"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_GRANITE:
-    Display Name: Polished Granite
+    Display Name: "Pussa\xF0 granitt"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_GRANITE_SLAB:
-    Display Name: Polished Granite Slab
+    Display Name: "Pussa\xF0 granittpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_GRANITE_STAIRS:
-    Display Name: Polished Granite Stairs
+    Display Name: "Pussa\xF0 granitttrappa"
     Has Hologram: true
     Max Stack Size: -1
   POPPED_CHORUS_FRUIT:
@@ -2696,7 +2696,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   POPPY:
-    Display Name: Poppy
+    Display Name: Valmua
     Has Hologram: true
     Max Stack Size: -1
   PORKCHOP:
@@ -2708,7 +2708,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   POTATOES:
-    Display Name: Potatoes
+    Display Name: Epli
     Has Hologram: true
     Max Stack Size: -1
   POTION:
@@ -2716,123 +2716,123 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   POTTED_ACACIA_SAPLING:
-    Display Name: Potted Acacia Sapling
+    Display Name: "Ungt akasiutr\xE6 \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_ALLIUM:
-    Display Name: Potted Allium
+    Display Name: "Leykur \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_AZURE_BLUET:
-    Display Name: Potted Azure Bluet
+    Display Name: "Bl\xE1 postal\xEDnsbl\xF3ma \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_BAMBOO:
-    Display Name: Potted Bamboo
+    Display Name: "Bambus \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_BIRCH_SAPLING:
-    Display Name: Potted Birch Sapling
+    Display Name: "Bjarkarsp\xEDri \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_BLUE_ORCHID:
-    Display Name: Potted Blue Orchid
+    Display Name: "Bl\xE1 orkide \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_BROWN_MUSHROOM:
-    Display Name: Potted Brown Mushroom
+    Display Name: "Br\xFAnur soppur \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_CACTUS:
-    Display Name: Potted Cactus
+    Display Name: "Kaktus \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_CORNFLOWER:
-    Display Name: Potted Cornflower
+    Display Name: "Kornbl\xF3ma \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_DANDELION:
-    Display Name: Potted Dandelion
+    Display Name: "Hagas\xF3lja \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_DARK_OAK_SAPLING:
-    Display Name: Potted Dark Oak Sapling
+    Display Name: "Myrkur eikisp\xEDri \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_DEAD_BUSH:
-    Display Name: Potted Dead Bush
+    Display Name: "Deytt kjarr \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_FERN:
-    Display Name: Potted Fern
+    Display Name: "Tr\xF8llakampur \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_JUNGLE_SAPLING:
-    Display Name: Potted Jungle Sapling
+    Display Name: "Fr\xFAmsk\xF3garsp\xEDri \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_LILY_OF_THE_VALLEY:
-    Display Name: Potted Lily Of The Valley
+    Display Name: "Dalalilja \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_OAK_SAPLING:
-    Display Name: Potted Oak Sapling
+    Display Name: "Eikisp\xEDri \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_ORANGE_TULIP:
-    Display Name: Potted Orange Tulip
+    Display Name: "Appilsingul tulipan \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_OXEYE_DAISY:
-    Display Name: Potted Oxeye Daisy
+    Display Name: "Margaritt \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_PINK_TULIP:
-    Display Name: Potted Pink Tulip
+    Display Name: "Lj\xF3sarey\xF0 tulipan \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_POPPY:
-    Display Name: Potted Poppy
+    Display Name: "Dreyms\xF3lja \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_RED_MUSHROOM:
-    Display Name: Potted Red Mushroom
+    Display Name: "Rey\xF0ur soppur \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_RED_TULIP:
-    Display Name: Potted Red Tulip
+    Display Name: "Rey\xF0 tulipan \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_SPRUCE_SAPLING:
-    Display Name: Potted Spruce Sapling
+    Display Name: "Grannsp\xEDri \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_WHITE_TULIP:
-    Display Name: Potted White Tulip
+    Display Name: "Hv\xEDt tulipan \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_WITHER_ROSE:
-    Display Name: Potted Wither Rose
+    Display Name: "Witherr\xF3sa \xED potti"
     Has Hologram: true
     Max Stack Size: -1
   POWERED_RAIL:
-    Display Name: Powered Rail
+    Display Name: Elskinnari
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE:
-    Display Name: Prismarine
+    Display Name: Prismarin
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_BRICKS:
-    Display Name: Prismarine Bricks
+    Display Name: "Prismarinm\xFArsteinar"
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_BRICK_SLAB:
-    Display Name: Prismarine Brick Slab
+    Display Name: "Prismarinm\xFArsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_BRICK_STAIRS:
-    Display Name: Prismarine Brick Stairs
+    Display Name: "Prismarinm\xFArsteinstrappa"
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_CRYSTALS:
@@ -2844,15 +2844,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_SLAB:
-    Display Name: Prismarine Slab
+    Display Name: "Prismarinpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_STAIRS:
-    Display Name: Prismarine Stairs
+    Display Name: Prismarintrappa
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_WALL:
-    Display Name: Prismarine Wall
+    Display Name: Prismarinveggur
     Has Hologram: true
     Max Stack Size: -1
   PUFFERFISH:
@@ -2868,7 +2868,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PUMPKIN:
-    Display Name: Pumpkin
+    Display Name: Grasker
     Has Hologram: true
     Max Stack Size: -1
   PUMPKIN_PIE:
@@ -2880,27 +2880,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PUMPKIN_STEM:
-    Display Name: Pumpkin Stem
+    Display Name: Graskerjastelkur
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_BANNER:
-    Display Name: Purple Banner
+    Display Name: Lilla Flagg
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_BED:
-    Display Name: Purple Bed
+    Display Name: Lilla song
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_CARPET:
-    Display Name: Purple Carpet
+    Display Name: Lilla teppi
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_CONCRETE:
-    Display Name: Purple Concrete
+    Display Name: Lilla betong
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_CONCRETE_POWDER:
-    Display Name: Purple Concrete Powder
+    Display Name: Lilla betongpulvur
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_DYE:
@@ -2908,23 +2908,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_GLAZED_TERRACOTTA:
-    Display Name: Purple Glazed Terracotta
+    Display Name: "Lilla glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_SHULKER_BOX:
-    Display Name: Purple Shulker Box
+    Display Name: "Lilla\xF0ur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_STAINED_GLASS:
-    Display Name: Purple Stained Glass
+    Display Name: "Lilla lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_STAINED_GLASS_PANE:
-    Display Name: Purple Stained Glass Pane
+    Display Name: "Lilla lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_TERRACOTTA:
-    Display Name: Purple Terracotta
+    Display Name: Lilla terrakotta
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_WALL_BANNER:
@@ -2932,23 +2932,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_WOOL:
-    Display Name: Purple Wool
+    Display Name: Lilla ull
     Has Hologram: true
     Max Stack Size: -1
   PURPUR_BLOCK:
-    Display Name: Purpur Block
+    Display Name: Purpurkubbi
     Has Hologram: true
     Max Stack Size: -1
   PURPUR_PILLAR:
-    Display Name: Purpur Pillar
+    Display Name: "Purpurs\xFAla"
     Has Hologram: true
     Max Stack Size: -1
   PURPUR_SLAB:
-    Display Name: Purpur Slab
+    Display Name: "Purpurpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   PURPUR_STAIRS:
-    Display Name: Purpur Stairs
+    Display Name: Purpurtrappa
     Has Hologram: true
     Max Stack Size: -1
   QUARTZ:
@@ -2956,19 +2956,19 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   QUARTZ_BLOCK:
-    Display Name: Quartz Block
+    Display Name: Kvartskubbi
     Has Hologram: true
     Max Stack Size: -1
   QUARTZ_PILLAR:
-    Display Name: Quartz Pillar
+    Display Name: "Kvartss\xFAla"
     Has Hologram: true
     Max Stack Size: -1
   QUARTZ_SLAB:
-    Display Name: Quartz Slab
+    Display Name: "Kvartspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   QUARTZ_STAIRS:
-    Display Name: Quartz Stairs
+    Display Name: Kvartstrappa
     Has Hologram: true
     Max Stack Size: -1
   RABBIT:
@@ -2992,7 +2992,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   RAIL:
-    Display Name: Rail
+    Display Name: Skinnari
     Has Hologram: true
     Max Stack Size: -1
   RAVAGER_SPAWN_EGG:
@@ -3004,47 +3004,47 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_BLOCK:
-    Display Name: Redstone Block
+    Display Name: "Rey\xF0steinskubbi"
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_LAMP:
-    Display Name: Redstone Lamp
+    Display Name: "Rey\xF0steinslampa"
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_ORE:
-    Display Name: Redstone Ore
+    Display Name: "Rey\xF0steinsm\xE1lmur"
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_TORCH:
-    Display Name: Redstone Torch
+    Display Name: "Rey\xF0steinskyndil"
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_WALL_TORCH:
-    Display Name: Redstone Wall Torch
+    Display Name: "Rey\xF0steinsveggkyndil"
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_WIRE:
-    Display Name: Redstone Wire
+    Display Name: "Rey\xF0steinsleidningur"
     Has Hologram: true
     Max Stack Size: -1
   RED_BANNER:
-    Display Name: Red Banner
+    Display Name: Reytt Flagg
     Has Hologram: true
     Max Stack Size: -1
   RED_BED:
-    Display Name: Red Bed
+    Display Name: "Rey\xF0 song"
     Has Hologram: true
     Max Stack Size: -1
   RED_CARPET:
-    Display Name: Red Carpet
+    Display Name: Reytt teppi
     Has Hologram: true
     Max Stack Size: -1
   RED_CONCRETE:
-    Display Name: Red Concrete
+    Display Name: Reytt betong
     Has Hologram: true
     Max Stack Size: -1
   RED_CONCRETE_POWDER:
-    Display Name: Red Concrete Powder
+    Display Name: Reytt betongpulvur
     Has Hologram: true
     Max Stack Size: -1
   RED_DYE:
@@ -3052,71 +3052,71 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   RED_GLAZED_TERRACOTTA:
-    Display Name: Red Glazed Terracotta
+    Display Name: "Reytt glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   RED_MUSHROOM:
-    Display Name: Red Mushroom
+    Display Name: "Rey\xF0ur soppur"
     Has Hologram: true
     Max Stack Size: -1
   RED_MUSHROOM_BLOCK:
-    Display Name: Red Mushroom Block
+    Display Name: "Rey\xF0ur soppakubbi"
     Has Hologram: true
     Max Stack Size: -1
   RED_NETHER_BRICKS:
-    Display Name: Red Nether Bricks
+    Display Name: "Rey\xF0ir netherm\xFArsteinar"
     Has Hologram: true
     Max Stack Size: -1
   RED_NETHER_BRICK_SLAB:
-    Display Name: Red Nether Brick Slab
+    Display Name: "Rey\xF0 netherm\xFArsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   RED_NETHER_BRICK_STAIRS:
-    Display Name: Red Nether Brick Stairs
+    Display Name: "Rey\xF0 Netherm\xFArsteinstrappa"
     Has Hologram: true
     Max Stack Size: -1
   RED_NETHER_BRICK_WALL:
-    Display Name: Red Nether Brick Wall
+    Display Name: "Rey\xF0 Netherm\xFArsteinsveggur"
     Has Hologram: true
     Max Stack Size: -1
   RED_SAND:
-    Display Name: Red Sand
+    Display Name: "Rey\xF0sendi"
     Has Hologram: true
     Max Stack Size: -1
   RED_SANDSTONE:
-    Display Name: Red Sandstone
+    Display Name: "Rey\xF0ur sandsteinur"
     Has Hologram: true
     Max Stack Size: -1
   RED_SANDSTONE_SLAB:
-    Display Name: Red Sandstone Slab
+    Display Name: "Rey\xF0 sandsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   RED_SANDSTONE_STAIRS:
-    Display Name: Red Sandstone Stairs
+    Display Name: "Rey\xF0 sandsteinstrappa"
     Has Hologram: true
     Max Stack Size: -1
   RED_SANDSTONE_WALL:
-    Display Name: Red Sandstone Wall
+    Display Name: "Rey\xF0ur sandsteinsveggur"
     Has Hologram: true
     Max Stack Size: -1
   RED_SHULKER_BOX:
-    Display Name: Red Shulker Box
+    Display Name: "Rey\xF0ur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   RED_STAINED_GLASS:
-    Display Name: Red Stained Glass
+    Display Name: "Reytt lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   RED_STAINED_GLASS_PANE:
-    Display Name: Red Stained Glass Pane
+    Display Name: "Reytt lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   RED_TERRACOTTA:
-    Display Name: Red Terracotta
+    Display Name: Reytt terrakotta
     Has Hologram: true
     Max Stack Size: -1
   RED_TULIP:
-    Display Name: Red Tulip
+    Display Name: "Rey\xF0 tulipan"
     Has Hologram: true
     Max Stack Size: -1
   RED_WALL_BANNER:
@@ -3124,19 +3124,19 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   RED_WOOL:
-    Display Name: Red Wool
+    Display Name: "Rey\xF0 ull"
     Has Hologram: true
     Max Stack Size: -1
   REPEATER:
-    Display Name: Repeater
+    Display Name: "Rey\xF0steinsendurtakari"
     Has Hologram: true
     Max Stack Size: -1
   REPEATING_COMMAND_BLOCK:
-    Display Name: Repeating Command Block
+    Display Name: "Endurtakandi st\xFDribo\xF0skubbi"
     Has Hologram: true
     Max Stack Size: -1
   ROSE_BUSH:
-    Display Name: Rose Bush
+    Display Name: "R\xF3surunnur"
     Has Hologram: true
     Max Stack Size: -1
   ROTTEN_FLESH:
@@ -3160,27 +3160,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SAND:
-    Display Name: Sand
+    Display Name: Sandur
     Has Hologram: true
     Max Stack Size: -1
   SANDSTONE:
-    Display Name: Sandstone
+    Display Name: Sandsteinur
     Has Hologram: true
     Max Stack Size: -1
   SANDSTONE_SLAB:
-    Display Name: Sandstone Slab
+    Display Name: "Sandsteinsfl\xEDs"
     Has Hologram: true
     Max Stack Size: -1
   SANDSTONE_STAIRS:
-    Display Name: Sandstone Stairs
+    Display Name: Sandsteinstrappa
     Has Hologram: true
     Max Stack Size: -1
   SANDSTONE_WALL:
-    Display Name: Sandstone Wall
+    Display Name: Sandsteinsveggur
     Has Hologram: true
     Max Stack Size: -1
   SCAFFOLDING:
-    Display Name: Scaffolding
+    Display Name: "Arbei\xF0spallur"
     Has Hologram: true
     Max Stack Size: -1
   SCUTE:
@@ -3188,15 +3188,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SEAGRASS:
-    Display Name: Seagrass
+    Display Name: "Sj\xF3gras"
     Has Hologram: true
     Max Stack Size: -1
   SEA_LANTERN:
-    Display Name: Sea Lantern
+    Display Name: "Sj\xF3lanterna"
     Has Hologram: true
     Max Stack Size: -1
   SEA_PICKLE:
-    Display Name: Sea Pickle
+    Display Name: "Sj\xF3agurka"
     Has Hologram: true
     Max Stack Size: -1
   SHEARS:
@@ -3212,7 +3212,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SHULKER_BOX:
-    Display Name: Shulker Box
+    Display Name: Shulkerkassi
     Has Hologram: true
     Max Stack Size: -1
   SHULKER_SHELL:
@@ -3240,7 +3240,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SKELETON_WALL_SKULL:
-    Display Name: Skeleton Wall Skull
+    Display Name: "Veggjask\xF8ltur"
     Has Hologram: true
     Max Stack Size: -1
   SKULL_BANNER_PATTERN:
@@ -3252,7 +3252,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SLIME_BLOCK:
-    Display Name: Slime Block
+    Display Name: "Sl\xEDmkubbi"
     Has Hologram: true
     Max Stack Size: -1
   SLIME_SPAWN_EGG:
@@ -3260,59 +3260,59 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SMITHING_TABLE:
-    Display Name: Smithing Table
+    Display Name: "Smi\xF0jubor\xF0"
     Has Hologram: true
     Max Stack Size: -1
   SMOKER:
-    Display Name: Smoker
+    Display Name: Roykjari
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_QUARTZ:
-    Display Name: Smooth Quartz
+    Display Name: "Sl\xE6tt kvarts"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_QUARTZ_SLAB:
-    Display Name: Smooth Quartz Slab
+    Display Name: "Sl\xF8tt kvartspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_QUARTZ_STAIRS:
-    Display Name: Smooth Quartz Stairs
+    Display Name: "Sl\xF8tt kvartstrappa"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_RED_SANDSTONE:
-    Display Name: Smooth Red Sandstone
+    Display Name: "Sl\xE6ttur rey\xF0ur sandsteinur"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_RED_SANDSTONE_SLAB:
-    Display Name: Smooth Red Sandstone Slab
+    Display Name: "Rey\xF0, sl\xF8tt sandsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_RED_SANDSTONE_STAIRS:
-    Display Name: Smooth Red Sandstone Stairs
+    Display Name: "Sl\xF8tt, rey\xF0 sandsteinstrappa"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_SANDSTONE:
-    Display Name: Smooth Sandstone
+    Display Name: "Sl\xE6ttur sandsteinur"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_SANDSTONE_SLAB:
-    Display Name: Smooth Sandstone Slab
+    Display Name: "Sl\xF8tt sandsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_SANDSTONE_STAIRS:
-    Display Name: Smooth Sandstone Stairs
+    Display Name: "Sl\xF8tt sandsteinstrappa"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_STONE:
-    Display Name: Smooth Stone
+    Display Name: "Sl\xE6ttur steinur"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_STONE_SLAB:
-    Display Name: Smooth Stone Slab
+    Display Name: "Sl\xF8tt steinpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   SNOW:
-    Display Name: Snow
+    Display Name: Kavi
     Has Hologram: true
     Max Stack Size: -1
   SNOWBALL:
@@ -3320,15 +3320,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SNOW_BLOCK:
-    Display Name: Snow Block
+    Display Name: Kavakubbi
     Has Hologram: true
     Max Stack Size: -1
   SOUL_SAND:
-    Display Name: Soul Sand
+    Display Name: "S\xE1larsandur"
     Has Hologram: true
     Max Stack Size: -1
   SPAWNER:
-    Display Name: Spawner
+    Display Name: Framkallari
     Has Hologram: true
     Max Stack Size: -1
   SPECTRAL_ARROW:
@@ -3348,7 +3348,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SPONGE:
-    Display Name: Sponge
+    Display Name: Svampur
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_BOAT:
@@ -3356,63 +3356,63 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_BUTTON:
-    Display Name: Spruce Button
+    Display Name: "Grannkn\xF8ttur"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_DOOR:
-    Display Name: Spruce Door
+    Display Name: "Grannhur\xF0"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_FENCE:
-    Display Name: Spruce Fence
+    Display Name: "Granngir\xF0ing"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_FENCE_GATE:
-    Display Name: Spruce Fence Gate
+    Display Name: Granngrind
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_LEAVES:
-    Display Name: Spruce Leaves
+    Display Name: "Grannn\xE1lir"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_LOG:
-    Display Name: Spruce Log
+    Display Name: Grannstokkur
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_PLANKS:
-    Display Name: Spruce Planks
+    Display Name: Grannplankar
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_PRESSURE_PLATE:
-    Display Name: Spruce Pressure Plate
+    Display Name: "Granntr\xFDstpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_SAPLING:
-    Display Name: Spruce Sapling
+    Display Name: "Grannsp\xEDri"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_SIGN:
-    Display Name: Spruce Sign
+    Display Name: Grannskelti
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_SLAB:
-    Display Name: Spruce Slab
+    Display Name: "Grannpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_STAIRS:
-    Display Name: Spruce Stairs
+    Display Name: Granntrappa
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_TRAPDOOR:
-    Display Name: Spruce Trapdoor
+    Display Name: Grannlemmur
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_WALL_SIGN:
-    Display Name: Spruce Wall Sign
+    Display Name: Grannveggskelti
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_WOOD:
-    Display Name: Spruce Wood
+    Display Name: "Grannvi\xF0ur"
     Has Hologram: true
     Max Stack Size: -1
   SQUID_SPAWN_EGG:
@@ -3424,15 +3424,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   STICKY_PISTON:
-    Display Name: Sticky Piston
+    Display Name: Kleptrut stempul
     Has Hologram: true
     Max Stack Size: -1
   STONE:
-    Display Name: Stone
+    Display Name: Steinur
     Has Hologram: true
     Max Stack Size: -1
   STONECUTTER:
-    Display Name: Stonecutter
+    Display Name: Steinskeri
     Has Hologram: true
     Max Stack Size: -1
   STONE_AXE:
@@ -3440,23 +3440,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   STONE_BRICKS:
-    Display Name: Stone Bricks
+    Display Name: "Steinm\xFArsteinur"
     Has Hologram: true
     Max Stack Size: -1
   STONE_BRICK_SLAB:
-    Display Name: Stone Brick Slab
+    Display Name: "Steinm\xFArsteinspl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   STONE_BRICK_STAIRS:
-    Display Name: Stone Brick Stairs
+    Display Name: "Steinm\xFArsteinstrappa"
     Has Hologram: true
     Max Stack Size: -1
   STONE_BRICK_WALL:
-    Display Name: Stone Brick Wall
+    Display Name: "Steinm\xFArsteinsveggur"
     Has Hologram: true
     Max Stack Size: -1
   STONE_BUTTON:
-    Display Name: Stone Button
+    Display Name: "Steinkn\xF8ttur"
     Has Hologram: true
     Max Stack Size: -1
   STONE_HOE:
@@ -3468,7 +3468,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   STONE_PRESSURE_PLATE:
-    Display Name: Stone Pressure Plate
+    Display Name: "Steintr\xFDstpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   STONE_SHOVEL:
@@ -3476,11 +3476,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   STONE_SLAB:
-    Display Name: Stone Slab
+    Display Name: "Steinpl\xE1ta"
     Has Hologram: true
     Max Stack Size: -1
   STONE_STAIRS:
-    Display Name: Stone Stairs
+    Display Name: Steintrappa
     Has Hologram: true
     Max Stack Size: -1
   STONE_SWORD:
@@ -3496,59 +3496,59 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_ACACIA_LOG:
-    Display Name: Stripped Acacia Log
+    Display Name: "Avbarka\xF0ur akasiubulur"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_ACACIA_WOOD:
-    Display Name: Stripped Acacia Wood
+    Display Name: "Avbarka\xF0 akasiutr\xE6"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_BIRCH_LOG:
-    Display Name: Stripped Birch Log
+    Display Name: "Avbarka\xF0ur bjarkarstokkur"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_BIRCH_WOOD:
-    Display Name: Stripped Birch Wood
+    Display Name: "Avbarka\xF0ur bjarkarvi\xF0ur"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_DARK_OAK_LOG:
-    Display Name: Stripped Dark Oak Log
+    Display Name: "Avbarka\xF0ur myrkur eikistokkur"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_DARK_OAK_WOOD:
-    Display Name: Stripped Dark Oak Wood
+    Display Name: "Avbarka\xF0ur, myrkur eikivi\xF0ur"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_JUNGLE_LOG:
-    Display Name: Stripped Jungle Log
+    Display Name: "Avbarka\xF0ur frumsk\xF3garstokkur"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_JUNGLE_WOOD:
-    Display Name: Stripped Jungle Wood
+    Display Name: "Avbarka\xF0ur frumsk\xF3garvi\xF0ur"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_OAK_LOG:
-    Display Name: Stripped Oak Log
+    Display Name: "Avbarka\xF0ur eikistokkur"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_OAK_WOOD:
-    Display Name: Stripped Oak Wood
+    Display Name: "Avbarka\xF0ur eikivi\xF0ur"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_SPRUCE_LOG:
-    Display Name: Stripped Spruce Log
+    Display Name: "Avbarka\xF0ur grannstokkur"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_SPRUCE_WOOD:
-    Display Name: Stripped Spruce Wood
+    Display Name: "Avbarka\xF0 granntr\xE6"
     Has Hologram: true
     Max Stack Size: -1
   STRUCTURE_BLOCK:
-    Display Name: Structure Block
+    Display Name: Byggingarkubbi
     Has Hologram: true
     Max Stack Size: -1
   STRUCTURE_VOID:
-    Display Name: Structure Void
+    Display Name: Kawalan ng Gusali
     Has Hologram: true
     Max Stack Size: -1
   SUGAR:
@@ -3556,11 +3556,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SUGAR_CANE:
-    Display Name: Sugar Cane
+    Display Name: "Sukurr\xF8r"
     Has Hologram: true
     Max Stack Size: -1
   SUNFLOWER:
-    Display Name: Sunflower
+    Display Name: "S\xF3lbl\xF3ma"
     Has Hologram: true
     Max Stack Size: -1
   SUSPICIOUS_STEW:
@@ -3572,19 +3572,19 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SWEET_BERRY_BUSH:
-    Display Name: Sweet Berry Bush
+    Display Name: "S\xF8tberjarunnur"
     Has Hologram: true
     Max Stack Size: -1
   TALL_GRASS:
-    Display Name: Tall Grass
+    Display Name: "H\xF8gt gras"
     Has Hologram: true
     Max Stack Size: -1
   TALL_SEAGRASS:
-    Display Name: Tall Seagrass
+    Display Name: "H\xF8gt sj\xF3gras"
     Has Hologram: true
     Max Stack Size: -1
   TERRACOTTA:
-    Display Name: Terracotta
+    Display Name: Terrakotta
     Has Hologram: true
     Max Stack Size: -1
   TIPPED_ARROW:
@@ -3592,7 +3592,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   TNT:
-    Display Name: Tnt
+    Display Name: TNT
     Has Hologram: true
     Max Stack Size: -1
   TNT_MINECART:
@@ -3600,7 +3600,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   TORCH:
-    Display Name: Torch
+    Display Name: Kyndil
     Has Hologram: true
     Max Stack Size: -1
   TOTEM_OF_UNDYING:
@@ -3612,7 +3612,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   TRAPPED_CHEST:
-    Display Name: Trapped Chest
+    Display Name: Fellukista
     Has Hologram: true
     Max Stack Size: -1
   TRIDENT:
@@ -3620,11 +3620,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   TRIPWIRE:
-    Display Name: Tripwire
+    Display Name: "Sn\xE1vingartr\xE1\xF0ur"
     Has Hologram: true
     Max Stack Size: -1
   TRIPWIRE_HOOK:
-    Display Name: Tripwire Hook
+    Display Name: "Sn\xE1vingartr\xE1\xF0skr\xF3kur"
     Has Hologram: true
     Max Stack Size: -1
   TROPICAL_FISH:
@@ -3640,23 +3640,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   TUBE_CORAL:
-    Display Name: Tube Coral
+    Display Name: "P\xEDpukorall"
     Has Hologram: true
     Max Stack Size: -1
   TUBE_CORAL_BLOCK:
-    Display Name: Tube Coral Block
+    Display Name: "P\xEDpukorallkubbi"
     Has Hologram: true
     Max Stack Size: -1
   TUBE_CORAL_FAN:
-    Display Name: Tube Coral Fan
+    Display Name: "P\xEDpukorallveiftra"
     Has Hologram: true
     Max Stack Size: -1
   TUBE_CORAL_WALL_FAN:
-    Display Name: Tube Coral Wall Fan
+    Display Name: "P\xEDpukorallveggjaveiftra"
     Has Hologram: true
     Max Stack Size: -1
   TURTLE_EGG:
-    Display Name: Turtle Egg
+    Display Name: "Skjaldb\xF8kuegg"
     Has Hologram: true
     Max Stack Size: -1
   TURTLE_HELMET:
@@ -3680,15 +3680,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   VINE:
-    Display Name: Vine
+    Display Name: Klivurt
     Has Hologram: true
     Max Stack Size: -1
   VOID_AIR:
-    Display Name: Void Air
+    Display Name: "T\xF3mr\xFAmsluft"
     Has Hologram: true
     Max Stack Size: -1
   WALL_TORCH:
-    Display Name: Wall Torch
+    Display Name: Veggkyndil
     Has Hologram: true
     Max Stack Size: -1
   WANDERING_TRADER_SPAWN_EGG:
@@ -3696,7 +3696,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WATER:
-    Display Name: Water
+    Display Name: Vatn
     Has Hologram: true
     Max Stack Size: -1
   WATER_BUCKET:
@@ -3704,7 +3704,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WET_SPONGE:
-    Display Name: Wet Sponge
+    Display Name: "V\xE1tur svampur"
     Has Hologram: true
     Max Stack Size: -1
   WHEAT:
@@ -3716,23 +3716,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WHITE_BANNER:
-    Display Name: White Banner
+    Display Name: "Hv\xEDtt merki"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_BED:
-    Display Name: White Bed
+    Display Name: "Hv\xEDt song"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_CARPET:
-    Display Name: White Carpet
+    Display Name: "Hv\xEDtt teppi"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_CONCRETE:
-    Display Name: White Concrete
+    Display Name: "Hv\xEDtt betong"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_CONCRETE_POWDER:
-    Display Name: White Concrete Powder
+    Display Name: "Hv\xEDtt betongpulvur"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_DYE:
@@ -3740,27 +3740,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WHITE_GLAZED_TERRACOTTA:
-    Display Name: White Glazed Terracotta
+    Display Name: "Hv\xEDtt glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_SHULKER_BOX:
-    Display Name: White Shulker Box
+    Display Name: "Hv\xEDtur shulkerkassi"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_STAINED_GLASS:
-    Display Name: White Stained Glass
+    Display Name: "Hv\xEDtt lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_STAINED_GLASS_PANE:
-    Display Name: White Stained Glass Pane
+    Display Name: "Hv\xEDtt lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_TERRACOTTA:
-    Display Name: White Terracotta
+    Display Name: "Hv\xEDtt terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_TULIP:
-    Display Name: White Tulip
+    Display Name: "Hv\xEDt tulipan"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_WALL_BANNER:
@@ -3768,7 +3768,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WHITE_WOOL:
-    Display Name: White Wool
+    Display Name: "Hv\xEDt ull"
     Has Hologram: true
     Max Stack Size: -1
   WITCH_SPAWN_EGG:
@@ -3776,7 +3776,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WITHER_ROSE:
-    Display Name: Wither Rose
+    Display Name: "Witherr\xF3sa"
     Has Hologram: true
     Max Stack Size: -1
   WITHER_SKELETON_SKULL:
@@ -3788,7 +3788,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WITHER_SKELETON_WALL_SKULL:
-    Display Name: Wither Skeleton Wall Skull
+    Display Name: "Witherbeinagrindarveggsk\xF8ltur"
     Has Hologram: true
     Max Stack Size: -1
   WOLF_SPAWN_EGG:
@@ -3824,23 +3824,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_BANNER:
-    Display Name: Yellow Banner
+    Display Name: Gult Flagg
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_BED:
-    Display Name: Yellow Bed
+    Display Name: Gul song
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_CARPET:
-    Display Name: Yellow Carpet
+    Display Name: Gult teppi
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_CONCRETE:
-    Display Name: Yellow Concrete
+    Display Name: Gult betong
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_CONCRETE_POWDER:
-    Display Name: Yellow Concrete Powder
+    Display Name: Gult betongpulvur
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_DYE:
@@ -3848,23 +3848,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_GLAZED_TERRACOTTA:
-    Display Name: Yellow Glazed Terracotta
+    Display Name: "Gult glasera\xF0 terrakotta"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_SHULKER_BOX:
-    Display Name: Yellow Shulker Box
+    Display Name: Gulur shulkerkassi
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_STAINED_GLASS:
-    Display Name: Yellow Stained Glass
+    Display Name: "Gult lita\xF0 glas"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_STAINED_GLASS_PANE:
-    Display Name: Yellow Stained Glass Pane
+    Display Name: "Gult lita\xF0 glaspanel"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_TERRACOTTA:
-    Display Name: Yellow Terracotta
+    Display Name: Gult terrakotta
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_WALL_BANNER:
@@ -3872,7 +3872,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_WOOL:
-    Display Name: Yellow Wool
+    Display Name: Gul ull
     Has Hologram: true
     Max Stack Size: -1
   ZOMBIE_HEAD:
@@ -3896,6 +3896,6 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ZOMBIE_WALL_HEAD:
-    Display Name: Zombie Wall Head
+    Display Name: "Zombieveggjah\xF8vd"
     Has Hologram: true
     Max Stack Size: -1

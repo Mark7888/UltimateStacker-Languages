@@ -4,95 +4,108 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_BUTTON:
-    Display Name: Acacia Button
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF \u0BAA\u0B9F\u0BCD\u0B9F\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_DOOR:
-    Display Name: Acacia Door
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF\u0BAF\u0BBE \u0B95\u0BA4\u0BB5\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_FENCE:
-    Display Name: Acacia Fence
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF \u0BB5\u0BC7\u0BB2\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_FENCE_GATE:
-    Display Name: Acacia Fence Gate
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF \u0BB5\u0BC7\u0BB2\u0BBF \u0BA8\u0BC1\
+      \u0BB4\u0BC8\u0BB5\u0BBE\u0BAF\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_LEAVES:
-    Display Name: Acacia Leaves
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF \u0B87\u0BB2\u0BC8\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_LOG:
-    Display Name: Acacia Log
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF\u0BAF\u0BBE \u0BAA\u0BA4\u0BBF\u0BB5\
+      \u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_PLANKS:
-    Display Name: Acacia Planks
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF \u0BAA\u0BCD\u0BB3\u0BBE\u0BA9\u0BCD\
+      \u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_PRESSURE_PLATE:
-    Display Name: Acacia Pressure Plate
+    Display Name: "\u0B85\u0B95\u0BCD\u0BB8\u0BBE\u0BB0\u0BBF\u0BAF\u0BBE \u0B85\u0BB4\
+      \u0BC1\u0BA4\u0BCD\u0BA4\u0BAE\u0BCD \u0BA4\u0B9F\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_SAPLING:
-    Display Name: Acacia Sapling
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF \u0B9A\u0BAA\u0BCD\u0BAA\u0BBE\u0BB3\
+      \u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_SIGN:
-    Display Name: Acacia Sign
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF\u0BAF\u0BBE \u0B9A\u0BC8\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_SLAB:
-    Display Name: Acacia Slab
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF\u0BAF\u0BBE \u0BB8\u0BCD\u0BB2\u0BBE\
+      \u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_STAIRS:
-    Display Name: Acacia Stairs
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF \u0BB8\u0BCD\u0B9F\u0BC7\u0BB0\u0BCD\
+      \u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_TRAPDOOR:
-    Display Name: Acacia Trapdoor
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF\u0BAF\u0BBE \u0B9F\u0BCD\u0BB0\u0BBE\
+      \u0BAA\u0BB0\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_WALL_SIGN:
-    Display Name: Acacia Wall Sign
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF\u0BAF\u0BBE \u0BB5\u0BCB\u0BB2\u0BCD\
+      \ \u0B9A\u0BC8\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_WOOD:
-    Display Name: Acacia Wood
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF \u0BB5\u0BC2\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ACTIVATOR_RAIL:
-    Display Name: Activator Rail
+    Display Name: "\u0B9A\u0BC6\u0BAF\u0BB2\u0BCD\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BBE\
+      \u0BB3\u0BB0\u0BCD \u0BB0\u0BAF\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   AIR:
-    Display Name: Air
+    Display Name: "\u0B8F\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ALLIUM:
-    Display Name: Allium
+    Display Name: "\u0B85\u0BB2\u0BCD\u0BB2\u0BBF\u0BAF\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ANDESITE:
-    Display Name: Andesite
+    Display Name: "\u0B85\u0BA3\u0BCD\u0B9F\u0BBF\u0B9A\u0BC8\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ANDESITE_SLAB:
-    Display Name: Andesite Slab
+    Display Name: "\u0B86\u0BA3\u0BCD\u0B9F\u0BBF\u0B9A\u0BC8\u0B9F\u0BCD \u0BB8\u0BCD\
+      \u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ANDESITE_STAIRS:
-    Display Name: Andesite Stairs
+    Display Name: "\u0B86\u0BA3\u0BCD\u0B9F\u0BBF\u0B9A\u0BC8\u0B9F\u0BCD \u0BAA\u0B9F\
+      \u0BBF\u0B95\u0BCD\u0B95\u0B9F\u0BCD\u0B9F\u0BC1\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ANDESITE_WALL:
-    Display Name: Andesite Wall
+    Display Name: "\u0B86\u0BA3\u0BCD\u0B9F\u0BBF\u0B9A\u0BC8\u0B9F\u0BCD \u0BB5\u0BBE\
+      \u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ANVIL:
-    Display Name: Anvil
+    Display Name: "\u0BAA\u0B9F\u0BCD\u0B9F\u0BB1\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   APPLE:
@@ -109,15 +122,17 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ATTACHED_MELON_STEM:
-    Display Name: Attached Melon Stem
+    Display Name: "\u0B87\u0BA3\u0BC8\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\
+      \u0B9F \u0BAE\u0BC6\u0BB2\u0BCB\u0BA9\u0BCD \u0BB8\u0BCD\u0B9F\u0BC6\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ATTACHED_PUMPKIN_STEM:
-    Display Name: Attached Pumpkin Stem
+    Display Name: "\u0B87\u0BA3\u0BC8\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\
+      \u0B9F \u0BAA\u0BC2\u0B9A\u0BA3\u0BBF \u0BA4\u0BA3\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   AZURE_BLUET:
-    Display Name: Azure Bluet
+    Display Name: "\u0B85\u0B9A\u0BCB\u0BB0\u0BCD \u0BAA\u0BCD\u0BB3\u0BC2\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BAKED_POTATO:
@@ -126,19 +141,20 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BAMBOO:
-    Display Name: Bamboo
+    Display Name: "\u0BAE\u0BC2\u0B99\u0BCD\u0B95\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BAMBOO_SAPLING:
-    Display Name: Bamboo Sapling
+    Display Name: "\u0BAE\u0BC2\u0B99\u0BCD\u0B95\u0BBF\u0BB2\u0BCD \u0B9A\u0BBE\u0B95\
+      \u0BC1\u0BAA\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BARREL:
-    Display Name: Barrel
+    Display Name: "\u0BAA\u0BC7\u0BB0\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BARRIER:
-    Display Name: Barrier
+    Display Name: "\u0BA4\u0B9F\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   BAT_SPAWN_EGG:
@@ -147,11 +163,12 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BEACON:
-    Display Name: Beacon
+    Display Name: "\u0BAA\u0BC6\u0B95\u0BCD\u0B95\u0BBE\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BEDROCK:
-    Display Name: Bedrock
+    Display Name: "\u0B85\u0B9F\u0BBF\u0BA8\u0BBF\u0BB2\u0BAA\u0BCD\u0BAA\u0BBE\u0BB1\
+      \u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   BEEF:
@@ -160,7 +177,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BEEHIVE:
-    Display Name: Beehive
+    Display Name: "\u0BA4\u0BC7\u0BA9\u0BCD \u0B95\u0BC2\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   BEETROOT:
@@ -168,7 +185,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BEETROOTS:
-    Display Name: Beetroots
+    Display Name: "\u0BAA\u0BC0\u0B9F\u0BCD\u0BB0\u0BC2\u0B9F\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BEETROOT_SEEDS:
@@ -182,7 +199,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BEE_NEST:
-    Display Name: Bee Nest
+    Display Name: "\u0BA4\u0BC7\u0BA9\u0BC0 \u0B95\u0BC2\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   BEE_SPAWN_EGG:
@@ -191,7 +208,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BELL:
-    Display Name: Bell
+    Display Name: "\u0BAA\u0BC6\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_BOAT:
@@ -199,83 +216,98 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_BUTTON:
-    Display Name: Birch Button
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0BAA\u0B9F\u0BCD\u0B9F\u0BA9\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_DOOR:
-    Display Name: Birch Door
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0B9F\u0BCB\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_FENCE:
-    Display Name: Birch Fence
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0BB5\u0BC7\u0BB2\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_FENCE_GATE:
-    Display Name: Birch Fence Gate
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0BB5\u0BC7\u0BB2\u0BBF \u0B95\
+      \u0BC7\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_LEAVES:
-    Display Name: Birch Leaves
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0B87\u0BB2\u0BC8\u0B95\u0BB3\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_LOG:
-    Display Name: Birch Log
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0BAA\u0BA4\u0BBF\u0BB5\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_PLANKS:
-    Display Name: Birch Planks
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B99\
+      \u0BCD\u0B95\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_PRESSURE_PLATE:
-    Display Name: Birch Pressure Plate
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0B85\u0BB4\u0BC1\u0BA4\u0BCD\
+      \u0BA4\u0BAE\u0BCD \u0BA4\u0B9F\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_SAPLING:
-    Display Name: Birch Sapling
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0B9A\u0BAA\u0BCD\u0BAA\u0BBE\
+      \u0BB3\u0BBF\u0B99\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_SIGN:
-    Display Name: Birch Sign
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0B9A\u0BC8\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_SLAB:
-    Display Name: Birch Slab
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_STAIRS:
-    Display Name: Birch Stairs
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0BAA\u0B9F\u0BBF\u0B95\u0BCD\
+      \u0B95\u0B9F\u0BCD\u0B9F\u0BC1\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_TRAPDOOR:
-    Display Name: Birch Trapdoor
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0B9F\u0BBF\u0BB0\u0BBE\u0BAA\
+      \u0BC2\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_WALL_SIGN:
-    Display Name: Birch Wall Sign
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0BB5\u0BCB\u0BB2\u0BCD \u0B9A\
+      \u0BC8\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_WOOD:
-    Display Name: Birch Wood
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0BAE\u0BB0\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_BANNER:
-    Display Name: Black Banner
+    Display Name: "\u0B95\u0BB0\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAA\u0BC7\u0BA9\u0BB0\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_BED:
-    Display Name: Black Bed
+    Display Name: "\u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD \u0BAA\u0B9F\u0BC1\u0B95\u0BCD\
+      \u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_CARPET:
-    Display Name: Black Carpet
+    Display Name: "\u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD \u0B95\u0BBE\u0BB0\u0BCD\u0BAA\
+      \u0BC6\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_CONCRETE:
-    Display Name: Black Concrete
+    Display Name: "\u0B95\u0BB0\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1 \u0B95\u0BBE\u0BA9\u0BCD\
+      \u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_CONCRETE_POWDER:
-    Display Name: Black Concrete Powder
+    Display Name: "\u0B95\u0BB0\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1 \u0B95\u0BBE\u0BA9\u0BCD\
+      \u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_DYE:
@@ -283,23 +315,30 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BLACK_GLAZED_TERRACOTTA:
-    Display Name: Black Glazed Terracotta
+    Display Name: "\u0B95\u0BB0\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BC6\u0BB0\u0BC1\
+      \u0B95\u0BC2\u0B9F\u0BCD\u0B9F\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F \u0B9F\u0BC6\
+      \u0BB0\u0BCD\u0BB0\u0BBE\u0B95\u0BCD\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_SHULKER_BOX:
-    Display Name: Black Shulker Box
+    Display Name: "\u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD \u0BB7\u0BC1\u0BB2\u0BCD\u0B95\
+      \u0BB0\u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_STAINED_GLASS:
-    Display Name: Black Stained Glass
+    Display Name: "\u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD \u0B95\u0BB1\u0BC8\u0BAA\u0B9F\
+      \u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_STAINED_GLASS_PANE:
-    Display Name: Black Stained Glass Pane
+    Display Name: "\u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD \u0BB8\u0BCD\u0B9F\u0BC6\u0BA9\
+      \u0BCD\u0BA9\u0BC8 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BAA\u0BC7\u0BA9\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_TERRACOTTA:
-    Display Name: Black Terracotta
+    Display Name: "\u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\
+      \u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   BLACK_WALL_BANNER:
@@ -307,11 +346,13 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BLACK_WOOL:
-    Display Name: Black Wool
+    Display Name: "\u0B95\u0BB0\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1 \u0B95\u0BAE\u0BCD\u0BAA\
+      \u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BLAST_FURNACE:
-    Display Name: Blast Furnace
+    Display Name: "\u0B95\u0BC1\u0BA3\u0BCD\u0B9F\u0BC1 \u0BB5\u0BC6\u0B9F\u0BBF\u0BAA\
+      \u0BCD\u0BAA\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   BLAZE_POWDER:
@@ -328,23 +369,26 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BLUE_BANNER:
-    Display Name: Blue Banner
+    Display Name: "\u0BA8\u0BC0\u0BB2 \u0BAA\u0BC7\u0BA9\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_BED:
-    Display Name: Blue Bed
+    Display Name: "\u0BAA\u0BCD\u0BB3\u0BC2 \u0BAA\u0B9F\u0BC1\u0B95\u0BCD\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_CARPET:
-    Display Name: Blue Carpet
+    Display Name: "\u0BAA\u0BCD\u0BB3\u0BC2 \u0B95\u0BBE\u0BB0\u0BCD\u0BAA\u0BC6\u0B9F\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_CONCRETE:
-    Display Name: Blue Concrete
+    Display Name: "\u0BAA\u0BCD\u0BB3\u0BC2 \u0B95\u0BBE\u0BA9\u0BCD\u0B95\u0BBF\u0BB0\
+      \u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_CONCRETE_POWDER:
-    Display Name: Blue Concrete Powder
+    Display Name: "\u0BA8\u0BC0\u0BB2 \u0B95\u0BBE\u0BA9\u0BCD\u0B95\u0BBF\u0BB0\u0BC0\
+      \u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_DYE:
@@ -352,31 +396,38 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BLUE_GLAZED_TERRACOTTA:
-    Display Name: Blue Glazed Terracotta
+    Display Name: "\u0BA8\u0BC0\u0BB2 \u0BAE\u0BC6\u0BB0\u0BC1\u0B95\u0BC2\u0B9F\u0BCD\
+      \u0B9F\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\
+      \u0B95\u0BCD\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_ICE:
-    Display Name: Blue Ice
+    Display Name: "\u0BAA\u0BCD\u0BB3\u0BC2 \u0B90\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_ORCHID:
-    Display Name: Blue Orchid
+    Display Name: "\u0BAA\u0BCD\u0BB3\u0BC2 \u0B86\u0BB0\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF\
+      \u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_SHULKER_BOX:
-    Display Name: Blue Shulker Box
+    Display Name: "\u0BAA\u0BCD\u0BB3\u0BC2 \u0BB7\u0BC1\u0BB2\u0BCD\u0B95\u0BB0\u0BCD\
+      \ \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_STAINED_GLASS:
-    Display Name: Blue Stained Glass
+    Display Name: "\u0BA8\u0BC0\u0BB2 \u0B95\u0BB1\u0BC8 \u0BAA\u0B9F\u0BBF\u0BA8\u0BCD\
+      \u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_STAINED_GLASS_PANE:
-    Display Name: Blue Stained Glass Pane
+    Display Name: "\u0BA8\u0BC0\u0BB2 \u0BA8\u0BBF\u0BB1 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\
+      \u0B9F\u0BBF \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_TERRACOTTA:
-    Display Name: Blue Terracotta
+    Display Name: "\u0BAA\u0BCD\u0BB3\u0BC2 \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\u0B95\
+      \u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   BLUE_WALL_BANNER:
@@ -384,7 +435,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BLUE_WOOL:
-    Display Name: Blue Wool
+    Display Name: "\u0BAA\u0BCD\u0BB3\u0BC2 \u0B95\u0BAE\u0BCD\u0BAA\u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BONE:
@@ -392,7 +443,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BONE_BLOCK:
-    Display Name: Bone Block
+    Display Name: "\u0B8E\u0BB2\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1 \u0BAA\u0BBF\u0BB3\u0BBE\
+      \u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BONE_MEAL:
@@ -404,7 +456,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BOOKSHELF:
-    Display Name: Bookshelf
+    Display Name: "\u0BAA\u0BC1\u0B95\u0BCD\u0B9A\u0BC6\u0BB2\u0BCD\u0B83\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BOW:
@@ -416,19 +468,22 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BRAIN_CORAL:
-    Display Name: Brain Coral
+    Display Name: "\u0BAE\u0BC2\u0BB3\u0BC8 \u0B95\u0BCB\u0BB0\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BRAIN_CORAL_BLOCK:
-    Display Name: Brain Coral Block
+    Display Name: "\u0BAE\u0BC2\u0BB3\u0BC8 \u0B95\u0BCB\u0BB0\u0BB2\u0BCD \u0BAA\u0BBF\
+      \u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BRAIN_CORAL_FAN:
-    Display Name: Brain Coral Fan
+    Display Name: "\u0BAE\u0BC2\u0BB3\u0BC8 \u0BAA\u0BB5\u0BB3 \u0BB0\u0B9A\u0BBF\u0B95\
+      \u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BRAIN_CORAL_WALL_FAN:
-    Display Name: Brain Coral Wall Fan
+    Display Name: "\u0BAE\u0BC2\u0BB3\u0BC8 \u0BAA\u0BB5\u0BB3 \u0BB5\u0BBE\u0BB2\u0BCD\
+      \ \u0BB0\u0B9A\u0BBF\u0B95\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BREAD:
@@ -445,39 +500,46 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BRICKS:
-    Display Name: Bricks
+    Display Name: "\u0B9A\u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BRICK_SLAB:
-    Display Name: Brick Slab
+    Display Name: "\u0B9A\u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\
+      \u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BRICK_STAIRS:
-    Display Name: Brick Stairs
+    Display Name: "\u0B9A\u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BRICK_WALL:
-    Display Name: Brick Wall
+    Display Name: "\u0B9A\u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0B9A\u0BC1\u0BB5\u0BB0\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_BANNER:
-    Display Name: Brown Banner
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\u0BA9\u0BCD \u0BAA\u0BC7\u0BA9\u0BB0\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_BED:
-    Display Name: Brown Bed
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\u0BA9\u0BCD \u0BAA\u0B9F\u0BC1\u0B95\
+      \u0BCD\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_CARPET:
-    Display Name: Brown Carpet
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\u0BA9\u0BCD \u0B95\u0BBE\u0BB0\u0BCD\
+      \u0BAA\u0BC6\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_CONCRETE:
-    Display Name: Brown Concrete
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\u0BA9\u0BCD \u0B95\u0BBE\u0BA9\u0BCD\
+      \u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_CONCRETE_POWDER:
-    Display Name: Brown Concrete Powder
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\u0BA9\u0BCD \u0B95\u0BBE\u0BA9\u0BCD\
+      \u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_DYE:
@@ -486,31 +548,40 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BROWN_GLAZED_TERRACOTTA:
-    Display Name: Brown Glazed Terracotta
+    Display Name: "\u0BA8\u0BC0\u0BB2 \u0BAE\u0BC6\u0BB0\u0BC1\u0B95\u0BC2\u0B9F\u0BCD\
+      \u0B9F\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\
+      \u0B95\u0BCD\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_MUSHROOM:
-    Display Name: Brown Mushroom
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\u0BA9\u0BCD \u0B95\u0BBE\u0BB3\u0BBE\
+      \u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_MUSHROOM_BLOCK:
-    Display Name: Brown Mushroom Block
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\u0BA9\u0BCD \u0B95\u0BBE\u0BB3\u0BBE\
+      \u0BA9\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_SHULKER_BOX:
-    Display Name: Brown Shulker Box
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\u0BA9\u0BCD \u0BB7\u0BC1\u0BB2\u0BCD\
+      \u0B95\u0BB0\u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_STAINED_GLASS:
-    Display Name: Brown Stained Glass
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\u0BA9\u0BCD \u0B95\u0BB1\u0BC8 \u0BAA\
+      \u0B9F\u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_STAINED_GLASS_PANE:
-    Display Name: Brown Stained Glass Pane
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\u0BA9\u0BCD \u0B95\u0BB1\u0BC8 \u0BAA\
+      \u0B9F\u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BA4\
+      \u0B95\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_TERRACOTTA:
-    Display Name: Brown Terracotta
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\u0BA9\u0BCD \u0B9F\u0BC6\u0BB0\u0BCD\
+      \u0BB0\u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   BROWN_WALL_BANNER:
@@ -518,27 +589,31 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BROWN_WOOL:
-    Display Name: Brown Wool
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\u0BA9\u0BCD \u0B95\u0BAE\u0BCD\u0BAA\
+      \u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   BUBBLE_COLUMN:
-    Display Name: Bubble Column
+    Display Name: "\u0B95\u0BC1\u0BAE\u0BBF\u0BB4\u0BBF \u0BB5\u0BB0\u0BBF\u0B9A\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   BUBBLE_CORAL:
-    Display Name: Bubble Coral
+    Display Name: "\u0BAA\u0BAA\u0BC1\u0BB3\u0BCD \u0B95\u0BCB\u0BB0\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BUBBLE_CORAL_BLOCK:
-    Display Name: Bubble Coral Block
+    Display Name: "\u0BAA\u0BAA\u0BC1\u0BB3\u0BCD \u0B95\u0BCB\u0BB0\u0BB2\u0BCD \u0BAA\
+      \u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BUBBLE_CORAL_FAN:
-    Display Name: Bubble Coral Fan
+    Display Name: "\u0BAA\u0BAA\u0BCD\u0BAA\u0BBF\u0BB2\u0BCD \u0B95\u0BCB\u0BB0\u0BB2\
+      \u0BCD \u0BB0\u0B9A\u0BBF\u0B95\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BUBBLE_CORAL_WALL_FAN:
-    Display Name: Bubble Coral Wall Fan
+    Display Name: "\u0BAA\u0BAA\u0BC1\u0BB3\u0BCD \u0B95\u0BCB\u0BB0\u0BB2\u0BCD \u0BB5\
+      \u0BCB\u0BB2\u0BCD \u0B83\u0BAA\u0BBE\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   BUCKET:
@@ -546,15 +621,16 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CACTUS:
-    Display Name: Cactus
+    Display Name: "\u0B95\u0BB1\u0BCD\u0BB1\u0BBE\u0BB4\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   CAKE:
-    Display Name: Cake
+    Display Name: "\u0B95\u0BC7\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CAMPFIRE:
-    Display Name: Campfire
+    Display Name: "\u0BAE\u0BC1\u0B95\u0BBE\u0BAE\u0BBF\u0BB2\u0BCD \u0BAE\u0BC2\u0B9F\
+      \u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BA8\u0BC6\u0BB0\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   CARROT:
@@ -562,7 +638,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CARROTS:
-    Display Name: Carrots
+    Display Name: "\u0B95\u0BC7\u0BB0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CARROT_ON_A_STICK:
@@ -571,11 +647,13 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CARTOGRAPHY_TABLE:
-    Display Name: Cartography Table
+    Display Name: "\u0BB5\u0BB0\u0BC8\u0BAA\u0B9F \u0B85\u0B9F\u0BCD\u0B9F\u0BB5\u0BA3\
+      \u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   CARVED_PUMPKIN:
-    Display Name: Carved Pumpkin
+    Display Name: "\u0B9A\u0BC6\u0BA4\u0BC1\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\
+      \u0BCD\u0B9F \u0BAA\u0BC2\u0B9A\u0BA3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   CAT_SPAWN_EGG:
@@ -588,7 +666,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CAVE_AIR:
-    Display Name: Cave Air
+    Display Name: "\u0B95\u0BC1\u0B95\u0BC8 \u0B8F\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CAVE_SPIDER_SPAWN_EGG:
@@ -621,7 +699,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CHAIN_COMMAND_BLOCK:
-    Display Name: Chain Command Block
+    Display Name: "\u0B9A\u0B99\u0BCD\u0B95\u0BBF\u0BB2\u0BBF \u0B95\u0B9F\u0BCD\u0B9F\
+      \u0BB3\u0BC8\u0BA4\u0BCD \u0BA4\u0BCA\u0B95\u0BC1\u0BA4\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   CHARCOAL:
@@ -629,7 +708,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CHEST:
-    Display Name: Chest
+    Display Name: "\u0BAE\u0BBE\u0BB0\u0BCD\u0BAA\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   CHEST_MINECART:
@@ -647,27 +726,32 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CHIPPED_ANVIL:
-    Display Name: Chipped Anvil
+    Display Name: "\u0BAE\u0BC1\u0B9F\u0BCD\u0B9F\u0BBE\u0BB3\u0BCD \u0B85\u0BA9\u0BCD\
+      \u0BB5\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CHISELED_QUARTZ_BLOCK:
-    Display Name: Chiseled Quartz Block
+    Display Name: "\u0B9A\u0BBF\u0B9A\u0BB2\u0BCD\u0B9F\u0BCD \u0B95\u0BC1\u0BB5\u0BBE\
+      \u0BB0\u0BCD\u0B9F\u0BCD\u0BB8\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CHISELED_RED_SANDSTONE:
-    Display Name: Chiseled Red Sandstone
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BA3\u0BB1\u0BCD\
+      \u0B95\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CHISELED_SANDSTONE:
-    Display Name: Chiseled Sandstone
+    Display Name: "\u0B9A\u0BBF\u0BB8\u0BCD\u0B9F\u0BC6\u0BB2\u0BCD \u0B9A\u0BBE\u0BA3\
+      \u0BCD\u0B9F\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CHISELED_STONE_BRICKS:
-    Display Name: Chiseled Stone Bricks
+    Display Name: "\u0B9A\u0BBF\u0B9A\u0BBF\u0B9F\u0BB2\u0BCD \u0BB8\u0BCD\u0B9F\u0BCB\
+      \u0BA9\u0BCD \u0BAA\u0BBF\u0BB0\u0BBF\u0B95\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CHORUS_FLOWER:
-    Display Name: Chorus Flower
+    Display Name: "\u0B95\u0BCB\u0BB0\u0BB8\u0BCD \u0BAA\u0BCD\u0BB3\u0BC2"
     Has Hologram: true
     Max Stack Size: -1
   CHORUS_FRUIT:
@@ -675,11 +759,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CHORUS_PLANT:
-    Display Name: Chorus Plant
+    Display Name: "\u0B95\u0BCB\u0BB0\u0BB8\u0BCD \u0B86\u0BB2\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   CLAY:
-    Display Name: Clay
+    Display Name: "\u0B95\u0BB3\u0BBF\u0BAE\u0BA3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CLAY_BALL:
@@ -695,39 +779,44 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   COAL_BLOCK:
-    Display Name: Coal Block
+    Display Name: "\u0BA8\u0BBF\u0BB2\u0B95\u0BCD\u0B95\u0BB0\u0BBF \u0BAA\u0BBF\u0BB3\
+      \u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   COAL_ORE:
-    Display Name: Coal Ore
+    Display Name: "\u0BA8\u0BBF\u0BB2\u0B95\u0BCD\u0B95\u0BB0\u0BBF \u0B93\u0BB0\u0BC7"
     Has Hologram: true
     Max Stack Size: -1
   COARSE_DIRT:
-    Display Name: Coarse Dirt
+    Display Name: "\u0B95\u0BB0\u0B9F\u0BC1\u0BAE\u0BC1\u0BB0\u0B9F\u0BBE\u0BA9 \u0B85\
+      \u0BB4\u0BC1\u0B95\u0BCD\u0B95\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   COBBLESTONE:
-    Display Name: Cobblestone
+    Display Name: "\u0B89\u0BB0\u0BC1\u0BB3\u0BC8\u0B95\u0BCD\u0B95\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   COBBLESTONE_SLAB:
-    Display Name: Cobblestone Slab
+    Display Name: "\u0B95\u0BCB\u0BAA\u0BB2\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD\
+      \ \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   COBBLESTONE_STAIRS:
-    Display Name: Cobblestone Stairs
+    Display Name: "\u0B95\u0BCB\u0BAA\u0BB2\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD\
+      \ \u0BAE\u0BBE\u0B9F\u0BBF\u0B95\u0BB3\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   COBBLESTONE_WALL:
-    Display Name: Cobblestone Wall
+    Display Name: "\u0B95\u0BCB\u0BAA\u0BB2\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD\
+      \ \u0BB5\u0BCB\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   COBWEB:
-    Display Name: Cobweb
+    Display Name: "\u0B95\u0BC7\u0BBE\u0BAA\u0BCD\u0BB5\u0BC6\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   COCOA:
-    Display Name: Cocoa
+    Display Name: "\u0B95\u0BC7\u0BBE\u0B95\u0BC7\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   COCOA_BEANS:
@@ -748,7 +837,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   COMMAND_BLOCK:
-    Display Name: Command Block
+    Display Name: "\u0B95\u0B9F\u0BCD\u0B9F\u0BB3\u0BC8\u0BA4\u0BCD \u0BA4\u0BCA\u0B95\
+      \u0BC1\u0BA4\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   COMMAND_BLOCK_MINECART:
@@ -758,7 +848,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   COMPARATOR:
-    Display Name: Comparator
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0B92\
+      \u0BAA\u0BCD\u0BAA\u0BC0\u0B9F\u0BCD\u0B9F\u0BBE\u0BB3\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   COMPASS:
@@ -766,11 +857,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   COMPOSTER:
-    Display Name: Composter
+    Display Name: "\u0B89\u0BB0\u0BAE\u0BBE\u0B95\u0BCD\u0B95\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CONDUIT:
-    Display Name: Conduit
+    Display Name: "\u0B95\u0BBE\u0BB2\u0BCD\u0BB5\u0BBE\u0BAF\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   COOKED_BEEF:
@@ -810,7 +901,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CORNFLOWER:
-    Display Name: Cornflower
+    Display Name: "\u0B95\u0BBE\u0BA9\u0BCD\u0B83\u0BAA\u0BBF\u0BB3\u0BB5\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   COW_SPAWN_EGG:
@@ -819,11 +910,13 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CRACKED_STONE_BRICKS:
-    Display Name: Cracked Stone Bricks
+    Display Name: "\u0B95\u0BBF\u0BB0\u0BBE\u0B95\u0BCD \u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\
+      \u0BCD \u0BAA\u0BBF\u0BB0\u0BBF\u0B95\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CRAFTING_TABLE:
-    Display Name: Crafting Table
+    Display Name: "\u0B95\u0BC8\u0BB5\u0BBF\u0BA9\u0BC8 \u0B85\u0B9F\u0BCD\u0B9F\u0BB5\
+      \u0BA3\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   CREEPER_BANNER_PATTERN:
@@ -842,7 +935,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CREEPER_WALL_HEAD:
-    Display Name: Creeper Wall Head
+    Display Name: "\u0B95\u0BCD\u0BB0\u0BC0\u0BAA\u0BCD\u0BAA\u0BB0\u0BCD \u0BB5\u0BCB\
+      \u0BB2\u0BCD \u0BB9\u0BC6\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CROSSBOW:
@@ -850,39 +944,46 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CUT_RED_SANDSTONE:
-    Display Name: Cut Red Sandstone
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BA3\u0BB1\u0BCD\
+      \u0B95\u0BB2\u0BCD \u0BB5\u0BC6\u0B9F\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   CUT_RED_SANDSTONE_SLAB:
-    Display Name: Cut Red Sandstone Slab
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BA3\u0BB1\u0BCD\
+      \u0B95\u0BB2\u0BCD \u0B95\u0BB2\u0BCD\u0BB2\u0BBF\u0BA9\u0BCD \u0B85\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   CUT_SANDSTONE:
-    Display Name: Cut Sandstone
+    Display Name: "\u0BB5\u0BC6\u0B9F\u0BCD\u0B9F\u0BC1 \u0BAE\u0BA3\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CUT_SANDSTONE_SLAB:
-    Display Name: Cut Sandstone Slab
+    Display Name: "\u0B9A\u0BBE\u0BA3\u0BCD\u0B9F\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\
+      \u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD \u0BB5\u0BC6\u0B9F\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_BANNER:
-    Display Name: Cyan Banner
+    Display Name: "\u0B9A\u0BBF\u0BAF\u0BBE\u0BA9\u0BCD \u0BAA\u0BA4\u0BBE\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_BED:
-    Display Name: Cyan Bed
+    Display Name: "\u0B9A\u0BBF\u0BAF\u0BBE\u0BA9\u0BCD \u0BAA\u0B9F\u0BC1\u0B95\u0BCD\
+      \u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_CARPET:
-    Display Name: Cyan Carpet
+    Display Name: "\u0B9A\u0BBF\u0BAF\u0BBE\u0BA9\u0BCD \u0B95\u0BBE\u0BB0\u0BCD\u0BAA\
+      \u0BC6\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_CONCRETE:
-    Display Name: Cyan Concrete
+    Display Name: "\u0B9A\u0BAF\u0BA9\u0BCD \u0B95\u0BBE\u0BA9\u0BCD\u0B95\u0BBF\u0BB0\
+      \u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_CONCRETE_POWDER:
-    Display Name: Cyan Concrete Powder
+    Display Name: "\u0B9A\u0BBF\u0BAF\u0BBE\u0BA9\u0BCD \u0B95\u0BBE\u0BA9\u0BCD\u0B95\
+      \u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_DYE:
@@ -890,23 +991,29 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CYAN_GLAZED_TERRACOTTA:
-    Display Name: Cyan Glazed Terracotta
+    Display Name: "\u0B9A\u0BBF\u0BAF\u0BBE\u0BA9\u0BCD \u0B95\u0BBF\u0BB3\u0BC7\u0B9A\
+      \u0B9F\u0BCD \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\
+      \u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_SHULKER_BOX:
-    Display Name: Cyan Shulker Box
+    Display Name: "\u0B9A\u0BBF\u0BAF\u0BBE\u0BA9\u0BCD \u0BB7\u0BC1\u0BB2\u0BCD\u0B95\
+      \u0BB0\u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_STAINED_GLASS:
-    Display Name: Cyan Stained Glass
+    Display Name: "\u0B9A\u0BBF\u0BAF\u0BBE\u0BA9\u0BCD \u0B95\u0BB1\u0BC8 \u0BAA\u0B9F\
+      \u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_STAINED_GLASS_PANE:
-    Display Name: Cyan Stained Glass Pane
+    Display Name: "\u0B9A\u0BBF\u0BAF\u0BBE\u0BA9\u0BCD \u0BAA\u0B9F\u0BBF\u0BA8\u0BCD\
+      \u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BAA\u0BC7\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_TERRACOTTA:
-    Display Name: Cyan Terracotta
+    Display Name: "\u0B9A\u0BBF\u0BAF\u0BBE\u0BA9\u0BCD \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\
+      \u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   CYAN_WALL_BANNER:
@@ -914,15 +1021,17 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CYAN_WOOL:
-    Display Name: Cyan Wool
+    Display Name: "\u0B9A\u0BBF\u0BAF\u0BBE\u0BA9\u0BCD \u0B95\u0BAE\u0BCD\u0BAA\u0BB3\
+      \u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   DAMAGED_ANVIL:
-    Display Name: Damaged Anvil
+    Display Name: "\u0B9A\u0BC7\u0BA4\u0BAE\u0B9F\u0BC8\u0BA8\u0BCD\u0BA4 \u0B85\u0BA9\
+      \u0BCD\u0BB5\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DANDELION:
-    Display Name: Dandelion
+    Display Name: "\u0B9F\u0BC7\u0BA9\u0BCD\u0B9F\u0BC7\u0BB2\u0BBF\u0BAF\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_BOAT:
@@ -931,163 +1040,203 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_BUTTON:
-    Display Name: Dark Oak Button
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0BAA\u0B9F\
+      \u0BCD\u0B9F\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_DOOR:
-    Display Name: Dark Oak Door
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0B95\u0BA4\
+      \u0BB5\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_FENCE:
-    Display Name: Dark Oak Fence
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0B83\u0BAA\
+      \u0BC6\u0BA9\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_FENCE_GATE:
-    Display Name: Dark Oak Fence Gate
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0BB5\u0BC7\
+      \u0BB2\u0BBF \u0B95\u0BC7\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_LEAVES:
-    Display Name: Dark Oak Leaves
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0B87\u0BB2\
+      \u0BC8\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_LOG:
-    Display Name: Dark Oak Log
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0BAA\u0BC1\
+      \u0B95\u0BC1\u0BAA\u0BA4\u0BBF\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_PLANKS:
-    Display Name: Dark Oak Planks
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0BAA\u0BBF\
+      \u0BB3\u0BBE\u0B99\u0BCD\u0B95\u0BC1\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_PRESSURE_PLATE:
-    Display Name: Dark Oak Pressure Plate
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0B85\u0BB4\
+      \u0BC1\u0BA4\u0BCD\u0BA4\u0BAE\u0BCD \u0BA4\u0B9F\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_SAPLING:
-    Display Name: Dark Oak Sapling
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0B9A\u0BAA\
+      \u0BCD\u0BAA\u0BBE\u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_SIGN:
-    Display Name: Dark Oak Sign
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0B9A\u0BC8\
+      \u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_SLAB:
-    Display Name: Dark Oak Slab
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0BB8\u0BCD\
+      \u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_STAIRS:
-    Display Name: Dark Oak Stairs
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0BAE\u0BBE\
+      \u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_TRAPDOOR:
-    Display Name: Dark Oak Trapdoor
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0B9F\u0BCD\
+      \u0BB0\u0BBE\u0BAA\u0BB0\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_WALL_SIGN:
-    Display Name: Dark Oak Wall Sign
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0BB5\u0BBE\
+      \u0BB2\u0BCD \u0B9A\u0BC8\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_WOOD:
-    Display Name: Dark Oak Wood
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0BB5\u0BC2\
+      \u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DARK_PRISMARINE:
-    Display Name: Dark Prismarine
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0BAA\u0BBF\u0BB0\u0BC8\u0B9A\
+      \u0BB0\u0BC8\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DARK_PRISMARINE_SLAB:
-    Display Name: Dark Prismarine Slab
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0BAA\u0BBF\u0BB0\u0BC8\u0B9A\
+      \u0BB0\u0BC8\u0BA9\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DARK_PRISMARINE_STAIRS:
-    Display Name: Dark Prismarine Stairs
+    Display Name: "\u0B9F\u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0BAA\u0BBF\u0BB0\u0BC8\u0B9A\
+      \u0BB0\u0BC8\u0BA9\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF\u0BAA\u0BCD\u0BAA\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   DAYLIGHT_DETECTOR:
-    Display Name: Daylight Detector
+    Display Name: "\u0BAA\u0B95\u0BB2\u0BCD \u0B95\u0BA3\u0BCD\u0B9F\u0BB1\u0BBF\u0BA4\
+      \u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BRAIN_CORAL:
-    Display Name: Dead Brain Coral
+    Display Name: "\u0B87\u0BB1\u0BA8\u0BCD\u0BA4 \u0BAE\u0BC2\u0BB3\u0BC8 \u0B95\u0BCB\
+      \u0BB0\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BRAIN_CORAL_BLOCK:
-    Display Name: Dead Brain Coral Block
+    Display Name: "\u0B87\u0BB1\u0BA8\u0BCD\u0BA4 \u0BAE\u0BC2\u0BB3\u0BC8 \u0B95\u0BCB\
+      \u0BB0\u0BB2\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BRAIN_CORAL_FAN:
-    Display Name: Dead Brain Coral Fan
+    Display Name: "\u0B87\u0BB1\u0BA8\u0BCD\u0BA4 \u0BAE\u0BC2\u0BB3\u0BC8 \u0B95\u0BCB\
+      \u0BB0\u0BB2\u0BCD \u0BB0\u0B9A\u0BBF\u0B95\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BRAIN_CORAL_WALL_FAN:
-    Display Name: Dead Brain Coral Wall Fan
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0BAE\u0BC2\u0BB3\u0BC8 \u0BAA\u0BB5\u0BB3\
+      \ \u0BB5\u0BBE\u0BB2\u0BCD \u0BB0\u0B9A\u0BBF\u0B95\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BUBBLE_CORAL:
-    Display Name: Dead Bubble Coral
+    Display Name: "\u0B87\u0BB1\u0BA8\u0BCD\u0BA4 \u0B95\u0BC1\u0BAE\u0BBF\u0BB4\u0BCD\
+      \ \u0B95\u0BCB\u0BB0\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BUBBLE_CORAL_BLOCK:
-    Display Name: Dead Bubble Coral Block
+    Display Name: "\u0B87\u0BB1\u0BA8\u0BCD\u0BA4 \u0B95\u0BC1\u0BAE\u0BBF\u0BB4\u0BCD\
+      \ \u0B95\u0BCB\u0BB0\u0BB2\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BUBBLE_CORAL_FAN:
-    Display Name: Dead Bubble Coral Fan
+    Display Name: "\u0B87\u0BB1\u0BA8\u0BCD\u0BA4 \u0BAA\u0BAA\u0BC1\u0BB3\u0BCD \u0B95\
+      \u0BCB\u0BB0\u0BB2\u0BCD \u0BB0\u0B9A\u0BBF\u0B95\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BUBBLE_CORAL_WALL_FAN:
-    Display Name: Dead Bubble Coral Wall Fan
+    Display Name: "\u0B87\u0BB1\u0BA8\u0BCD\u0BA4 \u0B95\u0BC1\u0BAE\u0BBF\u0BB4\u0BCD\
+      \ \u0B95\u0BCB\u0BB0\u0BB2\u0BCD \u0BB5\u0BBE\u0BB2\u0BCD \u0BB0\u0B9A\u0BBF\
+      \u0B95\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_BUSH:
-    Display Name: Dead Bush
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0BAA\u0BC1\u0BB7\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_FIRE_CORAL:
-    Display Name: Dead Fire Coral
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0B83\u0BAA\u0BAF\u0BB0\u0BCD \u0B95\u0BCB\
+      \u0BB0\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_FIRE_CORAL_BLOCK:
-    Display Name: Dead Fire Coral Block
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0B83\u0BAA\u0BAF\u0BB0\u0BCD \u0B95\u0BCB\
+      \u0BB0\u0BB2\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_FIRE_CORAL_FAN:
-    Display Name: Dead Fire Coral Fan
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0BA4\u0BC0 \u0B95\u0BCB\u0BB0\u0BB2\u0BCD\
+      \ \u0B83\u0BAA\u0BC7\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_FIRE_CORAL_WALL_FAN:
-    Display Name: Dead Fire Coral Wall Fan
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0B83\u0BAA\u0BAF\u0BB0\u0BCD \u0B95\u0BCB\
+      \u0BB0\u0BB2\u0BCD \u0BB5\u0BBE\u0BB2\u0BCD \u0BAA\u0BC7\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_HORN_CORAL:
-    Display Name: Dead Horn Coral
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0BB9\u0BBE\u0BB0\u0BCD\u0BA9\u0BCD \u0B95\
+      \u0BCB\u0BB0\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_HORN_CORAL_BLOCK:
-    Display Name: Dead Horn Coral Block
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0BB9\u0BBE\u0BB0\u0BCD\u0BA9\u0BCD \u0B95\
+      \u0BCA\u0BB0\u0BB2\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_HORN_CORAL_FAN:
-    Display Name: Dead Horn Coral Fan
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0BB9\u0BBE\u0BB0\u0BCD\u0BA9\u0BCD \u0B95\
+      \u0BCB\u0BB0\u0BB2\u0BCD \u0BB0\u0B9A\u0BBF\u0B95\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_HORN_CORAL_WALL_FAN:
-    Display Name: Dead Horn Coral Wall Fan
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0BB9\u0BBE\u0BB0\u0BCD\u0BA9\u0BCD \u0B95\
+      \u0BCA\u0BB0\u0BB2\u0BCD \u0BB5\u0BCB\u0BB2\u0BCD \u0B83\u0BAA\u0BBE\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_TUBE_CORAL:
-    Display Name: Dead Tube Coral
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0B95\u0BC1\u0BB4\u0BBE\u0BAF\u0BCD \u0B95\
+      \u0BCB\u0BB0\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_TUBE_CORAL_BLOCK:
-    Display Name: Dead Tube Coral Block
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0B95\u0BC1\u0BB4\u0BBE\u0BAF\u0BCD \u0B95\
+      \u0BCB\u0BB0\u0BB2\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_TUBE_CORAL_FAN:
-    Display Name: Dead Tube Coral Fan
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0B95\u0BC1\u0BB4\u0BBE\u0BAF\u0BCD \u0B95\
+      \u0BCB\u0BB0\u0BB2\u0BCD \u0BB0\u0B9A\u0BBF\u0B95\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEAD_TUBE_CORAL_WALL_FAN:
-    Display Name: Dead Tube Coral Wall Fan
+    Display Name: "\u0B9F\u0BC6\u0B9F\u0BCD \u0B95\u0BC1\u0BB4\u0BBE\u0BAF\u0BCD \u0BAA\
+      \u0BB5\u0BB3 \u0BB5\u0BBE\u0BB2\u0BCD \u0BB0\u0B9A\u0BBF\u0B95\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DEBUG_STICK:
@@ -1096,7 +1245,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DETECTOR_RAIL:
-    Display Name: Detector Rail
+    Display Name: "\u0B95\u0BA3\u0BCD\u0B9F\u0BB1\u0BBF\u0BA4\u0BB2\u0BCD \u0BB0\u0BAF\
+      \u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DIAMOND:
@@ -1109,7 +1259,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DIAMOND_BLOCK:
-    Display Name: Diamond Block
+    Display Name: "\u0B9F\u0BAF\u0BAE\u0BA3\u0BCD\u0B9F\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\
+      \u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DIAMOND_BOOTS:
@@ -1142,7 +1293,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DIAMOND_ORE:
-    Display Name: Diamond Ore
+    Display Name: "\u0B9F\u0BAF\u0BAE\u0BA3\u0BCD\u0B9F\u0BCD \u0B93\u0BB0\u0BC7"
     Has Hologram: true
     Max Stack Size: -1
   DIAMOND_PICKAXE:
@@ -1163,23 +1314,25 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DIORITE_SLAB:
-    Display Name: Diorite Slab
+    Display Name: "\u0BA4\u0BBF\u0BAF\u0BB0\u0BBF\u0B9F\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\
+      \u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DIORITE_STAIRS:
-    Display Name: Diorite Stairs
+    Display Name: "\u0B95\u0BBF\u0BB0\u0BBE\u0BA9\u0BC8\u0B9F\u0BCD \u0BAA\u0B9F\u0BBF\
+      \u0B95\u0BCD\u0B95\u0B9F\u0BCD\u0B9F\u0BC1\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DIORITE_WALL:
-    Display Name: Diorite Wall
+    Display Name: "\u0BA4\u0BBF\u0BAF\u0BB0\u0BBF\u0B9F\u0BCD \u0BB5\u0BCB\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DIRT:
-    Display Name: Dirt
+    Display Name: "\u0B9F\u0BB0\u0BCD\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DISPENSER:
-    Display Name: Dispenser
+    Display Name: "\u0BB5\u0BB4\u0B99\u0BCD\u0B95\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   DOLPHIN_SPAWN_EGG:
@@ -1198,7 +1351,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DRAGON_EGG:
-    Display Name: Dragon Egg
+    Display Name: "\u0B9F\u0BBF\u0BB0\u0BBE\u0B95\u0BA9\u0BCD \u0BAE\u0BC1\u0B9F\u0BCD\
+      \u0B9F\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   DRAGON_HEAD:
@@ -1207,7 +1361,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DRAGON_WALL_HEAD:
-    Display Name: Dragon Wall Head
+    Display Name: "\u0B9F\u0BBF\u0BB0\u0BBE\u0B95\u0BA9\u0BCD \u0BB5\u0BCB\u0BB2\u0BCD\
+      \ \u0BA4\u0BB2\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   DRIED_KELP:
@@ -1216,11 +1371,12 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DRIED_KELP_BLOCK:
-    Display Name: Dried Kelp Block
+    Display Name: "\u0B89\u0BB2\u0BB0\u0BCD\u0BA8\u0BCD\u0BA4 \u0B95\u0BC6\u0BB2\u0BCD\
+      \u0BAA\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   DROPPER:
-    Display Name: Dropper
+    Display Name: "\u0BA4\u0BC1\u0BB3\u0BBF\u0B9A\u0BC6\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   DROWNED_SPAWN_EGG:
@@ -1247,11 +1403,12 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   EMERALD_BLOCK:
-    Display Name: Emerald Block
+    Display Name: "\u0B8E\u0BAE\u0BB0\u0BBE\u0BB2\u0BCD\u0B9F\u0BC1 \u0BA4\u0B9F\u0BC1\
+      \u0BAA\u0BCD\u0BAA\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   EMERALD_ORE:
-    Display Name: Emerald Ore
+    Display Name: "\u0B8E\u0BAE\u0BB0\u0BBE\u0BB2\u0BCD\u0B9F\u0BC1 \u0B93\u0BB0\u0BC7"
     Has Hologram: true
     Max Stack Size: -1
   ENCHANTED_BOOK:
@@ -1265,7 +1422,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ENCHANTING_TABLE:
-    Display Name: Enchanting Table
+    Display Name: "\u0BAE\u0BAF\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD \u0B85\u0B9F\u0BCD\
+      \u0B9F\u0BB5\u0BA3\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   ENDERMAN_SPAWN_EGG:
@@ -1279,7 +1437,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ENDER_CHEST:
-    Display Name: Ender Chest
+    Display Name: "\u0B8E\u0BA3\u0BCD\u0B9F\u0BB0\u0BCD \u0B9A\u0BC6\u0BB8\u0BCD\u0B9F\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ENDER_EYE:
@@ -1296,39 +1455,46 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   END_GATEWAY:
-    Display Name: End Gateway
+    Display Name: "\u0BAE\u0BC1\u0B9F\u0BBF\u0BB5\u0BC1 \u0BA8\u0BC1\u0BB4\u0BC8\u0BB5\
+      \u0BBE\u0BAF\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   END_PORTAL:
-    Display Name: End Portal
+    Display Name: "\u0B87\u0BB1\u0BC1\u0BA4\u0BBF \u0BB5\u0BB2\u0BC8\u0BB5\u0BBE\u0B9A\
+      \u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   END_PORTAL_FRAME:
-    Display Name: End Portal Frame
+    Display Name: "\u0B87\u0BB1\u0BC1\u0BA4\u0BBF \u0BB5\u0BB2\u0BC8\u0BA4\u0BCD \u0BA4\
+      \u0BB3\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   END_ROD:
-    Display Name: End Rod
+    Display Name: "\u0BAE\u0BC1\u0B9F\u0BBF\u0BB5\u0BC1 \u0BB0\u0BBE\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   END_STONE:
-    Display Name: End Stone
+    Display Name: "\u0BAE\u0BC1\u0B9F\u0BBF\u0BB5\u0BC1 \u0B95\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   END_STONE_BRICKS:
-    Display Name: End Stone Bricks
+    Display Name: "\u0BAE\u0BC1\u0B9F\u0BBF\u0BB5\u0BC1 \u0B95\u0BB2\u0BCD \u0B9A\u0BC6\
+      \u0B99\u0BCD\u0B95\u0BB2\u0BCD\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   END_STONE_BRICK_SLAB:
-    Display Name: End Stone Brick Slab
+    Display Name: "\u0BAE\u0BC1\u0B9F\u0BBF\u0BB5\u0BC1 \u0B95\u0BB2\u0BCD \u0B9A\u0BC6\
+      \u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   END_STONE_BRICK_STAIRS:
-    Display Name: End Stone Brick Stairs
+    Display Name: "\u0BAE\u0BC1\u0B9F\u0BBF\u0BB5\u0BC1 \u0B95\u0BB2\u0BCD \u0B9A\u0BC6\
+      \u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   END_STONE_BRICK_WALL:
-    Display Name: End Stone Brick Wall
+    Display Name: "\u0BAE\u0BC1\u0B9F\u0BBF\u0BB5\u0BC1 \u0B95\u0BB2\u0BCD \u0B9A\u0BC6\
+      \u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0B9A\u0BC1\u0BB5\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   EVOKER_SPAWN_EGG:
@@ -1343,7 +1509,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   FARMLAND:
-    Display Name: Farmland
+    Display Name: "\u0BB5\u0BBF\u0BB5\u0B9A\u0BBE\u0BAF \u0BA8\u0BBF\u0BB2\u0BA4\u0BCD\
+      \u0BA4\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   FEATHER:
@@ -1356,7 +1523,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   FERN:
-    Display Name: Fern
+    Display Name: "\u0BAA\u0BA9\u0BCD\u0BA9\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   FILLED_MAP:
@@ -1364,7 +1531,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   FIRE:
-    Display Name: Fire
+    Display Name: "\u0BA4\u0BC0"
     Has Hologram: true
     Max Stack Size: -1
   FIREWORK_ROCKET:
@@ -1382,19 +1549,22 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   FIRE_CORAL:
-    Display Name: Fire Coral
+    Display Name: "\u0BA4\u0BC0 \u0B95\u0BCB\u0BB0\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   FIRE_CORAL_BLOCK:
-    Display Name: Fire Coral Block
+    Display Name: "\u0BA4\u0BC0 \u0B95\u0BCB\u0BB0\u0BB2\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\
+      \u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   FIRE_CORAL_FAN:
-    Display Name: Fire Coral Fan
+    Display Name: "\u0BA4\u0BC0 \u0B95\u0BCB\u0BB0\u0BB2\u0BCD \u0BB0\u0B9A\u0BBF\u0B95\
+      \u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   FIRE_CORAL_WALL_FAN:
-    Display Name: Fire Coral Wall Fan
+    Display Name: "\u0BA4\u0BC0 \u0BAA\u0BB5\u0BB3 \u0BB5\u0BBE\u0BB2\u0BCD \u0BB0\
+      \u0B9A\u0BBF\u0B95\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   FISHING_ROD:
@@ -1403,7 +1573,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   FLETCHING_TABLE:
-    Display Name: Fletching Table
+    Display Name: "\u0B83\u0BAA\u0BBF\u0BB3\u0BC6\u0B95\u0BCD\u0B95\u0BBF\u0B99\u0BCD\
+      \ \u0B9F\u0BC7\u0BAA\u0BBF\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   FLINT:
@@ -1430,11 +1601,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   FROSTED_ICE:
-    Display Name: Frosted Ice
+    Display Name: "\u0B89\u0BB1\u0BC8\u0BA8\u0BCD\u0BA4 \u0BAA\u0BA9\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   FURNACE:
-    Display Name: Furnace
+    Display Name: "\u0B9A\u0BC2\u0BB3\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   FURNACE_MINECART:
@@ -1453,7 +1624,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GLASS:
-    Display Name: Glass
+    Display Name: "\u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   GLASS_BOTTLE:
@@ -1462,7 +1633,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GLASS_PANE:
-    Display Name: Glass Pane
+    Display Name: "\u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BAA\u0BC7\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GLISTERING_MELON_SLICE:
@@ -1475,7 +1646,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GLOWSTONE:
-    Display Name: Glowstone
+    Display Name: "\u0B92\u0BB3\u0BBF \u0B95\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GLOWSTONE_DUST:
@@ -1541,7 +1712,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GOLD_BLOCK:
-    Display Name: Gold Block
+    Display Name: "\u0BA4\u0B99\u0BCD\u0B95\u0BAE\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GOLD_INGOT:
@@ -1553,59 +1725,67 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GOLD_ORE:
-    Display Name: Gold Ore
+    Display Name: "\u0BA4\u0B99\u0BCD\u0B95 \u0B93\u0BB0\u0BC7"
     Has Hologram: true
     Max Stack Size: -1
   GRANITE:
-    Display Name: Granite
+    Display Name: "\u0B95\u0BBF\u0BB0\u0BBE\u0BA9\u0BC8\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GRANITE_SLAB:
-    Display Name: Granite Slab
+    Display Name: "\u0B95\u0BBF\u0BB0\u0BBE\u0BA9\u0BC8\u0B9F\u0BCD \u0BB8\u0BCD\u0BB2\
+      \u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GRANITE_STAIRS:
-    Display Name: Granite Stairs
+    Display Name: "\u0B95\u0BBF\u0BB0\u0BBE\u0BA9\u0BC8\u0B9F\u0BCD \u0BAA\u0B9F\u0BBF\
+      \u0B95\u0BCD\u0B95\u0B9F\u0BCD\u0B9F\u0BC1\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GRANITE_WALL:
-    Display Name: Granite Wall
+    Display Name: "\u0B95\u0BBF\u0BB0\u0BBE\u0BA9\u0BC8\u0B9F\u0BCD \u0BB5\u0BBE\u0BB2\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GRASS:
-    Display Name: Grass
+    Display Name: "\u0BAA\u0BC1\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GRASS_BLOCK:
-    Display Name: Grass Block
+    Display Name: "\u0B95\u0BC1\u0BB1\u0BC1\u0B95\u0BCD\u0B95\u0BC1 \u0BAA\u0BBF\u0BB3\
+      \u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GRASS_PATH:
-    Display Name: Grass Path
+    Display Name: "\u0BAA\u0BC1\u0BB2\u0BCD \u0BAA\u0BBE\u0BA4\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GRAVEL:
-    Display Name: Gravel
+    Display Name: "\u0B9A\u0BB0\u0BB3\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_BANNER:
-    Display Name: Gray Banner
+    Display Name: "\u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0BAA\u0BA4\u0BBE\u0B95\
+      \u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_BED:
-    Display Name: Gray Bed
+    Display Name: "\u0B95\u0BBF\u0BB0\u0BC7 \u0BAA\u0B9F\u0BC1\u0B95\u0BCD\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_CARPET:
-    Display Name: Gray Carpet
+    Display Name: "\u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0B95\u0BAE\u0BCD\u0BAA\
+      \u0BB3\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_CONCRETE:
-    Display Name: Gray Concrete
+    Display Name: "\u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0B95\u0BBE\u0BA9\u0BCD\
+      \u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_CONCRETE_POWDER:
-    Display Name: Gray Concrete Powder
+    Display Name: "\u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0B95\u0BBE\u0BA9\u0BCD\
+      \u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_DYE:
@@ -1614,23 +1794,29 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GRAY_GLAZED_TERRACOTTA:
-    Display Name: Gray Glazed Terracotta
+    Display Name: "\u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0BAA\u0BB3\u0BAA\u0BB3\
+      \u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\u0B95\u0BCB\
+      \u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_SHULKER_BOX:
-    Display Name: Gray Shulker Box
+    Display Name: "\u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0BB7\u0BC1\u0BB2\u0BCD\
+      \u0B95\u0BB0\u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_STAINED_GLASS:
-    Display Name: Gray Stained Glass
+    Display Name: "\u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0BA8\u0BBF\u0BB1 \u0B95\
+      \u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_STAINED_GLASS_PANE:
-    Display Name: Gray Stained Glass Pane
+    Display Name: "\u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0BA8\u0BBF\u0BB1 \u0B95\
+      \u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_TERRACOTTA:
-    Display Name: Gray Terracotta
+    Display Name: "\u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0B9F\u0BC6\u0BB0\u0BCD\
+      \u0BB0\u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   GRAY_WALL_BANNER:
@@ -1638,27 +1824,32 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GRAY_WOOL:
-    Display Name: Gray Wool
+    Display Name: "\u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0B95\u0BAE\u0BCD\u0BAA\
+      \u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_BANNER:
-    Display Name: Green Banner
+    Display Name: "\u0BAA\u0B9A\u0BCD\u0B9A\u0BC8 \u0BAA\u0BC7\u0BA9\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_BED:
-    Display Name: Green Bed
+    Display Name: "\u0BAA\u0B9A\u0BC1\u0BAE\u0BC8 \u0BAA\u0B9F\u0BC1\u0B95\u0BCD\u0B95\
+      \u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_CARPET:
-    Display Name: Green Carpet
+    Display Name: "\u0BAA\u0B9A\u0BCD\u0B9A\u0BC8 \u0B95\u0BAE\u0BCD\u0BAA\u0BB3\u0BAE\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_CONCRETE:
-    Display Name: Green Concrete
+    Display Name: "\u0BAA\u0B9A\u0BCD\u0B9A\u0BC8 \u0B95\u0BBE\u0BA9\u0BCD\u0B95\u0BBF\
+      \u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_CONCRETE_POWDER:
-    Display Name: Green Concrete Powder
+    Display Name: "\u0BAA\u0B9A\u0BCD\u0B9A\u0BC8 \u0B95\u0BBE\u0BA9\u0BCD\u0B95\u0BBF\
+      \u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_DYE:
@@ -1666,23 +1857,29 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GREEN_GLAZED_TERRACOTTA:
-    Display Name: Green Glazed Terracotta
+    Display Name: "\u0BAA\u0B9A\u0BCD\u0B9A\u0BC8 \u0BAE\u0BC6\u0BB0\u0BC1\u0B95\u0BC2\
+      \u0B9F\u0BCD\u0B9F\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F \u0B9F\u0BC6\u0BB0\u0BCD\
+      \u0BB0\u0BBE\u0B95\u0BCD\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_SHULKER_BOX:
-    Display Name: Green Shulker Box
+    Display Name: "\u0BAA\u0B9A\u0BCD\u0B9A\u0BC8 \u0BB7\u0BC2\u0BB2\u0BCD\u0B95\u0BB0\
+      \u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_STAINED_GLASS:
-    Display Name: Green Stained Glass
+    Display Name: "\u0BAA\u0B9A\u0BC1\u0BAE\u0BC8 \u0B95\u0BB1\u0BC8 \u0BAA\u0B9F\u0BBF\
+      \u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_STAINED_GLASS_PANE:
-    Display Name: Green Stained Glass Pane
+    Display Name: "\u0BAA\u0B9A\u0BC1\u0BAE\u0BC8 \u0BAA\u0B9F\u0BBF\u0BA8\u0BCD\u0BA4\
+      \ \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BA4\u0B95\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_TERRACOTTA:
-    Display Name: Green Terracotta
+    Display Name: "\u0BAA\u0B9A\u0BCD\u0B9A\u0BC8 \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\
+      \u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   GREEN_WALL_BANNER:
@@ -1690,11 +1887,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GREEN_WOOL:
-    Display Name: Green Wool
+    Display Name: "\u0BAA\u0B9A\u0BCD\u0B9A\u0BC8 \u0B95\u0BAE\u0BCD\u0BAA\u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   GRINDSTONE:
-    Display Name: Grindstone
+    Display Name: "\u0B85\u0BAE\u0BCD\u0BAE\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   GUARDIAN_SPAWN_EGG:
@@ -1707,7 +1904,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   HAY_BLOCK:
-    Display Name: Hay Block
+    Display Name: "\u0BB9\u0BC7 \u0BAA\u0BC7\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   HEART_OF_THE_SEA:
@@ -1715,7 +1912,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   HEAVY_WEIGHTED_PRESSURE_PLATE:
-    Display Name: Heavy Weighted Pressure Plate
+    Display Name: "\u0B95\u0BA9\u0BB0\u0B95 \u0B8E\u0B9F\u0BC8 \u0B85\u0BB4\u0BC1\u0BA4\
+      \u0BCD\u0BA4 \u0B85\u0BB4\u0BC1\u0BA4\u0BCD\u0BA4\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   HONEYCOMB:
@@ -1723,11 +1921,12 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   HONEYCOMB_BLOCK:
-    Display Name: Honeycomb Block
+    Display Name: "\u0BA4\u0BC7\u0BA9\u0BCD\u0B95\u0BC2\u0B9F\u0BC1 \u0BA4\u0BCA\u0B95\
+      \u0BC1\u0BA4\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   HONEY_BLOCK:
-    Display Name: Honey Block
+    Display Name: "\u0BA4\u0BC7\u0BA9\u0BCD \u0BA4\u0BCA\u0B95\u0BC1\u0BA4\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   HONEY_BOTTLE:
@@ -1736,7 +1935,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   HOPPER:
-    Display Name: Hopper
+    Display Name: "\u0BB9\u0BBE\u0BAA\u0BCD\u0BAA\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   HOPPER_MINECART:
@@ -1745,19 +1944,22 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   HORN_CORAL:
-    Display Name: Horn Coral
+    Display Name: "\u0BB9\u0BBE\u0BB0\u0BCD\u0BA9\u0BCD \u0B95\u0BCB\u0BB0\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   HORN_CORAL_BLOCK:
-    Display Name: Horn Coral Block
+    Display Name: "\u0BB9\u0BBE\u0BB0\u0BCD\u0BA9\u0BCD \u0B95\u0BCB\u0BB0\u0BB2\u0BCD\
+      \ \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   HORN_CORAL_FAN:
-    Display Name: Horn Coral Fan
+    Display Name: "\u0BB9\u0BBE\u0BB0\u0BCD\u0BA9\u0BCD \u0B95\u0BCB\u0BB0\u0BB2\u0BCD\
+      \ \u0BB0\u0B9A\u0BBF\u0B95\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   HORN_CORAL_WALL_FAN:
-    Display Name: Horn Coral Wall Fan
+    Display Name: "\u0BB9\u0BBE\u0BB0\u0BCD\u0BA9\u0BCD \u0B95\u0BCA\u0BB0\u0BB2\u0BCD\
+      \ \u0BB5\u0BCB\u0BB2\u0BCD \u0B83\u0BAA\u0BBE\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   HORSE_SPAWN_EGG:
@@ -1771,31 +1973,42 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ICE:
-    Display Name: Ice
+    Display Name: "\u0B90\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_CHISELED_STONE_BRICKS:
-    Display Name: Infested Chiseled Stone Bricks
+    Display Name: "\u0B89\u0B9F\u0BCD\u0B9A\u0BC6\u0BB2\u0BC1\u0BA4\u0BCD\u0BA4\u0BAA\
+      \u0BCD\u0BAA\u0B9F\u0BCD\u0B9F \u0B95\u0BB2\u0BCD \u0BB5\u0BC6\u0B9F\u0BCD\u0B9F\
+      \u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F \u0B9A\u0BC6\u0B99\u0BCD\u0B95\u0BB1\u0BCD\
+      \u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_COBBLESTONE:
-    Display Name: Infested Cobblestone
+    Display Name: "\u0BAA\u0BBE\u0BA4\u0BBF\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\
+      \u0BCD\u0B9F \u0B89\u0BB0\u0BC1\u0BB3\u0BC8\u0B95\u0BCD\u0B95\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_CRACKED_STONE_BRICKS:
-    Display Name: Infested Cracked Stone Bricks
+    Display Name: "\u0B89\u0BB3\u0BCD\u0BB3\u0BBE\u0BB0\u0BCD\u0BA8\u0BCD\u0BA4 \u0B95\
+      \u0BBF\u0BB0\u0BBE\u0B95\u0BCD \u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0BAA\u0BBF\
+      \u0BB0\u0BBF\u0B95\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_MOSSY_STONE_BRICKS:
-    Display Name: Infested Mossy Stone Bricks
+    Display Name: "\u0BAA\u0BBE\u0BA4\u0BBF\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\
+      \u0BCD\u0B9F \u0BAE\u0BC7\u0BBE\u0BB8\u0BCD\u0BB8\u0BBF \u0B95\u0BB2\u0BCD \u0B9A\
+      \u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_STONE:
-    Display Name: Infested Stone
+    Display Name: "\u0B87\u0BA9\u0BCD\u0BB8\u0BCD\u0B9F\u0BB8\u0BCD\u0B9F\u0BCD \u0BB8\
+      \u0BCD\u0B9F\u0BCB\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_STONE_BRICKS:
-    Display Name: Infested Stone Bricks
+    Display Name: "\u0B87\u0BA9\u0BCD\u0BB8\u0BCD\u0B9F\u0BCD\u0B9F\u0BC6\u0B9F\u0BCD\
+      \ \u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0BAA\u0BBF\u0BB0\u0BBF\u0B95\u0BCD\u0BB8\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   INK_SAC:
@@ -1808,11 +2021,13 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   IRON_BARS:
-    Display Name: Iron Bars
+    Display Name: "\u0B87\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1 \u0BAA\u0BBE\u0BB0\u0BCD\
+      \u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   IRON_BLOCK:
-    Display Name: Iron Block
+    Display Name: "\u0B87\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1\u0BA4\u0BCD \u0BA4\u0BCA\
+      \u0B95\u0BC1\u0BA4\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   IRON_BOOTS:
@@ -1826,7 +2041,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   IRON_DOOR:
-    Display Name: Iron Door
+    Display Name: "\u0B87\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1 \u0B95\u0BA4\u0BB5\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   IRON_HELMET:
@@ -1859,7 +2074,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   IRON_ORE:
-    Display Name: Iron Ore
+    Display Name: "\u0B87\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1 \u0BA4\u0BBE\u0BA4\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   IRON_PICKAXE:
@@ -1876,7 +2091,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   IRON_TRAPDOOR:
-    Display Name: Iron Trapdoor
+    Display Name: "\u0B85\u0BAF\u0BA9\u0BCD \u0B9F\u0BCD\u0BB0\u0BBE\u0BAA\u0BB0\u0BCD\
+      \u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   ITEM_FRAME:
@@ -1885,15 +2101,16 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   JACK_O_LANTERN:
-    Display Name: Jack O Lantern
+    Display Name: "\u0B9C\u0BBE\u0B95\u0BCD \u0B93'\u0BB2\u0BC7\u0BA9\u0BCD\u0B9F\u0BB0\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   JIGSAW:
-    Display Name: Jigsaw
+    Display Name: "\u0B9C\u0BBF\u0B95\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   JUKEBOX:
-    Display Name: Jukebox
+    Display Name: "\u0B9C\u0BC2\u0B95\u0BCD\u0BAA\u0BBE\u0B95\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_BOAT:
@@ -1901,71 +2118,81 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_BUTTON:
-    Display Name: Jungle Button
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0BAA\u0B9F\u0BCD\u0B9F\
+      \u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_DOOR:
-    Display Name: Jungle Door
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0B95\u0BA4\u0BB5\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_FENCE:
-    Display Name: Jungle Fence
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0BB5\u0BC7\u0BB2\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_FENCE_GATE:
-    Display Name: Jungle Fence Gate
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0B83\u0BAA\u0BC6\u0BA9\
+      \u0BCD\u0BB8\u0BCD \u0B95\u0BC7\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_LEAVES:
-    Display Name: Jungle Leaves
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0B87\u0BB2\u0BC8\u0B95\
+      \u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_LOG:
-    Display Name: Jungle Log
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0BAA\u0BA4\u0BBF\u0BB5\
+      \u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_PLANKS:
-    Display Name: Jungle Planks
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\
+      \u0B99\u0BCD\u0B95\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_PRESSURE_PLATE:
-    Display Name: Jungle Pressure Plate
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0B85\u0BB4\u0BC1\u0BA4\
+      \u0BCD\u0BA4\u0BAE\u0BCD \u0BA4\u0B9F\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_SAPLING:
-    Display Name: Jungle Sapling
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0B9A\u0BA8\u0BCD\u0BA4\
+      \u0BBF\u0BAA\u0BCD\u0BAA\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_SIGN:
-    Display Name: Jungle Sign
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0B9A\u0BC8\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_SLAB:
-    Display Name: Jungle Slab
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\
+      \u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_STAIRS:
-    Display Name: Jungle Stairs
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_TRAPDOOR:
-    Display Name: Jungle Trapdoor
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0B9F\u0BBF\u0BB0\u0BBE\
+      \u0BAA\u0BC2\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_WALL_SIGN:
-    Display Name: Jungle Wall Sign
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0BB5\u0BCB\u0BB2\u0BCD\
+      \ \u0B9A\u0BC8\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_WOOD:
-    Display Name: Jungle Wood
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0BB5\u0BC2\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   KELP:
-    Display Name: Kelp
+    Display Name: "\u0B95\u0BC6\u0BB2\u0BCD\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   KELP_PLANT:
-    Display Name: Kelp Plant
+    Display Name: "\u0B95\u0BC6\u0BB2\u0BCD\u0BAA\u0BCD \u0B86\u0BB2\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   KNOWLEDGE_BOOK:
@@ -1974,15 +2201,16 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LADDER:
-    Display Name: Ladder
+    Display Name: "\u0BB2\u0BC7\u0B9F\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LANTERN:
-    Display Name: Lantern
+    Display Name: "\u0BB5\u0BBF\u0BB3\u0B95\u0BCD\u0B95\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   LAPIS_BLOCK:
-    Display Name: Lapis Block
+    Display Name: "\u0BB2\u0BC7\u0BAA\u0BBF\u0BB8\u0BCD \u0BB2\u0BBE\u0B9C\u0BC2\u0BB2\
+      \u0BBF \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LAPIS_LAZULI:
@@ -1991,15 +2219,17 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LAPIS_ORE:
-    Display Name: Lapis Ore
+    Display Name: "\u0BB2\u0BBE\u0BAA\u0BC0\u0BB8\u0BCD \u0BB2\u0BB8\u0BC1\u0BB2\u0BBF\
+      \ \u0B93\u0BB0\u0BC7"
     Has Hologram: true
     Max Stack Size: -1
   LARGE_FERN:
-    Display Name: Large Fern
+    Display Name: "\u0BAA\u0BC6\u0BB0\u0BBF\u0BAF \u0BAA\u0BC6\u0BB0\u0BCD\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LAVA:
-    Display Name: Lava
+    Display Name: "\u0B8E\u0BB0\u0BBF\u0BAE\u0BB2\u0BC8\u0B95\u0BCD\u0B95\u0BC1\u0BB4\
+      \u0BAE\u0BCD\u0BAA\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   LAVA_BUCKET:
@@ -2037,31 +2267,36 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LECTERN:
-    Display Name: Lectern
+    Display Name: "\u0B87\u0BA4\u0BA9\u0BC2\u0B9F\u0BBE\u0B95"
     Has Hologram: true
     Max Stack Size: -1
   LEVER:
-    Display Name: Lever
+    Display Name: "\u0BB2\u0BC0\u0BB5\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_BANNER:
-    Display Name: Light Blue Banner
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BBF\u0BB0\u0BCD \u0BA8\u0BC0\u0BB2 \u0BAA\u0BA4\
+      \u0BBE\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_BED:
-    Display Name: Light Blue Bed
+    Display Name: "\u0B92\u0BB3\u0BBF \u0BA8\u0BC0\u0BB2\u0BAE\u0BCD \u0BAA\u0B9F\u0BC1\
+      \u0B95\u0BCD\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_CARPET:
-    Display Name: Light Blue Carpet
+    Display Name: "\u0BB2\u0BC8\u0B9F\u0BCD \u0BAA\u0BCD\u0BB3\u0BC2 \u0B95\u0BBE\u0BB0\
+      \u0BCD\u0BAA\u0BC6\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_CONCRETE:
-    Display Name: Light Blue Concrete
+    Display Name: "\u0B92\u0BB3\u0BBF \u0BAA\u0BCD\u0BB3\u0BC2 \u0B95\u0BBE\u0BA9\u0BCD\
+      \u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_CONCRETE_POWDER:
-    Display Name: Light Blue Concrete Powder
+    Display Name: "\u0BB2\u0BC8\u0B9F\u0BCD \u0BAA\u0BCD\u0BB3\u0BC2 \u0B95\u0BBE\u0BA9\
+      \u0BCD\u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_DYE:
@@ -2070,23 +2305,30 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_GLAZED_TERRACOTTA:
-    Display Name: Light Blue Glazed Terracotta
+    Display Name: "\u0BB2\u0BC8\u0B9F\u0BCD \u0BAA\u0BCD\u0BB3\u0BC2 \u0BAA\u0BB3\u0BAA\
+      \u0BB3\u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\u0B95\
+      \u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_SHULKER_BOX:
-    Display Name: Light Blue Shulker Box
+    Display Name: "\u0BB2\u0BC8\u0B9F\u0BCD \u0BAA\u0BCD\u0BB3\u0BC2 \u0BB7\u0BC1\u0BB2\
+      \u0BCD\u0B95\u0BB0\u0BCD \u0BAA\u0BBE\u0B95\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_STAINED_GLASS:
-    Display Name: Light Blue Stained Glass
+    Display Name: "\u0B92\u0BB3\u0BBF \u0BA8\u0BC0\u0BB2 \u0B95\u0BB1\u0BC8 \u0BAA\
+      \u0B9F\u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_STAINED_GLASS_PANE:
-    Display Name: Light Blue Stained Glass Pane
+    Display Name: "\u0BB2\u0BC8\u0B9F\u0BCD \u0BAA\u0BCD\u0BB3\u0BC2 \u0BB8\u0BCD\u0B9F\
+      \u0BC7\u0BA9\u0BCD\u0B9F\u0BCD \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BAA\
+      \u0BC7\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_TERRACOTTA:
-    Display Name: Light Blue Terracotta
+    Display Name: "\u0B92\u0BB3\u0BBF \u0BAA\u0BCD\u0BB3\u0BC2 \u0B9F\u0BC6\u0BB0\u0BCD\
+      \u0BB0\u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_WALL_BANNER:
@@ -2094,27 +2336,34 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_BLUE_WOOL:
-    Display Name: Light Blue Wool
+    Display Name: "\u0BB2\u0BC8\u0B9F\u0BCD \u0BAA\u0BCD\u0BB3\u0BC2 \u0B95\u0BAE\u0BCD\
+      \u0BAA\u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_BANNER:
-    Display Name: Light Gray Banner
+    Display Name: "\u0B92\u0BB3\u0BBF \u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0BAA\
+      \u0BA4\u0BBE\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_BED:
-    Display Name: Light Gray Bed
+    Display Name: "\u0BAE\u0BC6\u0BB2\u0BCD\u0BB2\u0BBF\u0BAF \u0B9A\u0BBE\u0BAE\u0BCD\
+      \u0BAA\u0BB2\u0BCD \u0BA8\u0BBF\u0BB1\u0BAE\u0BCD \u0BAA\u0B9F\u0BC1\u0B95\u0BCD\
+      \u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_CARPET:
-    Display Name: Light Gray Carpet
+    Display Name: "\u0B92\u0BB3\u0BBF \u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0B95\
+      \u0BAE\u0BCD\u0BAA\u0BB3\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_CONCRETE:
-    Display Name: Light Gray Concrete
+    Display Name: "\u0B92\u0BB3\u0BBF \u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0B95\
+      \u0BBE\u0BA9\u0BCD\u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_CONCRETE_POWDER:
-    Display Name: Light Gray Concrete Powder
+    Display Name: "\u0B92\u0BB3\u0BBF \u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0B95\
+      \u0BBE\u0BA9\u0BCD\u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_DYE:
@@ -2123,23 +2372,30 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_GLAZED_TERRACOTTA:
-    Display Name: Light Gray Glazed Terracotta
+    Display Name: "\u0BB2\u0BC8\u0B9F\u0BCD \u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD\
+      \ \u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 \u0B9F\u0BC6\u0BB0\u0BCD\
+      \u0BB0\u0BBE\u0B95\u0BCD\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_SHULKER_BOX:
-    Display Name: Light Gray Shulker Box
+    Display Name: "\u0B92\u0BB3\u0BBF \u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0BB7\
+      \u0BC1\u0BB2\u0BCD\u0B95\u0BB0\u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_STAINED_GLASS:
-    Display Name: Light Gray Stained Glass
+    Display Name: "\u0B92\u0BB3\u0BBF \u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0BA8\
+      \u0BBF\u0BB1 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_STAINED_GLASS_PANE:
-    Display Name: Light Gray Stained Glass Pane
+    Display Name: "\u0BB2\u0BC8\u0B9F\u0BCD \u0B95\u0BBF\u0BB0\u0BC7 \u0BB8\u0BCD\u0B9F\
+      \u0BC8\u0BA3\u0BCD\u0B9F\u0BCD\u0B9F\u0BC1 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\
+      \u0BBF \u0BAA\u0BC7\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_TERRACOTTA:
-    Display Name: Light Gray Terracotta
+    Display Name: "\u0B92\u0BB3\u0BBF \u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0B9F\
+      \u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_WALL_BANNER:
@@ -2147,43 +2403,52 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_WOOL:
-    Display Name: Light Gray Wool
+    Display Name: "\u0B92\u0BB3\u0BBF \u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0B95\
+      \u0BAE\u0BCD\u0BAA\u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_WEIGHTED_PRESSURE_PLATE:
-    Display Name: Light Weighted Pressure Plate
+    Display Name: "\u0BB2\u0BC7\u0B9A\u0BBE\u0BA9 \u0B8E\u0B9F\u0BC8 \u0B95\u0BCA\u0BA3\
+      \u0BCD\u0B9F \u0B85\u0BB4\u0BC1\u0BA4\u0BCD\u0BA4\u0BAE\u0BCD \u0BA4\u0B9F\u0BCD\
+      \u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   LILAC:
-    Display Name: Lilac
+    Display Name: "\u0B87\u0BB3\u0B9E\u0BCD\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   LILY_OF_THE_VALLEY:
-    Display Name: Lily Of The Valley
+    Display Name: "\u0BAA\u0BB3\u0BCD\u0BB3\u0BA4\u0BCD\u0BA4\u0BBE\u0B95\u0BCD\u0B95\
+      \u0BC1 \u0BB2\u0BBF\u0BB2\u0BCD\u0BB2\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   LILY_PAD:
-    Display Name: Lily Pad
+    Display Name: "\u0BB2\u0BBF\u0BB2\u0BCD\u0BB2\u0BBF \u0BAA\u0BC7\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIME_BANNER:
-    Display Name: Lime Banner
+    Display Name: "\u0B9A\u0BC1\u0BA3\u0BCD\u0BA3\u0BBE\u0BAE\u0BCD\u0BAA\u0BC1 \u0BAA\
+      \u0BC7\u0BA9\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIME_BED:
-    Display Name: Lime Bed
+    Display Name: "\u0B8E\u0BB2\u0BC1\u0BAE\u0BBF\u0B9A\u0BCD\u0B9A\u0BC8 \u0BAA\u0B9F\
+      \u0BC1\u0B95\u0BCD\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   LIME_CARPET:
-    Display Name: Lime Carpet
+    Display Name: "\u0B9A\u0BC1\u0BA3\u0BCD\u0BA3\u0BBE\u0BAE\u0BCD\u0BAA\u0BC1 \u0B95\
+      \u0BAE\u0BCD\u0BAA\u0BB3\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIME_CONCRETE:
-    Display Name: Lime Concrete
+    Display Name: "\u0B8E\u0BB2\u0BC1\u0BAE\u0BBF\u0B9A\u0BCD\u0B9A\u0BC8 \u0B95\u0BBE\
+      \u0BA9\u0BCD\u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIME_CONCRETE_POWDER:
-    Display Name: Lime Concrete Powder
+    Display Name: "\u0B9A\u0BC1\u0BA3\u0BCD\u0BA3\u0BBE\u0BAE\u0BCD\u0BAA\u0BC1 \u0B95\
+      \u0BBE\u0BA9\u0BCD\u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   LIME_DYE:
@@ -2192,23 +2457,31 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIME_GLAZED_TERRACOTTA:
-    Display Name: Lime Glazed Terracotta
+    Display Name: "\u0B9A\u0BC1\u0BA3\u0BCD\u0BA3\u0BBE\u0BAE\u0BCD\u0BAA\u0BC1 \u0BAA\
+      \u0BB3\u0BAA\u0BB3\u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\
+      \u0BBE\u0B95\u0BCD\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   LIME_SHULKER_BOX:
-    Display Name: Lime Shulker Box
+    Display Name: "\u0B9A\u0BC1\u0BA3\u0BCD\u0BA3\u0BBE\u0BAE\u0BCD\u0BAA\u0BC1 \u0B9A\
+      \u0BC1\u0BB0\u0BC1\u0BB3\u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   LIME_STAINED_GLASS:
-    Display Name: Lime Stained Glass
+    Display Name: "\u0B8E\u0BB2\u0BC1\u0BAE\u0BBF\u0B9A\u0BCD\u0B9A\u0BC8 \u0B95\u0BB1\
+      \u0BC8 \u0BAA\u0B9F\u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\
+      \u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   LIME_STAINED_GLASS_PANE:
-    Display Name: Lime Stained Glass Pane
+    Display Name: "\u0B9A\u0BC1\u0BA3\u0BCD\u0BA3\u0BBE\u0BAE\u0BCD\u0BAA\u0BC1 \u0BAA\
+      \u0B9F\u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BA4\
+      \u0B95\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   LIME_TERRACOTTA:
-    Display Name: Lime Terracotta
+    Display Name: "\u0B8E\u0BB2\u0BC1\u0BAE\u0BBF\u0B9A\u0BCD\u0B9A\u0BC8 \u0B9F\u0BC6\
+      \u0BB0\u0BCD\u0BB0\u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   LIME_WALL_BANNER:
@@ -2216,7 +2489,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIME_WOOL:
-    Display Name: Lime Wool
+    Display Name: "\u0B9A\u0BC1\u0BA3\u0BCD\u0BA3\u0BBE\u0BAE\u0BCD\u0BAA\u0BC1 \u0B95\
+      \u0BAE\u0BCD\u0BAA\u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   LINGERING_POTION:
@@ -2230,27 +2504,32 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LOOM:
-    Display Name: Loom
+    Display Name: "\u0BA4\u0BB1\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_BANNER:
-    Display Name: Magenta Banner
+    Display Name: "\u0BAE\u0BC6\u0B9C\u0BA8\u0BCD\u0BA4\u0BBE \u0BAA\u0BC7\u0BA9\u0BB0\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_BED:
-    Display Name: Magenta Bed
+    Display Name: "\u0BAE\u0BC6\u0B9C\u0BA8\u0BCD\u0BA4\u0BBE \u0BAA\u0B9F\u0BC1\u0B95\
+      \u0BCD\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_CARPET:
-    Display Name: Magenta Carpet
+    Display Name: "\u0BAE\u0BC6\u0B9C\u0BA8\u0BCD\u0BA4\u0BBE \u0B95\u0BBE\u0BB0\u0BCD\
+      \u0BAA\u0BC6\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_CONCRETE:
-    Display Name: Magenta Concrete
+    Display Name: "\u0BAE\u0BC6\u0B9C\u0BA8\u0BCD\u0BA4\u0BBE \u0B95\u0BBE\u0BA9\u0BCD\
+      \u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_CONCRETE_POWDER:
-    Display Name: Magenta Concrete Powder
+    Display Name: "\u0BAE\u0BC6\u0B9C\u0BA8\u0BCD\u0BA4\u0BBE \u0B95\u0BBE\u0BA9\u0BCD\
+      \u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_DYE:
@@ -2259,23 +2538,29 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_GLAZED_TERRACOTTA:
-    Display Name: Magenta Glazed Terracotta
+    Display Name: "\u0BAE\u0BC6\u0B9C\u0BA8\u0BCD\u0BA4\u0BBE \u0BAA\u0BB3\u0BAA\u0BB3\
+      \u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\u0B95\u0BCB\
+      \u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_SHULKER_BOX:
-    Display Name: Magenta Shulker Box
+    Display Name: "\u0BAE\u0BC6\u0B9C\u0BA8\u0BCD\u0BA4 \u0BB7\u0BC1\u0BB2\u0BCD\u0B95\
+      \u0BB0\u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_STAINED_GLASS:
-    Display Name: Magenta Stained Glass
+    Display Name: "\u0BAE\u0BC6\u0B9C\u0BA8\u0BCD\u0BA4\u0BBE \u0B95\u0BB1\u0BC8 \u0BAA\
+      \u0B9F\u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_STAINED_GLASS_PANE:
-    Display Name: Magenta Stained Glass Pane
+    Display Name: "\u0BAE\u0BC6\u0B9C\u0BA8\u0BCD\u0BA4\u0BBE \u0BAA\u0B9F\u0BBF\u0BA8\
+      \u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BAA\u0BC7\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_TERRACOTTA:
-    Display Name: Magenta Terracotta
+    Display Name: "\u0BAE\u0BC6\u0B9C\u0BA8\u0BCD\u0BA4 \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\
+      \u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_WALL_BANNER:
@@ -2283,11 +2568,13 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MAGENTA_WOOL:
-    Display Name: Magenta Wool
+    Display Name: "\u0BAE\u0BC6\u0B9C\u0BA8\u0BCD\u0BA4\u0BBE \u0B95\u0BAE\u0BCD\u0BAA\
+      \u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   MAGMA_BLOCK:
-    Display Name: Magma Block
+    Display Name: "\u0BAE\u0BBE\u0B95\u0BCD\u0BAE\u0BBE \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MAGMA_CREAM:
@@ -2306,7 +2593,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MELON:
-    Display Name: Melon
+    Display Name: "\u0BAE\u0BC1\u0BB2\u0BBE\u0BAE\u0BCD\u0BAA\u0BB4\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MELON_SEEDS:
@@ -2320,7 +2607,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MELON_STEM:
-    Display Name: Melon Stem
+    Display Name: "\u0BAE\u0BC6\u0BB2\u0BCB\u0BA9\u0BCD \u0BB8\u0BCD\u0B9F\u0BC6\u0BAE\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MILK_BUCKET:
@@ -2342,39 +2630,50 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_COBBLESTONE:
-    Display Name: Mossy Cobblestone
+    Display Name: "\u0BAE\u0BC7\u0BBE\u0BB8\u0BCD\u0BB8\u0BBF \u0B89\u0BB0\u0BC1\u0BB3\
+      \u0BC8\u0B95\u0BCD\u0B95\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_COBBLESTONE_SLAB:
-    Display Name: Mossy Cobblestone Slab
+    Display Name: "\u0BAE\u0BC7\u0BBE\u0BB8\u0BCD\u0BB8\u0BBF \u0B89\u0BB0\u0BC1\u0BB3\
+      \u0BC8\u0B95\u0BCD\u0B95\u0BB2\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_COBBLESTONE_STAIRS:
-    Display Name: Mossy Cobblestone Stairs
+    Display Name: "\u0BAE\u0BC7\u0BBE\u0BB8\u0BCD\u0BB8\u0BBF \u0B89\u0BB0\u0BC1\u0BB3\
+      \u0BC8\u0B95\u0BCD\u0B95\u0BB2\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF\u0BAA\u0BCD\u0BAA\
+      \u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_COBBLESTONE_WALL:
-    Display Name: Mossy Cobblestone Wall
+    Display Name: "\u0BAE\u0BC7\u0BBE\u0BB8\u0BCD\u0BB8\u0BBF \u0B89\u0BB0\u0BC1\u0BB3\
+      \u0BC8\u0B95\u0BCD\u0B95\u0BB2\u0BCD \u0BB5\u0BCB\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_STONE_BRICKS:
-    Display Name: Mossy Stone Bricks
+    Display Name: "\u0BAE\u0BCB\u0B9A\u0BBF \u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0BAA\
+      \u0BBF\u0BB0\u0BBF\u0B95\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_STONE_BRICK_SLAB:
-    Display Name: Mossy Stone Brick Slab
+    Display Name: "\u0BAE\u0BCB\u0B9A\u0BBF \u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0BAA\
+      \u0BBF\u0BB0\u0BBF\u0B95\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_STONE_BRICK_STAIRS:
-    Display Name: Mossy Stone Brick Stairs
+    Display Name: "\u0BAE\u0BC7\u0BBE\u0BB8\u0BCD\u0BB8\u0BBF \u0B95\u0BB2\u0BCD \u0B9A\
+      \u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF\u0BAA\u0BCD\u0BAA\
+      \u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   MOSSY_STONE_BRICK_WALL:
-    Display Name: Mossy Stone Brick Wall
+    Display Name: "\u0BAE\u0BCB\u0B9A\u0BBF \u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0B9A\
+      \u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0B9A\u0BC1\u0BB5\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MOVING_PISTON:
-    Display Name: Moving Piston
+    Display Name: "\u0BAA\u0BBF\u0BB8\u0BCD\u0B9F\u0BA9\u0BCD \u0BA8\u0B95\u0BB0\u0BC1\
+      \u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   MULE_SPAWN_EGG:
@@ -2383,7 +2682,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MUSHROOM_STEM:
-    Display Name: Mushroom Stem
+    Display Name: "\u0B95\u0BBE\u0BB3\u0BBE\u0BA9\u0BCD \u0BA4\u0BA3\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   MUSHROOM_STEW:
@@ -2444,7 +2743,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   MYCELIUM:
-    Display Name: Mycelium
+    Display Name: "\u0BAA\u0BC2\u0B9A\u0BA3"
     Has Hologram: true
     Max Stack Size: -1
   NAME_TAG:
@@ -2457,7 +2756,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   NETHERRACK:
-    Display Name: Netherrack
+    Display Name: "\u0BA8\u0BB0\u0B95\u0BA4\u0BCD\u0BA4\u0BBF\u0BA9\u0BCD \u0BAA\u0BBE\
+      \u0BB1\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_BRICK:
@@ -2465,31 +2765,39 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   NETHER_BRICKS:
-    Display Name: Nether Bricks
+    Display Name: "\u0BA8\u0BC6\u0BA4\u0BB0\u0BCD\u0BB2\u0BBE\u0BA8\u0BCD\u0BA4\u0BC1\
+      \ \u0BAA\u0BBF\u0BB0\u0BBF\u0B95\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_BRICK_FENCE:
-    Display Name: Nether Brick Fence
+    Display Name: "\u0BA8\u0BC6\u0BA4\u0BB0\u0BCD\u0BB2\u0BBE\u0BA8\u0BCD\u0BA4\u0BC1\
+      \ \u0B9A\u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BB5\u0BC7\u0BB2\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_BRICK_SLAB:
-    Display Name: Nether Brick Slab
+    Display Name: "\u0BA8\u0BC6\u0BA4\u0BB0\u0BCD \u0BAA\u0BCD\u0BB0\u0BBF\u0B95\u0BCD\
+      \ \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_BRICK_STAIRS:
-    Display Name: Nether Brick Stairs
+    Display Name: "\u0BA8\u0BC6\u0BA4\u0BB0\u0BCD\u0BB2\u0BBE\u0BA8\u0BCD\u0BA4\u0BC1\
+      \ \u0B9A\u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_BRICK_WALL:
-    Display Name: Nether Brick Wall
+    Display Name: "\u0BA8\u0BC6\u0BA4\u0BB0\u0BCD\u0BB2\u0BBE\u0BA8\u0BCD\u0BA4\u0BC1\
+      \ \u0B9A\u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0B9A\u0BC1\u0BB5\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_PORTAL:
-    Display Name: Nether Portal
+    Display Name: "\u0BA8\u0BC6\u0BA4\u0BB0\u0BCD\u0BB2\u0BBE\u0BA8\u0BCD\u0BA4\u0BC1\
+      \ \u0BAA\u0BCB\u0BB0\u0BCD\u0B9F\u0BCD\u0B9F\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_QUARTZ_ORE:
-    Display Name: Nether Quartz Ore
+    Display Name: "\u0BA8\u0BC6\u0BA4\u0BB0\u0BCD\u0BB2\u0BBE\u0BA8\u0BCD\u0BA4\u0BBF\
+      \u0BA9\u0BCD \u0B95\u0BC1\u0BB5\u0BBE\u0BB0\u0BCD\u0B9F\u0BCD\u0BB8\u0BCD \u0B93\
+      \u0BB0\u0BC7"
     Has Hologram: true
     Max Stack Size: -1
   NETHER_STAR:
@@ -2501,11 +2809,12 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   NETHER_WART_BLOCK:
-    Display Name: Nether Wart Block
+    Display Name: "\u0BA8\u0BC6\u0BA4\u0BB0\u0BCD \u0BB5\u0BCA\u0BB0\u0BCD\u0B95\u0BCD\
+      \ \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   NOTE_BLOCK:
-    Display Name: Note Block
+    Display Name: "\u0B95\u0BC1\u0BB1\u0BBF\u0BAA\u0BCD\u0BAA\u0BC1 \u0BA4\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   OAK_BOAT:
@@ -2513,71 +2822,75 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   OAK_BUTTON:
-    Display Name: Oak Button
+    Display Name: "\u0B93\u0B95\u0BCD \u0BAA\u0B9F\u0BCD\u0B9F\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   OAK_DOOR:
-    Display Name: Oak Door
+    Display Name: "\u0B93\u0B95\u0BCD \u0B95\u0BA4\u0BB5\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   OAK_FENCE:
-    Display Name: Oak Fence
+    Display Name: "\u0B93\u0B95\u0BCD \u0B83\u0BAA\u0BC6\u0BA9\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   OAK_FENCE_GATE:
-    Display Name: Oak Fence Gate
+    Display Name: "\u0B93\u0B95\u0BCD \u0BB5\u0BC7\u0BB2\u0BBF \u0B95\u0BC7\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   OAK_LEAVES:
-    Display Name: Oak Leaves
+    Display Name: "\u0B93\u0B95\u0BCD \u0B87\u0BB2\u0BC8\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   OAK_LOG:
-    Display Name: Oak Log
+    Display Name: "\u0B93\u0B95\u0BCD \u0BAA\u0BA4\u0BBF\u0BB5\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   OAK_PLANKS:
-    Display Name: Oak Planks
+    Display Name: "\u0B93\u0B95\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B99\u0BCD\u0B95\u0BCD\
+      \u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   OAK_PRESSURE_PLATE:
-    Display Name: Oak Pressure Plate
+    Display Name: "\u0B93\u0B95\u0BCD \u0B85\u0BB4\u0BC1\u0BA4\u0BCD\u0BA4\u0BAE\u0BCD\
+      \ \u0BA4\u0B9F\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   OAK_SAPLING:
-    Display Name: Oak Sapling
+    Display Name: "\u0B93\u0B95\u0BCD \u0B9A\u0BAA\u0BCD\u0BAA\u0BBE\u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   OAK_SIGN:
-    Display Name: Oak Sign
+    Display Name: "\u0B93\u0B95\u0BCD \u0B9A\u0BC8\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   OAK_SLAB:
-    Display Name: Oak Slab
+    Display Name: "\u0B93\u0B95\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   OAK_STAIRS:
-    Display Name: Oak Stairs
+    Display Name: "\u0B93\u0B95\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   OAK_TRAPDOOR:
-    Display Name: Oak Trapdoor
+    Display Name: "\u0B93\u0B95\u0BCD \u0B9F\u0BCD\u0BB0\u0BBE\u0BAA\u0BB0\u0BCD\u0B9F\
+      \u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   OAK_WALL_SIGN:
-    Display Name: Oak Wall Sign
+    Display Name: "\u0B93\u0B95\u0BCD \u0BB5\u0BCB\u0BB2\u0BCD \u0B9A\u0BC8\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   OAK_WOOD:
-    Display Name: Oak Wood
+    Display Name: "\u0B95\u0BB0\u0BC1\u0BB5\u0BBE\u0BB2\u0BBF \u0BAE\u0BB0\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   OBSERVER:
-    Display Name: Observer
+    Display Name: "\u0B85\u0BAA\u0BCD\u0B9A\u0BB0\u0BCD\u0BB5\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   OBSIDIAN:
-    Display Name: Obsidian
+    Display Name: "\u0B92\u0BAA\u0B9A\u0BBF\u0B9F\u0BBF\u0BAF\u0BA9\u0BCD \u0BB8\u0BCD\
+      \u0B9F\u0BCB\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   OCELOT_SPAWN_EGG:
@@ -2586,23 +2899,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_BANNER:
-    Display Name: Orange Banner
+    Display Name: "\u0B86\u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0BAA\u0BC7\u0BA9\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_BED:
-    Display Name: Orange Bed
+    Display Name: "\u0B86\u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0BAA\u0B9F\u0BC1\u0B95\u0BCD\
+      \u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_CARPET:
-    Display Name: Orange Carpet
+    Display Name: "\u0B86\u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0B95\u0BBE\u0BB0\u0BCD\u0BAA\
+      \u0BC6\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_CONCRETE:
-    Display Name: Orange Concrete
+    Display Name: "\u0B86\u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0B95\u0BBE\u0BA9\u0BCD\u0B95\
+      \u0BBF\u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_CONCRETE_POWDER:
-    Display Name: Orange Concrete Powder
+    Display Name: "\u0B86\u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0B95\u0BBE\u0BA9\u0BCD\u0B95\
+      \u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_DYE:
@@ -2610,27 +2927,34 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_GLAZED_TERRACOTTA:
-    Display Name: Orange Glazed Terracotta
+    Display Name: "\u0B86\u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\
+      \u0BCD\u0BAA\u0BBE\u0BA9 \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\u0B95\u0BCB\u0B9F\
+      \u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_SHULKER_BOX:
-    Display Name: Orange Shulker Box
+    Display Name: "\u0B86\u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0BB7\u0BC2\u0BB2\u0BCD\u0B95\
+      \u0BB0\u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_STAINED_GLASS:
-    Display Name: Orange Stained Glass
+    Display Name: "\u0B86\u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0B95\u0BB1\u0BC8 \u0BAA\u0B9F\
+      \u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_STAINED_GLASS_PANE:
-    Display Name: Orange Stained Glass Pane
+    Display Name: "\u0B86\u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0BAA\u0B9F\u0BBF\u0BA8\u0BCD\
+      \u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BA4\u0B95\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_TERRACOTTA:
-    Display Name: Orange Terracotta
+    Display Name: "\u0B86\u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\
+      \u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_TULIP:
-    Display Name: Orange Tulip
+    Display Name: "\u0B86\u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0BA4\u0BC1\u0BB2\u0BBF\u0BAA\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_WALL_BANNER:
@@ -2638,15 +2962,16 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ORANGE_WOOL:
-    Display Name: Orange Wool
+    Display Name: "\u0B86\u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0B95\u0BAE\u0BCD\u0BAA\u0BB3\
+      \u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   OXEYE_DAISY:
-    Display Name: Oxeye Daisy
+    Display Name: "\u0B92\u0B95\u0BCD\u0BB8\u0BC7 \u0B9F\u0BC6\u0BAF\u0BCD\u0BB8\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   PACKED_ICE:
-    Display Name: Packed Ice
+    Display Name: "\u0BAA\u0BC7\u0B95\u0BCD \u0B90\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PAINTING:
@@ -2668,11 +2993,12 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PEONY:
-    Display Name: Peony
+    Display Name: "\u0BAA\u0BBF\u0BAF\u0BC7\u0BBE\u0BA9\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   PETRIFIED_OAK_SLAB:
-    Display Name: Petrified Oak Slab
+    Display Name: "\u0BAA\u0BC7\u0BAA\u0BBF\u0B83\u0BAA\u0BBF\u0B9F\u0BCD \u0B93\u0B95\
+      \u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PHANTOM_MEMBRANE:
@@ -2696,23 +3022,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PINK_BANNER:
-    Display Name: Pink Banner
+    Display Name: "\u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0BAA\u0BC7\u0BA9\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PINK_BED:
-    Display Name: Pink Bed
+    Display Name: "\u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0BAA\u0B9F\u0BC1\u0B95\u0BCD\
+      \u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   PINK_CARPET:
-    Display Name: Pink Carpet
+    Display Name: "\u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0B95\u0BBE\u0BB0\u0BCD\u0BAA\
+      \u0BC6\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PINK_CONCRETE:
-    Display Name: Pink Concrete
+    Display Name: "\u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0B95\u0BBE\u0BA9\u0BCD\u0B95\
+      \u0BBF\u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PINK_CONCRETE_POWDER:
-    Display Name: Pink Concrete Powder
+    Display Name: "\u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0B95\u0BBE\u0BA9\u0BCD\u0B95\
+      \u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PINK_DYE:
@@ -2720,27 +3050,35 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PINK_GLAZED_TERRACOTTA:
-    Display Name: Pink Glazed Terracotta
+    Display Name: "\u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0BAE\u0BC6\u0BB4\u0BC1\u0B95\
+      \u0BC1\u0BB5\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BBF \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\
+      \u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   PINK_SHULKER_BOX:
-    Display Name: Pink Shulker Box
+    Display Name: "\u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0BB7\u0BC1\u0BB2\u0BCD\u0B95\
+      \u0BB0\u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   PINK_STAINED_GLASS:
-    Display Name: Pink Stained Glass
+    Display Name: "\u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0B95\u0BB1\u0BC8 \u0BAA\u0B9F\
+      \u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   PINK_STAINED_GLASS_PANE:
-    Display Name: Pink Stained Glass Pane
+    Display Name: "\u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0B95\u0BB1\u0BC8\u0BAA\u0B9F\
+      \u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BA4\u0B95\
+      \u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   PINK_TERRACOTTA:
-    Display Name: Pink Terracotta
+    Display Name: "\u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\
+      \u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   PINK_TULIP:
-    Display Name: Pink Tulip
+    Display Name: "\u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0BA4\u0BC1\u0BB2\u0BBF\u0BAA\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PINK_WALL_BANNER:
@@ -2748,23 +3086,26 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PINK_WOOL:
-    Display Name: Pink Wool
+    Display Name: "\u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0B95\u0BAE\u0BCD\u0BAA\u0BB3\
+      \u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   PISTON:
-    Display Name: Piston
+    Display Name: "\u0BAA\u0BBF\u0BB8\u0BCD\u0B9F\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PISTON_HEAD:
-    Display Name: Piston Head
+    Display Name: "\u0BAA\u0BBF\u0BB8\u0BCD\u0B9F\u0BA9\u0BCD \u0BA4\u0BB2\u0BC8\u0BAE\
+      \u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   PLAYER_HEAD:
-    Display Name: Player Head
+    Display Name: "\u0BB5\u0BC0\u0BB0\u0BB0\u0BCD \u0BA4\u0BB2\u0BC8\u0BB5\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PLAYER_WALL_HEAD:
-    Display Name: Player Wall Head
+    Display Name: "\u0BB5\u0BC0\u0BB0\u0BB0\u0BCD \u0BB5\u0BCB\u0BB2\u0BCD \u0BA4\u0BB2\
+      \u0BC8\u0BAE\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   PODZOL:
@@ -2782,39 +3123,50 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_ANDESITE:
-    Display Name: Polished Andesite
+    Display Name: "\u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 \u0B86\u0BA3\
+      \u0BCD\u0B9F\u0BBF\u0B9A\u0BC8\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_ANDESITE_SLAB:
-    Display Name: Polished Andesite Slab
+    Display Name: "\u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 \u0B86\u0BA9\
+      \u0BCD\u0B9F\u0BBF\u0B9A\u0BC8\u0B9F\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_ANDESITE_STAIRS:
-    Display Name: Polished Andesite Stairs
+    Display Name: "\u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 \u0B86\u0BA9\
+      \u0BCD\u0B9F\u0BBF\u0B9A\u0BC8\u0B9F\u0BCD \u0BAA\u0B9F\u0BBF\u0B95\u0BCD\u0B95\
+      \u0B9F\u0BCD\u0B9F\u0BC1\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_DIORITE:
-    Display Name: Polished Diorite
+    Display Name: "\u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 Diorite"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_DIORITE_SLAB:
-    Display Name: Polished Diorite Slab
+    Display Name: "\u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 Diorite\
+      \ \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_DIORITE_STAIRS:
-    Display Name: Polished Diorite Stairs
+    Display Name: "\u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 \u0B9F\u0BBF\
+      \u0BAF\u0BC7\u0BBE\u0B9A\u0B9F\u0B99\u0BCD\u0B95\u0BC1\u0B9F\u0BA9\u0BCD \u0BAA\
+      \u0B9F\u0BBF\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_GRANITE:
-    Display Name: Polished Granite
+    Display Name: "\u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 \u0B95\u0BBF\
+      \u0BB0\u0BBE\u0BA9\u0BC8\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_GRANITE_SLAB:
-    Display Name: Polished Granite Slab
+    Display Name: "\u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 \u0B95\u0BBF\
+      \u0BB0\u0BBE\u0BA9\u0BC8\u0B9F\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POLISHED_GRANITE_STAIRS:
-    Display Name: Polished Granite Stairs
+    Display Name: "\u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\u0BCD\u0BAA\u0BBE\u0BA9 \u0B95\u0BBF\
+      \u0BB0\u0BBE\u0BA9\u0BC8\u0B9F\u0BCD \u0BAA\u0B9F\u0BBF\u0B95\u0BCD\u0B95\u0B9F\
+      \u0BCD\u0B9F\u0BC1\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POPPED_CHORUS_FRUIT:
@@ -2823,7 +3175,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   POPPY:
-    Display Name: Poppy
+    Display Name: "\u0BAA\u0BBE\u0BAA\u0BCD\u0BAA\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   PORKCHOP:
@@ -2836,7 +3188,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   POTATOES:
-    Display Name: Potatoes
+    Display Name: "\u0B89\u0BB0\u0BC1\u0BB3\u0BC8\u0B95\u0BCD\u0B95\u0BBF\u0BB4\u0B99\
+      \u0BCD\u0B95\u0BC1\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTION:
@@ -2844,123 +3197,153 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   POTTED_ACACIA_SAPLING:
-    Display Name: Potted Acacia Sapling
+    Display Name: "\u0BAA\u0BCA\u0B9F\u0BCD\u0B9F\u0BBE\u0B9A\u0BBF\u0BAF\u0BAE\u0BCD\
+      \ \u0B85\u0B9A\u0BBF\u0B9A\u0BBF \u0B9A\u0BAA\u0BCD\u0BAA\u0BBE\u0BB3\u0BBF\u0B99\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_ALLIUM:
-    Display Name: Potted Allium
+    Display Name: "\u0BAA\u0BCA\u0BA4\u0BBF\u0BAF\u0BBF\u0B9F\u0BCD\u0B9F \u0B85\u0BB2\
+      \u0BBF\u0BAF\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_AZURE_BLUET:
-    Display Name: Potted Azure Bluet
+    Display Name: "\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF\u0BB2\u0BCD \u0B85\u0B9C\u0BCD\
+      \u0BAF\u0BC2 \u0BAA\u0BCD\u0BB3\u0BC2\u0BB2\u0BC6\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_BAMBOO:
-    Display Name: Potted Bamboo
+    Display Name: "\u0BAA\u0BBE\u0BAE\u0BCD\u0BAA\u0BC6\u0B95\u0BCD \u0BAE\u0BC2\u0B99\
+      \u0BCD\u0B95\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_BIRCH_SAPLING:
-    Display Name: Potted Birch Sapling
+    Display Name: "\u0BAA\u0BBE\u0B9F\u0BCD\u0BB0\u0BC2\u0B9F\u0BCD \u0B9A\u0BBE\u0B95\
+      \u0BCD\u0BB2\u0BC6\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_BLUE_ORCHID:
-    Display Name: Potted Blue Orchid
+    Display Name: "\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF\u0BB2\u0BCD \u0BAA\u0BCD\u0BB3\
+      \u0BC2 \u0B86\u0BB0\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_BROWN_MUSHROOM:
-    Display Name: Potted Brown Mushroom
+    Display Name: "\u0BAA\u0BB4\u0BC1\u0BA4\u0BCD\u0BA4 \u0BAA\u0BBF\u0BB0\u0BB5\u0BC1\
+      \u0BA9\u0BCD \u0B95\u0BBE\u0BB3\u0BBE\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_CACTUS:
-    Display Name: Potted Cactus
+    Display Name: "\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF\u0BB2\u0BCD \u0B95\u0BB1\u0BCD\
+      \u0BB1\u0BBE\u0BB4\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_CORNFLOWER:
-    Display Name: Potted Cornflower
+    Display Name: "\u0B95\u0BC1\u0B99\u0BCD\u0B95\u0BC1\u0BAE\u0BAA\u0BCD\u0BAA\u0BC2"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_DANDELION:
-    Display Name: Potted Dandelion
+    Display Name: "\u0BAA\u0BC8\u0BAF\u0BBF\u0BB2\u0BBF\u0B9F\u0BAA\u0BCD\u0BAA\u0B9F\
+      \u0BCD\u0B9F \u0B9F\u0BC7\u0BA9\u0BCD\u0B9F\u0BC7\u0BB2\u0BBF\u0BAF\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_DARK_OAK_SAPLING:
-    Display Name: Potted Dark Oak Sapling
+    Display Name: "\u0BA4\u0BCA\u0B9F\u0BCD\u0B9F\u0BA4\u0BC1 \u0B9F\u0BBE\u0BB0\u0BCD\
+      \u0B95\u0BCD \u0B93\u0B95\u0BCD \u0BAE\u0BB0\u0B95\u0BCD\u0B95\u0BA9\u0BCD\u0BB1\
+      \u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_DEAD_BUSH:
-    Display Name: Potted Dead Bush
+    Display Name: "\u0BAA\u0BC8\u0BAF\u0BC1\u0B9F\u0BC7\u0B9F\u0BCD \u0B9F\u0BC6\u0B9F\
+      \u0BCD \u0BAA\u0BC1\u0BB7\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_FERN:
-    Display Name: Potted Fern
+    Display Name: "\u0BAA\u0BC8\u0BAF\u0B9F\u0BCD \u0B83\u0BAA\u0BB0\u0BCD\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_JUNGLE_SAPLING:
-    Display Name: Potted Jungle Sapling
+    Display Name: "\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF\u0BB2\u0BCD \u0B9C\u0B99\u0BCD\
+      \u0B95\u0BBF\u0BB3\u0BCD \u0B9A\u0BA8\u0BCD\u0BA4\u0BBF\u0BAA\u0BCD\u0BAA\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_LILY_OF_THE_VALLEY:
-    Display Name: Potted Lily Of The Valley
+    Display Name: "\u0BAA\u0BB3\u0BCD\u0BB3\u0BA4\u0BCD\u0BA4\u0BBE\u0B95\u0BCD\u0B95\
+      \u0BBF\u0BB2\u0BCD \u0BAA\u0BBE\u0B9F\u0BCD \u0BB2\u0BBF\u0BB2\u0BCD\u0BB2\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_OAK_SAPLING:
-    Display Name: Potted Oak Sapling
+    Display Name: "\u0BAA\u0BBE\u0B9F\u0BCD \u0B93\u0B95\u0BCD \u0B9A\u0BAA\u0BCD\u0BAA\
+      \u0BBE\u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_ORANGE_TULIP:
-    Display Name: Potted Orange Tulip
+    Display Name: "\u0B8A\u0BB1\u0BCD\u0BB1\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F \u0B86\
+      \u0BB0\u0B9E\u0BCD\u0B9A\u0BC1 \u0BA4\u0BC1\u0BB2\u0BBF\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_OXEYE_DAISY:
-    Display Name: Potted Oxeye Daisy
+    Display Name: "\u0BAA\u0BBE\u0B9F\u0BCD \u0B92\u0B95\u0BCD\u0BB8\u0BC7 \u0B9F\u0BC6\
+      \u0BAF\u0BCD\u0BB8\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_PINK_TULIP:
-    Display Name: Potted Pink Tulip
+    Display Name: "\u0BAA\u0BBE\u0BA9\u0BC8 \u0BAA\u0BBF\u0B99\u0BCD\u0B95\u0BCD \u0BA4\
+      \u0BC1\u0BB2\u0BBF\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_POPPY:
-    Display Name: Potted Poppy
+    Display Name: "\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF \u0BAA\u0BBE\u0BAA\u0BCD\u0BAA\
+      \u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_RED_MUSHROOM:
-    Display Name: Potted Red Mushroom
+    Display Name: "\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF\u0BB2\u0BCD \u0BB0\u0BC6\u0B9F\
+      \u0BCD \u0B95\u0BBE\u0BB3\u0BBE\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_RED_TULIP:
-    Display Name: Potted Red Tulip
+    Display Name: "\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF\u0BB2\u0BCD \u0BB0\u0BC6\u0B9F\
+      \u0BCD \u0BA4\u0BC1\u0BB2\u0BBF\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_SPRUCE_SAPLING:
-    Display Name: Potted Spruce Sapling
+    Display Name: "\u0BAA\u0B9F\u0BCD\u0BB0\u0BC2\u0B9F\u0BCD \u0BB8\u0BCD\u0BAA\u0BCD\
+      \u0BB0\u0BC6\u0BB8\u0BCD \u0B9A\u0BA8\u0BCD\u0BA4\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_WHITE_TULIP:
-    Display Name: Potted White Tulip
+    Display Name: "\u0BAA\u0B9F\u0BCD\u0B9F\u0BC1\u0BB3\u0BCD\u0BB3 \u0BB5\u0BC6\u0BB3\
+      \u0BCD\u0BB3\u0BC8 \u0BA4\u0BC1\u0BB2\u0BBF\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POTTED_WITHER_ROSE:
-    Display Name: Potted Wither Rose
+    Display Name: "\u0BB5\u0BBE\u0B9F\u0BCD \u0BB0\u0BCB\u0B9F\u0BCD \u0BB0\u0BCB\u0B9F\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   POWERED_RAIL:
-    Display Name: Powered Rail
+    Display Name: "\u0BA4\u0BBF\u0BB0\u0BC1\u0BA4\u0BCD\u0BA4\u0BBF\u0BA9\u0BCB\u0BAE\
+      \u0BCD \u0BB0\u0BAF\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE:
-    Display Name: Prismarine
+    Display Name: "\u0BAA\u0BCD\u0BB0\u0BBF\u0BB8\u0BCD\u0B9F\u0BBE\u0BB0\u0BCD\u0BA9\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_BRICKS:
-    Display Name: Prismarine Bricks
+    Display Name: "\u0BAA\u0BCD\u0BB0\u0BBF\u0BB8\u0BCD\u0B9F\u0BBE\u0BB0\u0BCD\u0BA9\
+      \u0BCD \u0BAA\u0BBF\u0BB0\u0BBF\u0B95\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_BRICK_SLAB:
-    Display Name: Prismarine Brick Slab
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BC8\u0B9A\u0BB0\u0BC8\u0BA9\u0BCD \u0BAA\u0BBF\
+      \u0BB0\u0BBF\u0B95\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_BRICK_STAIRS:
-    Display Name: Prismarine Brick Stairs
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BC8\u0B9A\u0BB0\u0BC8\u0BA9\u0BCD \u0B9A\u0BC6\
+      \u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_CRYSTALS:
@@ -2974,15 +3357,18 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_SLAB:
-    Display Name: Prismarine Slab
+    Display Name: "\u0BAA\u0BCD\u0BB0\u0BBF\u0BB8\u0BCD\u0BAE\u0BB0\u0BC8\u0BA9\u0BCD\
+      \ \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_STAIRS:
-    Display Name: Prismarine Stairs
+    Display Name: "\u0BAA\u0BCD\u0BB0\u0BC0\u0BB8\u0BCD\u0BAE\u0BB0\u0BC8\u0BA9\u0BCD\
+      \ \u0BAE\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   PRISMARINE_WALL:
-    Display Name: Prismarine Wall
+    Display Name: "\u0BAA\u0BCD\u0BB0\u0BBF\u0BB8\u0BCD\u0BB0\u0BC8\u0BA9\u0BCD \u0BB5\
+      \u0BBE\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PUFFERFISH:
@@ -3000,7 +3386,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PUMPKIN:
-    Display Name: Pumpkin
+    Display Name: "\u0BAA\u0BC2\u0B9A\u0BA3\u0BBF\u0B95\u0BCD\u0B95\u0BBE\u0BAF\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PUMPKIN_PIE:
@@ -3013,27 +3399,30 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PUMPKIN_STEM:
-    Display Name: Pumpkin Stem
+    Display Name: "\u0BAA\u0BC2\u0B9A\u0BA3\u0BBF \u0BA4\u0BA3\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_BANNER:
-    Display Name: Purple Banner
+    Display Name: "\u0B8A\u0BA4\u0BBE \u0BAA\u0BA4\u0BBE\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_BED:
-    Display Name: Purple Bed
+    Display Name: "\u0B8A\u0BA4\u0BBE \u0BAA\u0B9F\u0BC1\u0B95\u0BCD\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_CARPET:
-    Display Name: Purple Carpet
+    Display Name: "\u0B8A\u0BA4\u0BBE \u0BA8\u0BBF\u0BB1 \u0B95\u0BAE\u0BCD\u0BAA\u0BB3\
+      \u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_CONCRETE:
-    Display Name: Purple Concrete
+    Display Name: "\u0B8A\u0BA4\u0BBE \u0B95\u0BBE\u0BA9\u0BCD\u0B95\u0BBF\u0BB0\u0BC0\
+      \u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_CONCRETE_POWDER:
-    Display Name: Purple Concrete Powder
+    Display Name: "\u0B8A\u0BA4\u0BBE \u0B95\u0BBE\u0BA9\u0BCD\u0B95\u0BBF\u0BB0\u0BC0\
+      \u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_DYE:
@@ -3041,23 +3430,29 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_GLAZED_TERRACOTTA:
-    Display Name: Purple Glazed Terracotta
+    Display Name: "\u0B8A\u0BA4\u0BBE \u0BAE\u0BC6\u0BB4\u0BC1\u0B95\u0BC1\u0BB5\u0BB0\
+      \u0BCD\u0BA4\u0BCD\u0BA4\u0BBF \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\u0B95\u0BCB\
+      \u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_SHULKER_BOX:
-    Display Name: Purple Shulker Box
+    Display Name: "\u0B8A\u0BA4\u0BBE \u0BB7\u0BC2\u0BB2\u0BCD\u0B95\u0BB0\u0BCD \u0BAA\
+      \u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_STAINED_GLASS:
-    Display Name: Purple Stained Glass
+    Display Name: "\u0B8A\u0BA4\u0BBE \u0B95\u0BB1\u0BC8 \u0BAA\u0B9F\u0BBF\u0BA8\u0BCD\
+      \u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_STAINED_GLASS_PANE:
-    Display Name: Purple Stained Glass Pane
+    Display Name: "\u0B8A\u0BA4\u0BBE \u0BAA\u0B9F\u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\
+      \u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BAA\u0BC7\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_TERRACOTTA:
-    Display Name: Purple Terracotta
+    Display Name: "\u0B8A\u0BA4\u0BBE \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\u0B95\u0BCB\
+      \u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_WALL_BANNER:
@@ -3065,23 +3460,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   PURPLE_WOOL:
-    Display Name: Purple Wool
+    Display Name: "\u0B8A\u0BA4\u0BBE \u0BB5\u0BC2\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PURPUR_BLOCK:
-    Display Name: Purpur Block
+    Display Name: "\u0BAA\u0BC1\u0BB0\u0BCD\u0BAA\u0BC2\u0BB0\u0BCD \u0BAA\u0BBF\u0BB3\
+      \u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PURPUR_PILLAR:
-    Display Name: Purpur Pillar
+    Display Name: "\u0BAA\u0BC1\u0BB0\u0BCD\u0BAA\u0BC2\u0BB0\u0BCD \u0BA4\u0BC2\u0BA3\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PURPUR_SLAB:
-    Display Name: Purpur Slab
+    Display Name: "\u0BAA\u0BC1\u0BB0\u0BCD\u0BAA\u0BC2\u0BB0\u0BCD \u0BB8\u0BCD\u0BB2\
+      \u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   PURPUR_STAIRS:
-    Display Name: Purpur Stairs
+    Display Name: "\u0BAA\u0BC1\u0BB0\u0BC1\u0BAA\u0BC2\u0BB0\u0BCD \u0BAE\u0BBE\u0B9F\
+      \u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   QUARTZ:
@@ -3090,19 +3489,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   QUARTZ_BLOCK:
-    Display Name: Quartz Block
+    Display Name: "\u0B95\u0BC1\u0BB5\u0BBE\u0BB0\u0BCD\u0B9F\u0BCD\u0BB8\u0BCD \u0BAA\
+      \u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   QUARTZ_PILLAR:
-    Display Name: Quartz Pillar
+    Display Name: "\u0B95\u0BC1\u0BB5\u0BBE\u0BB0\u0BCD\u0B9F\u0BCD\u0BB8\u0BCD \u0BA4\
+      \u0BC2\u0BA3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   QUARTZ_SLAB:
-    Display Name: Quartz Slab
+    Display Name: "\u0B95\u0BC1\u0BB5\u0BBE\u0BB0\u0BCD\u0B9F\u0BCD\u0BB8\u0BCD \u0BB8\
+      \u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   QUARTZ_STAIRS:
-    Display Name: Quartz Stairs
+    Display Name: "\u0B95\u0BC1\u0BB5\u0BBE\u0BB0\u0BCD\u0B9F\u0BCD\u0BB8\u0BCD \u0BAA\
+      \u0B9F\u0BBF\u0B95\u0BCD\u0B95\u0B9F\u0BCD\u0B9F\u0BC1\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RABBIT:
@@ -3127,7 +3530,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   RAIL:
-    Display Name: Rail
+    Display Name: "\u0BB0\u0BAF\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RAVAGER_SPAWN_EGG:
@@ -3141,47 +3544,57 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_BLOCK:
-    Display Name: Redstone Block
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0BAA\
+      \u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_LAMP:
-    Display Name: Redstone Lamp
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0BB2\
+      \u0BC7\u0BAE\u0BCD\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_ORE:
-    Display Name: Redstone Ore
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0B93\
+      \u0BB0\u0BC7"
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_TORCH:
-    Display Name: Redstone Torch
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0B9F\
+      \u0BBE\u0BB0\u0BCD\u0B9A\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_WALL_TORCH:
-    Display Name: Redstone Wall Torch
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0BB5\
+      \u0BCB\u0BB2\u0BCD \u0B9F\u0BBE\u0BB0\u0BCD\u0B9A\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_WIRE:
-    Display Name: Redstone Wire
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0B95\
+      \u0BAE\u0BCD\u0BAA\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   RED_BANNER:
-    Display Name: Red Banner
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAA\u0BC7\u0BA9\u0BB0\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_BED:
-    Display Name: Red Bed
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD \u0BAA\u0B9F\u0BC1\u0B95\u0BCD\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   RED_CARPET:
-    Display Name: Red Carpet
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0B95\u0BAE\u0BCD\u0BAA\
+      \u0BB3\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_CONCRETE:
-    Display Name: Red Concrete
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0B95\u0BBE\u0BA9\u0BCD\
+      \u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_CONCRETE_POWDER:
-    Display Name: Red Concrete Powder
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0B95\u0BBE\u0BA9\u0BCD\
+      \u0B95\u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_DYE:
@@ -3190,71 +3603,88 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   RED_GLAZED_TERRACOTTA:
-    Display Name: Red Glazed Terracotta
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BC6\u0BB0\u0BC1\
+      \u0B95\u0BC2\u0B9F\u0BCD\u0B9F\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F \u0B9F\u0BC6\
+      \u0BB0\u0BCD\u0BB0\u0BBE\u0B95\u0BCD\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   RED_MUSHROOM:
-    Display Name: Red Mushroom
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0B95\u0BBE\u0BB3\u0BBE\
+      \u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_MUSHROOM_BLOCK:
-    Display Name: Red Mushroom Block
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BB7\u0BCD\u0BB0\
+      \u0BC2\u0BAE\u0BCD \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_NETHER_BRICKS:
-    Display Name: Red Nether Bricks
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD \u0BA8\u0BC6\u0BA4\u0BB0\u0BCD \u0BAA\u0BBF\
+      \u0BB0\u0BBF\u0B95\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_NETHER_BRICK_SLAB:
-    Display Name: Red Nether Brick Slab
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD \u0BA8\u0BC6\u0BA4\u0BB0\u0BCD \u0BAA\u0BCD\
+      \u0BB0\u0BBF\u0B95\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_NETHER_BRICK_STAIRS:
-    Display Name: Red Nether Brick Stairs
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD \u0BA8\u0BC6\u0BA4\u0BB0\u0BCD \u0B9A\u0BC6\
+      \u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   RED_NETHER_BRICK_WALL:
-    Display Name: Red Nether Brick Wall
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0B9A\u0BC6\u0B99\u0BCD\
+      \u0B95\u0BB2\u0BCD \u0B9A\u0BC1\u0BB5\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_SAND:
-    Display Name: Red Sand
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BA3\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_SANDSTONE:
-    Display Name: Red Sandstone
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BA3\u0BB1\u0BCD\
+      \u0B95\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_SANDSTONE_SLAB:
-    Display Name: Red Sandstone Slab
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD \u0B9A\u0BBE\u0BA3\u0BCD\u0B9F\u0BCD\u0BB8\
+      \u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_SANDSTONE_STAIRS:
-    Display Name: Red Sandstone Stairs
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BA3\u0BB1\u0BCD\
+      \u0B95\u0BB2\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   RED_SANDSTONE_WALL:
-    Display Name: Red Sandstone Wall
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BA3\u0BB1\u0BCD\
+      \u0B95\u0BB2\u0BCD \u0B9A\u0BC1\u0BB5\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_SHULKER_BOX:
-    Display Name: Red Shulker Box
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BB7\u0BC6\u0BB2\u0BCD\
+      \u0B95\u0BB0\u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   RED_STAINED_GLASS:
-    Display Name: Red Stained Glass
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BA8\u0BBF\u0BB1 \u0B95\
+      \u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   RED_STAINED_GLASS_PANE:
-    Display Name: Red Stained Glass Pane
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BA8\u0BBF\u0BB1 \u0B95\
+      \u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   RED_TERRACOTTA:
-    Display Name: Red Terracotta
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0B9F\u0BC6\u0BB0\u0BCD\
+      \u0BB0\u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   RED_TULIP:
-    Display Name: Red Tulip
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BA4\u0BC1\u0BB2\u0BBF\
+      \u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   RED_WALL_BANNER:
@@ -3262,19 +3692,22 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   RED_WOOL:
-    Display Name: Red Wool
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0B95\u0BAE\u0BCD\u0BAA\
+      \u0BB3\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   REPEATER:
-    Display Name: Repeater
+    Display Name: "\u0BB0\u0BC6\u0B9F\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0BB0\
+      \u0BBF\u0BAA\u0BCD\u0BAA\u0BC0\u0B9F\u0BCD\u0B9F\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   REPEATING_COMMAND_BLOCK:
-    Display Name: Repeating Command Block
+    Display Name: "\u0B95\u0B9F\u0BCD\u0B9F\u0BB3\u0BC8 \u0BA4\u0B9F\u0BC1\u0BAA\u0BCD\
+      \u0BAA\u0BC1 \u0BAE\u0BC0\u0BA3\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ROSE_BUSH:
-    Display Name: Rose Bush
+    Display Name: "\u0BB0\u0BCB\u0BB8\u0BCD \u0BAA\u0BC1\u0BB7\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   ROTTEN_FLESH:
@@ -3299,27 +3732,28 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SAND:
-    Display Name: Sand
+    Display Name: "\u0BAE\u0BA3\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SANDSTONE:
-    Display Name: Sandstone
+    Display Name: "\u0BAE\u0BA3\u0BB1\u0BCD\u0B95\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SANDSTONE_SLAB:
-    Display Name: Sandstone Slab
+    Display Name: "\u0B9A\u0BBE\u0BA3\u0BCD\u0B9F\u0BCD\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\
+      \u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SANDSTONE_STAIRS:
-    Display Name: Sandstone Stairs
+    Display Name: "\u0BAE\u0BA3\u0BB2\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   SANDSTONE_WALL:
-    Display Name: Sandstone Wall
+    Display Name: "\u0BAE\u0BA3\u0BB2\u0BCD \u0BB5\u0BBE\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SCAFFOLDING:
-    Display Name: Scaffolding
+    Display Name: "\u0B9A\u0BBE\u0BB0\u0B95\u0BCD\u0B95\u0B9F\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   SCUTE:
@@ -3327,15 +3761,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SEAGRASS:
-    Display Name: Seagrass
+    Display Name: "\u0B95\u0B9F\u0BB2\u0BCD \u0BAA\u0BC1\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SEA_LANTERN:
-    Display Name: Sea Lantern
+    Display Name: "\u0B95\u0B9F\u0BB2\u0BCD \u0BB5\u0BBF\u0BB3\u0B95\u0BCD\u0B95\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   SEA_PICKLE:
-    Display Name: Sea Pickle
+    Display Name: "\u0B95\u0B9F\u0BB2\u0BCD \u0BAA\u0BBF\u0B95\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SHEARS:
@@ -3351,7 +3785,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SHULKER_BOX:
-    Display Name: Shulker Box
+    Display Name: "\u0BB7\u0BC1\u0BB2\u0BCD\u0B95\u0BB0\u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\
+      \u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   SHULKER_SHELL:
@@ -3386,7 +3821,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SKELETON_WALL_SKULL:
-    Display Name: Skeleton Wall Skull
+    Display Name: "\u0B8E\u0BB2\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1\u0B95\u0BCD\u0B95\u0BC2\
+      \u0B9F\u0BC1 \u0BB5\u0BCB\u0BB2\u0BCD \u0BB8\u0BCD\u0B95\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SKULL_BANNER_PATTERN:
@@ -3400,7 +3836,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SLIME_BLOCK:
-    Display Name: Slime Block
+    Display Name: "\u0BAE\u0BC6\u0BB2\u0BCD\u0BB2\u0BBF\u0BAF \u0BAA\u0BBF\u0BB3\u0BBE\
+      \u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SLIME_SPAWN_EGG:
@@ -3409,59 +3846,75 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SMITHING_TABLE:
-    Display Name: Smithing Table
+    Display Name: "\u0BB8\u0BCD\u0BAE\u0BBF\u0BAE\u0BBF\u0B99\u0BCD \u0B9F\u0BC7\u0BAA\
+      \u0BBF\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SMOKER:
-    Display Name: Smoker
+    Display Name: "\u0BB8\u0BCD\u0BAE\u0BC7\u0BBE\u0B95\u0BCD\u0B95\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_QUARTZ:
-    Display Name: Smooth Quartz
+    Display Name: "\u0BAE\u0BC6\u0BA9\u0BCD\u0BAE\u0BC8\u0BAF\u0BBE\u0BA9 \u0B95\u0BC1\
+      \u0BB5\u0BBE\u0BB0\u0BCD\u0B9F\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_QUARTZ_SLAB:
-    Display Name: Smooth Quartz Slab
+    Display Name: "\u0BAE\u0BC6\u0BA9\u0BCD\u0BAE\u0BC8\u0BAF\u0BBE\u0BA9 \u0B95\u0BC1\
+      \u0BB5\u0BBE\u0BB0\u0BCD\u0B9F\u0BCD\u0BB8\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_QUARTZ_STAIRS:
-    Display Name: Smooth Quartz Stairs
+    Display Name: "\u0BAE\u0BC6\u0BA9\u0BCD\u0BAE\u0BC8\u0BAF\u0BBE\u0BA9 \u0B95\u0BC1\
+      \u0BB5\u0BBE\u0BB0\u0BCD\u0B9F\u0BCD\u0BB8\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF\u0B95\
+      \u0BB3\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_RED_SANDSTONE:
-    Display Name: Smooth Red Sandstone
+    Display Name: "\u0BAE\u0BC6\u0BA9\u0BCD\u0BAE\u0BC8\u0BAF\u0BBE\u0BA9 \u0B9A\u0BBF\
+      \u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BA3\u0BB1\u0BCD\u0B95\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_RED_SANDSTONE_SLAB:
-    Display Name: Smooth Red Sandstone Slab
+    Display Name: "\u0BAE\u0BC6\u0BA9\u0BCD\u0BAE\u0BC8\u0BAF\u0BBE\u0BA9 \u0B9A\u0BBF\
+      \u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BA3\u0BB1\u0BCD\u0B95\u0BB2\u0BCD \u0BAE\
+      \u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_RED_SANDSTONE_STAIRS:
-    Display Name: Smooth Red Sandstone Stairs
+    Display Name: "\u0BAE\u0BC6\u0BA9\u0BCD\u0BAE\u0BC8\u0BAF\u0BBE\u0BA9 \u0B9A\u0BBF\
+      \u0BB5\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAE\u0BA3\u0BB1\u0BCD\u0B95\u0BB2\u0BCD \u0BAE\
+      \u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_SANDSTONE:
-    Display Name: Smooth Sandstone
+    Display Name: "\u0BAE\u0BC6\u0BA9\u0BCD\u0BAE\u0BC8\u0BAF\u0BBE\u0BA9 \u0BAE\u0BA3\
+      \u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_SANDSTONE_SLAB:
-    Display Name: Smooth Sandstone Slab
+    Display Name: "\u0BAE\u0BC6\u0BA9\u0BCD\u0BAE\u0BC8\u0BAF\u0BBE\u0BA9 \u0BAE\u0BA3\
+      \u0BB2\u0BCD \u0BB8\u0BCD\u0B9F\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_SANDSTONE_STAIRS:
-    Display Name: Smooth Sandstone Stairs
+    Display Name: "\u0BAE\u0BC6\u0BA9\u0BCD\u0BAE\u0BC8\u0BAF\u0BBE\u0BA9 \u0BAE\u0BA3\
+      \u0BB1\u0BCD\u0B95\u0BB2\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_STONE:
-    Display Name: Smooth Stone
+    Display Name: "\u0BAE\u0BC6\u0BA9\u0BCD\u0BAE\u0BC8\u0BAF\u0BBE\u0BA9 \u0B95\u0BB2\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SMOOTH_STONE_SLAB:
-    Display Name: Smooth Stone Slab
+    Display Name: "\u0BAE\u0BC6\u0BA9\u0BCD\u0BAE\u0BC8\u0BAF\u0BBE\u0BA9 \u0BB8\u0BCD\
+      \u0B9F\u0BCB\u0BA9\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SNOW:
-    Display Name: Snow
+    Display Name: "\u0BB8\u0BCD\u0BA9\u0BC7\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   SNOWBALL:
@@ -3469,15 +3922,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SNOW_BLOCK:
-    Display Name: Snow Block
+    Display Name: "\u0BAA\u0BA9\u0BBF \u0BA4\u0B9F\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   SOUL_SAND:
-    Display Name: Soul Sand
+    Display Name: "\u0B9A\u0BCB\u0BB2\u0BCD \u0BAE\u0BA3\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SPAWNER:
-    Display Name: Spawner
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BBE\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SPECTRAL_ARROW:
@@ -3500,7 +3953,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SPONGE:
-    Display Name: Sponge
+    Display Name: "\u0B95\u0B9F\u0BB1\u0BCD\u0BAA\u0BBE\u0B9A\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_BOAT:
@@ -3509,63 +3962,77 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_BUTTON:
-    Display Name: Spruce Button
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0BAA\u0B9F\u0BCD\
+      \u0B9F\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_DOOR:
-    Display Name: Spruce Door
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0B95\u0BA4\u0BB5\
+      \u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_FENCE:
-    Display Name: Spruce Fence
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0B83\u0BAA\u0BC6\
+      \u0BA9\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_FENCE_GATE:
-    Display Name: Spruce Fence Gate
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0BB5\u0BC7\u0BB2\
+      \u0BBF \u0B95\u0BC7\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_LEAVES:
-    Display Name: Spruce Leaves
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0B87\u0BB2\u0BC8\
+      \u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_LOG:
-    Display Name: Spruce Log
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0BAA\u0BA4\u0BBF\
+      \u0BB5\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_PLANKS:
-    Display Name: Spruce Planks
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0BAA\u0BCD\u0BB3\
+      \u0BBE\u0B99\u0BCD\u0B95\u0BCD\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_PRESSURE_PLATE:
-    Display Name: Spruce Pressure Plate
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0B85\u0BB4\u0BC1\
+      \u0BA4\u0BCD\u0BA4\u0BAE\u0BCD \u0BA4\u0B9F\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_SAPLING:
-    Display Name: Spruce Sapling
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC6\u0BB8\u0BCD \u0B9A\u0BA8\u0BCD\
+      \u0BA4\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_SIGN:
-    Display Name: Spruce Sign
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0B9A\u0BC8\u0BA9\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_SLAB:
-    Display Name: Spruce Slab
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0BB8\u0BCD\u0BB2\
+      \u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_STAIRS:
-    Display Name: Spruce Stairs
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0BAE\u0BBE\u0B9F\
+      \u0BBF\u0B95\u0BB3\u0BBF\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_TRAPDOOR:
-    Display Name: Spruce Trapdoor
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0B9F\u0BCD\u0BB0\
+      \u0BBE\u0BAA\u0BB0\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_WALL_SIGN:
-    Display Name: Spruce Wall Sign
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0BB5\u0BCB\u0BB2\
+      \u0BCD \u0B9A\u0BC8\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_WOOD:
-    Display Name: Spruce Wood
+    Display Name: "\u0BB8\u0BCD\u0BAA\u0BCD\u0BB0\u0BC2 \u0BB5\u0BC2\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   SQUID_SPAWN_EGG:
@@ -3578,15 +4045,16 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   STICKY_PISTON:
-    Display Name: Sticky Piston
+    Display Name: "\u0B92\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAA\u0BBF\u0BB8\u0BCD\
+      \u0B9F\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STONE:
-    Display Name: Stone
+    Display Name: "\u0B95\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STONECUTTER:
-    Display Name: Stonecutter
+    Display Name: "\u0B95\u0BB2\u0BCD\u0B95\u0B9F\u0BCD\u0B9F\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STONE_AXE:
@@ -3594,23 +4062,28 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   STONE_BRICKS:
-    Display Name: Stone Bricks
+    Display Name: "\u0B95\u0BB2\u0BCD \u0B9A\u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD\u0B95\
+      \u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STONE_BRICK_SLAB:
-    Display Name: Stone Brick Slab
+    Display Name: "\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0BAA\u0BBF\u0BB0\u0BBF\u0B95\
+      \u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STONE_BRICK_STAIRS:
-    Display Name: Stone Brick Stairs
+    Display Name: "\u0B95\u0BB2\u0BCD \u0B9A\u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BAE\
+      \u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   STONE_BRICK_WALL:
-    Display Name: Stone Brick Wall
+    Display Name: "\u0B95\u0BB2\u0BCD \u0B9A\u0BC6\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0B9A\
+      \u0BC1\u0BB5\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STONE_BUTTON:
-    Display Name: Stone Button
+    Display Name: "\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0BAA\u0B9F\u0BCD\u0B9F\u0BA9\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STONE_HOE:
@@ -3623,7 +4096,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   STONE_PRESSURE_PLATE:
-    Display Name: Stone Pressure Plate
+    Display Name: "\u0B95\u0BB2\u0BCD \u0B85\u0BB4\u0BC1\u0BA4\u0BCD\u0BA4\u0BAE\u0BCD\
+      \ \u0BA4\u0B9F\u0BCD\u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   STONE_SHOVEL:
@@ -3631,11 +4105,12 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   STONE_SLAB:
-    Display Name: Stone Slab
+    Display Name: "\u0BB8\u0BCD\u0B9F\u0BCB\u0BA9\u0BCD \u0BB8\u0BCD\u0BB2\u0BBE\u0BAA\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STONE_STAIRS:
-    Display Name: Stone Stairs
+    Display Name: "\u0B95\u0BB2\u0BCD \u0BAE\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   STONE_SWORD:
@@ -3652,59 +4127,75 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_ACACIA_LOG:
-    Display Name: Stripped Acacia Log
+    Display Name: "\u0B85\u0B95\u0BBE\u0B9A\u0BBF\u0BAF\u0BBE \u0BAA\u0BA4\u0BBF\u0BB5\
+      \u0BC8 \u0B85\u0B95\u0BB1\u0BCD\u0BB1\u0BBF\u0BA9\u0BBE\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_ACACIA_WOOD:
-    Display Name: Stripped Acacia Wood
+    Display Name: "\u0B85\u0B95\u0BCD\u0BB8\u0BBE \u0BB5\u0BC2\u0B9F\u0BCD \u0BB8\u0BCD\
+      \u0B9F\u0BCD\u0BB0\u0BBF\u0BAA\u0BCD\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_BIRCH_LOG:
-    Display Name: Stripped Birch Log
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0BAA\u0BA4\u0BBF\u0BB5\u0BC1\
+      \ \u0BB8\u0BCD\u0B9F\u0BCD\u0BB0\u0BBF\u0BAA\u0BCD\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_BIRCH_WOOD:
-    Display Name: Stripped Birch Wood
+    Display Name: "\u0BAA\u0BBF\u0BB0\u0BCD\u0B9A\u0BCD \u0BB5\u0BC2\u0B9F\u0BCD \u0BB8\
+      \u0BCD\u0B9F\u0BCD\u0BB0\u0BBF\u0BAA\u0BCD\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_DARK_OAK_LOG:
-    Display Name: Stripped Dark Oak Log
+    Display Name: "\u0BB8\u0BCD\u0B9F\u0BBF\u0BB0\u0BBF\u0BAA\u0BCD\u0B9F\u0BC1 \u0B9F\
+      \u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0BAA\u0BC1\u0B95\u0BC1\u0BAA\
+      \u0BA4\u0BBF\u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_DARK_OAK_WOOD:
-    Display Name: Stripped Dark Oak Wood
+    Display Name: "\u0BB8\u0BCD\u0B9F\u0BCD\u0BB0\u0BBF\u0BAA\u0BCD\u0B9F\u0BCD \u0B9F\
+      \u0BBE\u0BB0\u0BCD\u0B95\u0BCD \u0B93\u0B95\u0BCD \u0BB5\u0BC2\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_JUNGLE_LOG:
-    Display Name: Stripped Jungle Log
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0BAA\u0BA4\u0BBF\u0BB5\
+      \u0BC1 \u0B87\u0BB4\u0BC1\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F\
+      \u0BA4\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_JUNGLE_WOOD:
-    Display Name: Stripped Jungle Wood
+    Display Name: "\u0B9C\u0B99\u0BCD\u0B95\u0BBF\u0BB3\u0BCD \u0BB5\u0BC2\u0B9F\u0BCD\
+      \ \u0BB8\u0BCD\u0B9F\u0BCD\u0BB0\u0BC8\u0BAA\u0BCD\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_OAK_LOG:
-    Display Name: Stripped Oak Log
+    Display Name: "\u0BB8\u0BCD\u0B9F\u0BCD\u0BB0\u0BC6\u0BAA\u0BBF\u0B9F\u0BCD \u0B93\
+      \u0B95\u0BCD \u0BB2\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_OAK_WOOD:
-    Display Name: Stripped Oak Wood
+    Display Name: "\u0B93\u0B95\u0BCD \u0BB5\u0BC1\u0B9F\u0BCD \u0BB8\u0BCD\u0B9F\u0BCD\
+      \u0BB0\u0BC8\u0BAA\u0BCD\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_SPRUCE_LOG:
-    Display Name: Stripped Spruce Log
+    Display Name: "\u0BB8\u0BCD\u0B9F\u0BCD\u0BB0\u0BC8\u0BAA\u0BCD\u0BB8\u0BCD \u0BB8\
+      \u0BCD\u0B9F\u0BCD\u0BB0\u0BC0\u0BAA\u0BCD \u0BAA\u0BA4\u0BBF\u0BB5\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   STRIPPED_SPRUCE_WOOD:
-    Display Name: Stripped Spruce Wood
+    Display Name: "\u0BB8\u0BCD\u0B9F\u0BCD\u0BB0\u0BC8\u0BAA\u0BCD\u0BB8\u0BCD \u0BB8\
+      \u0BCD\u0BAA\u0BCD\u0BB0\u0BC2\u0BB8\u0BCD \u0BB5\u0BC2\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STRUCTURE_BLOCK:
-    Display Name: Structure Block
+    Display Name: "\u0B95\u0B9F\u0BCD\u0B9F\u0BAE\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAA\
+      \u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   STRUCTURE_VOID:
-    Display Name: Structure Void
+    Display Name: "\u0B85\u0BAE\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1 \u0BB5\u0BC6\u0BB1\u0BCD\
+      \u0BB1\u0BBF\u0B9F\u0BA4\u0BCD\u0BA4\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   SUGAR:
@@ -3712,11 +4203,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SUGAR_CANE:
-    Display Name: Sugar Cane
+    Display Name: "\u0B95\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   SUNFLOWER:
-    Display Name: Sunflower
+    Display Name: "\u0B9A\u0BC2\u0BB0\u0BBF\u0BAF\u0B95\u0BBE\u0BA8\u0BCD\u0BA4\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   SUSPICIOUS_STEW:
@@ -3730,19 +4221,21 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SWEET_BERRY_BUSH:
-    Display Name: Sweet Berry Bush
+    Display Name: "\u0B87\u0BA9\u0BBF\u0BAA\u0BCD\u0BAA\u0BC1 \u0BAA\u0BC6\u0BB0\u0BCD\
+      \u0BB0\u0BBF \u0BAA\u0BC1\u0BB7\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   TALL_GRASS:
-    Display Name: Tall Grass
+    Display Name: "\u0B89\u0BAF\u0BB0\u0BAE\u0BBE\u0BA9 \u0BAA\u0BC1\u0BB2\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   TALL_SEAGRASS:
-    Display Name: Tall Seagrass
+    Display Name: "\u0B89\u0BAF\u0BB0\u0BAE\u0BBE\u0BA9 \u0B9A\u0BC0\u0B95\u0BBF\u0BB0\
+      \u0BBE\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   TERRACOTTA:
-    Display Name: Terracotta
+    Display Name: "\u0B9A\u0BBF\u0BB5\u0BAA\u0BCD\u0BAA\u0BBE\u0BAF\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   TIPPED_ARROW:
@@ -3751,7 +4244,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   TNT:
-    Display Name: Tnt
+    Display Name: "\u0B9F\u0BBF\u0B8E\u0BA9\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   TNT_MINECART:
@@ -3760,7 +4253,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   TORCH:
-    Display Name: Torch
+    Display Name: "\u0B9C\u0BC7\u0BBE\u0BA4\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   TOTEM_OF_UNDYING:
@@ -3775,7 +4268,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   TRAPPED_CHEST:
-    Display Name: Trapped Chest
+    Display Name: "\u0B9A\u0BBF\u0B95\u0BCD\u0B95\u0BBF\u0BAF \u0BAE\u0BBE\u0BB0\u0BCD\
+      \u0BAA\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   TRIDENT:
@@ -3783,11 +4277,12 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   TRIPWIRE:
-    Display Name: Tripwire
+    Display Name: "\u0BA4\u0BBF\u0BB0\u0BBF\u0BAA\u0BCD\u0BAA\u0BB5\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   TRIPWIRE_HOOK:
-    Display Name: Tripwire Hook
+    Display Name: "\u0BA4\u0BBF\u0BB0\u0BBF\u0BAA\u0BCD\u0BAA\u0BB5\u0BB0\u0BCD \u0BB9\
+      \u0BC2\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   TROPICAL_FISH:
@@ -3807,23 +4302,26 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   TUBE_CORAL:
-    Display Name: Tube Coral
+    Display Name: "\u0B95\u0BC1\u0BB4\u0BBE\u0BAF\u0BCD \u0BAA\u0BB5\u0BB3"
     Has Hologram: true
     Max Stack Size: -1
   TUBE_CORAL_BLOCK:
-    Display Name: Tube Coral Block
+    Display Name: "\u0B95\u0BC1\u0BB4\u0BBE\u0BAF\u0BCD \u0B95\u0BCB\u0BB0\u0BB2\u0BCD\
+      \ \u0BAA\u0BBF\u0BB3\u0BBE\u0B95\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   TUBE_CORAL_FAN:
-    Display Name: Tube Coral Fan
+    Display Name: "\u0B95\u0BC1\u0BB4\u0BBF \u0BAA\u0BB5\u0BB3 \u0B83\u0BAA\u0BC7\u0BA9\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   TUBE_CORAL_WALL_FAN:
-    Display Name: Tube Coral Wall Fan
+    Display Name: "\u0B95\u0BC1\u0BB4\u0BBE\u0BAF\u0BCD \u0BAA\u0BB5\u0BB3 \u0BB5\u0BBE\
+      \u0BB2\u0BCD \u0BB0\u0B9A\u0BBF\u0B95\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   TURTLE_EGG:
-    Display Name: Turtle Egg
+    Display Name: "\u0B86\u0BAE\u0BC8 \u0BAE\u0BC1\u0B9F\u0BCD\u0B9F\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   TURTLE_HELMET:
@@ -3852,15 +4350,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   VINE:
-    Display Name: Vine
+    Display Name: "\u0B95\u0BC6\u0BBE\u0B9F\u0BBF\u0B95\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   VOID_AIR:
-    Display Name: Void Air
+    Display Name: "\u0BB5\u0BC6\u0BB1\u0BCD\u0BB1\u0BBF\u0B9F \u0B8F\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   WALL_TORCH:
-    Display Name: Wall Torch
+    Display Name: "\u0BB5\u0BCB\u0BB2\u0BCD \u0B9F\u0BBE\u0BB0\u0BCD\u0B9A\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   WANDERING_TRADER_SPAWN_EGG:
@@ -3870,7 +4368,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WATER:
-    Display Name: Water
+    Display Name: "\u0BA8\u0BC0\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   WATER_BUCKET:
@@ -3878,7 +4376,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WET_SPONGE:
-    Display Name: Wet Sponge
+    Display Name: "\u0BB5\u0BC6\u0B9F\u0BCD \u0B95\u0B9F\u0BB1\u0BCD\u0BAA\u0BBE\u0B9A\
+      \u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   WHEAT:
@@ -3891,23 +4390,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WHITE_BANNER:
-    Display Name: White Banner
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BCD\u0BB3\u0BC8 \u0BAA\u0BC7\u0BA9\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_BED:
-    Display Name: White Bed
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BCD\u0BB3\u0BC8 \u0BAA\u0B9F\u0BC1\u0B95\u0BCD\
+      \u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_CARPET:
-    Display Name: White Carpet
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BCD\u0BB3\u0BC8 \u0B95\u0BAE\u0BCD\u0BAA\u0BB3\
+      \u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_CONCRETE:
-    Display Name: White Concrete
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BCD\u0BB3\u0BC8 \u0B95\u0BBE\u0BA9\u0BCD\u0B95\
+      \u0BBF\u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_CONCRETE_POWDER:
-    Display Name: White Concrete Powder
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BCD\u0BB3\u0BC8 \u0B95\u0BBE\u0BA9\u0BCD\u0B95\
+      \u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_DYE:
@@ -3915,27 +4418,35 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WHITE_GLAZED_TERRACOTTA:
-    Display Name: White Glazed Terracotta
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BCD\u0BB3\u0BC8 \u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\
+      \u0BCD\u0BAA\u0BBE\u0BA9 \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\u0B95\u0BCB\u0B9F\
+      \u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_SHULKER_BOX:
-    Display Name: White Shulker Box
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BCD\u0BB3\u0BC8 \u0BB7\u0BC1\u0BB2\u0BCD\u0B95\
+      \u0BB0\u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_STAINED_GLASS:
-    Display Name: White Stained Glass
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BCD\u0BB3\u0BC8 \u0B95\u0BB1\u0BC8 \u0BAA\u0B9F\
+      \u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_STAINED_GLASS_PANE:
-    Display Name: White Stained Glass Pane
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BCD\u0BB3\u0BC8 \u0B95\u0BB1\u0BC8 \u0BAA\u0B9F\
+      \u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BA4\u0B95\
+      \u0B9F\u0BC1"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_TERRACOTTA:
-    Display Name: White Terracotta
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BCD\u0BB3\u0BC8 \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\
+      \u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_TULIP:
-    Display Name: White Tulip
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BCD\u0BB3\u0BC8 \u0BA4\u0BC1\u0BB2\u0BBF\u0BAA\
+      \u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   WHITE_WALL_BANNER:
@@ -3943,7 +4454,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WHITE_WOOL:
-    Display Name: White Wool
+    Display Name: "\u0BB5\u0BC6\u0BB3\u0BCD\u0BB3\u0BC8 \u0B95\u0BAE\u0BCD\u0BAA\u0BB3\
+      \u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   WITCH_SPAWN_EGG:
@@ -3952,7 +4464,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WITHER_ROSE:
-    Display Name: Wither Rose
+    Display Name: "\u0BB5\u0BBE\u0B9F\u0BCD \u0BB0\u0BCB\u0BB8\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   WITHER_SKELETON_SKULL:
@@ -3967,7 +4479,9 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   WITHER_SKELETON_WALL_SKULL:
-    Display Name: Wither Skeleton Wall Skull
+    Display Name: "\u0B8E\u0BB2\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1\u0B95\u0BCD\u0B95\u0BC2\
+      \u0B9F\u0BC1 \u0BB5\u0BCB\u0BB2\u0BCD \u0BB8\u0BCD\u0B95\u0BB2\u0BCD \u0BB5\u0BBE\
+      \u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   WOLF_SPAWN_EGG:
@@ -4007,23 +4521,27 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_BANNER:
-    Display Name: Yellow Banner
+    Display Name: "\u0BAE\u0B9E\u0BCD\u0B9A\u0BB3\u0BCD \u0BAA\u0BC7\u0BA9\u0BB0\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_BED:
-    Display Name: Yellow Bed
+    Display Name: "\u0BAE\u0B9E\u0BCD\u0B9A\u0BB3\u0BCD \u0BAA\u0B9F\u0BC1\u0B95\u0BCD\
+      \u0B95\u0BC8"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_CARPET:
-    Display Name: Yellow Carpet
+    Display Name: "\u0BAE\u0B9E\u0BCD\u0B9A\u0BB3\u0BCD \u0B95\u0BAE\u0BCD\u0BAA\u0BB3\
+      \u0BAE\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_CONCRETE:
-    Display Name: Yellow Concrete
+    Display Name: "\u0BAE\u0B9E\u0BCD\u0B9A\u0BB3\u0BCD \u0B95\u0BBE\u0BA9\u0BCD\u0B95\
+      \u0BBF\u0BB0\u0BC0\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_CONCRETE_POWDER:
-    Display Name: Yellow Concrete Powder
+    Display Name: "\u0BAE\u0B9E\u0BCD\u0B9A\u0BB3\u0BCD \u0B95\u0BBE\u0BA9\u0BCD\u0B95\
+      \u0BBF\u0BB0\u0BC0\u0B9F\u0BCD \u0BA4\u0BC2\u0BB3\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_DYE:
@@ -4031,23 +4549,29 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_GLAZED_TERRACOTTA:
-    Display Name: Yellow Glazed Terracotta
+    Display Name: "\u0BAE\u0B9E\u0BCD\u0B9A\u0BB3\u0BCD \u0BAA\u0BB3\u0BAA\u0BB3\u0BAA\
+      \u0BCD\u0BAA\u0BBE\u0BA9 \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\u0BBE\u0B95\u0BCB\u0B9F\
+      \u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_SHULKER_BOX:
-    Display Name: Yellow Shulker Box
+    Display Name: "\u0BAE\u0B9E\u0BCD\u0B9A\u0BB3\u0BCD \u0BB7\u0BB2\u0BCD\u0B95\u0BB0\
+      \u0BCD \u0BAA\u0BC6\u0B9F\u0BCD\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_STAINED_GLASS:
-    Display Name: Yellow Stained Glass
+    Display Name: "\u0BAE\u0B9E\u0BCD\u0B9A\u0BB3\u0BCD \u0B95\u0BB1\u0BC8 \u0BAA\u0B9F\
+      \u0BBF\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_STAINED_GLASS_PANE:
-    Display Name: Yellow Stained Glass Pane
+    Display Name: "\u0BAE\u0B9E\u0BCD\u0B9A\u0BB3\u0BCD \u0BAA\u0B9F\u0BBF\u0BA8\u0BCD\
+      \u0BA4 \u0B95\u0BA3\u0BCD\u0BA3\u0BBE\u0B9F\u0BBF \u0BAA\u0BC7\u0BA9\u0BCD"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_TERRACOTTA:
-    Display Name: Yellow Terracotta
+    Display Name: "\u0BAE\u0B9E\u0BCD\u0B9A\u0BB3\u0BCD \u0B9F\u0BC6\u0BB0\u0BCD\u0BB0\
+      \u0BBE\u0B95\u0BCB\u0B9F\u0BCD\u0B9F\u0BBE"
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_WALL_BANNER:
@@ -4055,7 +4579,8 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   YELLOW_WOOL:
-    Display Name: Yellow Wool
+    Display Name: "\u0BAE\u0B9E\u0BCD\u0B9A\u0BB3\u0BCD \u0B95\u0BAE\u0BCD\u0BAA\u0BB3\
+      \u0BBF"
     Has Hologram: true
     Max Stack Size: -1
   ZOMBIE_HEAD:
@@ -4085,6 +4610,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ZOMBIE_WALL_HEAD:
-    Display Name: Zombie Wall Head
+    Display Name: "\u0B9A\u0BCB\u0BAE\u0BCD\u0BAA\u0BC8 \u0BB5\u0BCB\u0BB2\u0BCD \u0BB9\
+      \u0BC6\u0B9F\u0BCD"
     Has Hologram: true
     Max Stack Size: -1

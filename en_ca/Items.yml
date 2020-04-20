@@ -8,15 +8,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_DOOR:
-    Display Name: Acacia Door
+    Display Name: Acacia Wood Door
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_FENCE:
-    Display Name: Acacia Fence
+    Display Name: Acacia Wood Fence
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_FENCE_GATE:
-    Display Name: Acacia Fence Gate
+    Display Name: Acacia Wood Fence Gate
     Has Hologram: true
     Max Stack Size: -1
   ACACIA_LEAVES:
@@ -128,7 +128,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BAMBOO_SAPLING:
-    Display Name: Bamboo Sapling
+    Display Name: Bamboo Shoot
     Has Hologram: true
     Max Stack Size: -1
   BARREL:
@@ -196,15 +196,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_DOOR:
-    Display Name: Birch Door
+    Display Name: Birch Wood Door
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_FENCE:
-    Display Name: Birch Fence
+    Display Name: Birch Wood Fence
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_FENCE_GATE:
-    Display Name: Birch Fence Gate
+    Display Name: Birch Wood Fence Gate
     Has Hologram: true
     Max Stack Size: -1
   BIRCH_LEAVES:
@@ -628,19 +628,19 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   CHISELED_QUARTZ_BLOCK:
-    Display Name: Chiseled Quartz Block
+    Display Name: Chiselled Quartz Block
     Has Hologram: true
     Max Stack Size: -1
   CHISELED_RED_SANDSTONE:
-    Display Name: Chiseled Red Sandstone
+    Display Name: Chiselled Red Sandstone
     Has Hologram: true
     Max Stack Size: -1
   CHISELED_SANDSTONE:
-    Display Name: Chiseled Sandstone
+    Display Name: Chiselled Sandstone
     Has Hologram: true
     Max Stack Size: -1
   CHISELED_STONE_BRICKS:
-    Display Name: Chiseled Stone Bricks
+    Display Name: Chiselled Stone Bricks
     Has Hologram: true
     Max Stack Size: -1
   CHORUS_FLOWER:
@@ -672,7 +672,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   COAL_BLOCK:
-    Display Name: Coal Block
+    Display Name: Block of Coal
     Has Hologram: true
     Max Stack Size: -1
   COAL_ORE:
@@ -732,7 +732,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   COMPARATOR:
-    Display Name: Comparator
+    Display Name: Redstone Comparator
     Has Hologram: true
     Max Stack Size: -1
   COMPASS:
@@ -900,15 +900,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_DOOR:
-    Display Name: Dark Oak Door
+    Display Name: Dark Oak Wood Door
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_FENCE:
-    Display Name: Dark Oak Fence
+    Display Name: Dark Oak Wood Fence
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_FENCE_GATE:
-    Display Name: Dark Oak Fence Gate
+    Display Name: Dark Oak Wood Fence Gate
     Has Hologram: true
     Max Stack Size: -1
   DARK_OAK_LEAVES:
@@ -1072,7 +1072,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   DIAMOND_BLOCK:
-    Display Name: Diamond Block
+    Display Name: Block of Diamond
     Has Hologram: true
     Max Stack Size: -1
   DIAMOND_BOOTS:
@@ -1196,7 +1196,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   EMERALD_BLOCK:
-    Display Name: Emerald Block
+    Display Name: Block of Emerald
     Has Hologram: true
     Max Stack Size: -1
   EMERALD_ORE:
@@ -1460,7 +1460,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GOLD_BLOCK:
-    Display Name: Gold Block
+    Display Name: Block of Gold
     Has Hologram: true
     Max Stack Size: -1
   GOLD_INGOT:
@@ -1508,23 +1508,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GRAY_BANNER:
-    Display Name: Gray Banner
+    Display Name: Grey Banner
     Has Hologram: true
     Max Stack Size: -1
   GRAY_BED:
-    Display Name: Gray Bed
+    Display Name: Grey Bed
     Has Hologram: true
     Max Stack Size: -1
   GRAY_CARPET:
-    Display Name: Gray Carpet
+    Display Name: Grey Carpet
     Has Hologram: true
     Max Stack Size: -1
   GRAY_CONCRETE:
-    Display Name: Gray Concrete
+    Display Name: Grey Concrete
     Has Hologram: true
     Max Stack Size: -1
   GRAY_CONCRETE_POWDER:
-    Display Name: Gray Concrete Powder
+    Display Name: Grey Concrete Powder
     Has Hologram: true
     Max Stack Size: -1
   GRAY_DYE:
@@ -1532,23 +1532,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GRAY_GLAZED_TERRACOTTA:
-    Display Name: Gray Glazed Terracotta
+    Display Name: Grey Glazed Terracotta
     Has Hologram: true
     Max Stack Size: -1
   GRAY_SHULKER_BOX:
-    Display Name: Gray Shulker Box
+    Display Name: Grey Shulker Box
     Has Hologram: true
     Max Stack Size: -1
   GRAY_STAINED_GLASS:
-    Display Name: Gray Stained Glass
+    Display Name: Grey Stained Glass
     Has Hologram: true
     Max Stack Size: -1
   GRAY_STAINED_GLASS_PANE:
-    Display Name: Gray Stained Glass Pane
+    Display Name: Grey Stained Glass Pane
     Has Hologram: true
     Max Stack Size: -1
   GRAY_TERRACOTTA:
-    Display Name: Gray Terracotta
+    Display Name: Grey Terracotta
     Has Hologram: true
     Max Stack Size: -1
   GRAY_WALL_BANNER:
@@ -1556,7 +1556,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   GRAY_WOOL:
-    Display Name: Gray Wool
+    Display Name: Grey Wool
     Has Hologram: true
     Max Stack Size: -1
   GREEN_BANNER:
@@ -1624,7 +1624,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   HAY_BLOCK:
-    Display Name: Hay Block
+    Display Name: Straw Bale
     Has Hologram: true
     Max Stack Size: -1
   HEART_OF_THE_SEA:
@@ -1688,7 +1688,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_CHISELED_STONE_BRICKS:
-    Display Name: Infested Chiseled Stone Bricks
+    Display Name: Infested Chiselled Stone Bricks
     Has Hologram: true
     Max Stack Size: -1
   INFESTED_COBBLESTONE:
@@ -1724,7 +1724,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   IRON_BLOCK:
-    Display Name: Iron Block
+    Display Name: Block of Iron
     Has Hologram: true
     Max Stack Size: -1
   IRON_BOOTS:
@@ -1788,11 +1788,11 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   JACK_O_LANTERN:
-    Display Name: Jack O Lantern
+    Display Name: Jack O'Lantern
     Has Hologram: true
     Max Stack Size: -1
   JIGSAW:
-    Display Name: Jigsaw
+    Display Name: Jigsaw Block
     Has Hologram: true
     Max Stack Size: -1
   JUKEBOX:
@@ -1808,15 +1808,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_DOOR:
-    Display Name: Jungle Door
+    Display Name: Jungle Wood Door
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_FENCE:
-    Display Name: Jungle Fence
+    Display Name: Jungle Wood Fence
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_FENCE_GATE:
-    Display Name: Jungle Fence Gate
+    Display Name: Jungle Wood Fence Gate
     Has Hologram: true
     Max Stack Size: -1
   JUNGLE_LEAVES:
@@ -1884,7 +1884,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LAPIS_BLOCK:
-    Display Name: Lapis Block
+    Display Name: Lapis Lazuli Block
     Has Hologram: true
     Max Stack Size: -1
   LAPIS_LAZULI:
@@ -1892,7 +1892,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LAPIS_ORE:
-    Display Name: Lapis Ore
+    Display Name: Lapis Lazuli Ore
     Has Hologram: true
     Max Stack Size: -1
   LARGE_FERN:
@@ -1996,23 +1996,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_BANNER:
-    Display Name: Light Gray Banner
+    Display Name: Light Grey Banner
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_BED:
-    Display Name: Light Gray Bed
+    Display Name: Light Grey Bed
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_CARPET:
-    Display Name: Light Gray Carpet
+    Display Name: Light Grey Carpet
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_CONCRETE:
-    Display Name: Light Gray Concrete
+    Display Name: Light Grey Concrete
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_CONCRETE_POWDER:
-    Display Name: Light Gray Concrete Powder
+    Display Name: Light Grey Concrete Powder
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_DYE:
@@ -2020,23 +2020,23 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_GLAZED_TERRACOTTA:
-    Display Name: Light Gray Glazed Terracotta
+    Display Name: Light Grey Glazed Terracotta
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_SHULKER_BOX:
-    Display Name: Light Gray Shulker Box
+    Display Name: Light Grey Shulker Box
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_STAINED_GLASS:
-    Display Name: Light Gray Stained Glass
+    Display Name: Light Grey Stained Glass
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_STAINED_GLASS_PANE:
-    Display Name: Light Gray Stained Glass Pane
+    Display Name: Light Grey Stained Glass Pane
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_TERRACOTTA:
-    Display Name: Light Gray Terracotta
+    Display Name: Light Grey Terracotta
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_WALL_BANNER:
@@ -2044,7 +2044,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_GRAY_WOOL:
-    Display Name: Light Gray Wool
+    Display Name: Light Grey Wool
     Has Hologram: true
     Max Stack Size: -1
   LIGHT_WEIGHTED_PRESSURE_PLATE:
@@ -2056,7 +2056,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   LILY_OF_THE_VALLEY:
-    Display Name: Lily Of The Valley
+    Display Name: Lily of the Valley
     Has Hologram: true
     Max Stack Size: -1
   LILY_PAD:
@@ -2400,15 +2400,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   OAK_DOOR:
-    Display Name: Oak Door
+    Display Name: Oak Wood Door
     Has Hologram: true
     Max Stack Size: -1
   OAK_FENCE:
-    Display Name: Oak Fence
+    Display Name: Oak Wood Fence
     Has Hologram: true
     Max Stack Size: -1
   OAK_FENCE_GATE:
-    Display Name: Oak Fence Gate
+    Display Name: Oak Wood Fence Gate
     Has Hologram: true
     Max Stack Size: -1
   OAK_LEAVES:
@@ -2524,7 +2524,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   OXEYE_DAISY:
-    Display Name: Oxeye Daisy
+    Display Name: Moon Daisy
     Has Hologram: true
     Max Stack Size: -1
   PACKED_ICE:
@@ -2760,7 +2760,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   POTTED_DEAD_BUSH:
-    Display Name: Potted Dead Bush
+    Display Name: Dead Potted Bush
     Has Hologram: true
     Max Stack Size: -1
   POTTED_FERN:
@@ -2772,7 +2772,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   POTTED_LILY_OF_THE_VALLEY:
-    Display Name: Potted Lily Of The Valley
+    Display Name: Potted Lily of the Valley
     Has Hologram: true
     Max Stack Size: -1
   POTTED_OAK_SAPLING:
@@ -2956,7 +2956,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   QUARTZ_BLOCK:
-    Display Name: Quartz Block
+    Display Name: Block of Quartz
     Has Hologram: true
     Max Stack Size: -1
   QUARTZ_PILLAR:
@@ -3004,7 +3004,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_BLOCK:
-    Display Name: Redstone Block
+    Display Name: Block of Redstone
     Has Hologram: true
     Max Stack Size: -1
   REDSTONE_LAMP:
@@ -3128,7 +3128,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   REPEATER:
-    Display Name: Repeater
+    Display Name: Redstone Repeater
     Has Hologram: true
     Max Stack Size: -1
   REPEATING_COMMAND_BLOCK:
@@ -3360,15 +3360,15 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_DOOR:
-    Display Name: Spruce Door
+    Display Name: Spruce Wood Door
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_FENCE:
-    Display Name: Spruce Fence
+    Display Name: Spruce Wood Fence
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_FENCE_GATE:
-    Display Name: Spruce Fence Gate
+    Display Name: Spruce Wood Fence Gate
     Has Hologram: true
     Max Stack Size: -1
   SPRUCE_LEAVES:
@@ -3592,7 +3592,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   TNT:
-    Display Name: Tnt
+    Display Name: TNT
     Has Hologram: true
     Max Stack Size: -1
   TNT_MINECART:
@@ -3680,7 +3680,7 @@ Items:
     Has Hologram: true
     Max Stack Size: -1
   VINE:
-    Display Name: Vine
+    Display Name: Vines
     Has Hologram: true
     Max Stack Size: -1
   VOID_AIR:
